@@ -2,17 +2,25 @@ import os
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 from openai import OpenAI
+from dotenv import load_dotenv
+
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Get the Qdrant API key from the environment variable
 Qdrant_api_key = os.getenv('Qdrant_API_KEY')
 if not Qdrant_api_key:
     raise ValueError("No Qdrant API key found in environment variables")
+Qdrant_url = os.getenv('Qdrant_URL')
+if not Qdrant_url:
+    raise ValueError("No Qdrant URL found in environment variables")
 
 
 # Initialize Qdrant client
 try:
     Qclient = QdrantClient(
-        url="https://42695f66-c1b7-4300-8325-88f667b311ae.us-east4-0.gcp.cloud.qdrant.io:6333",
+        url= Qdrant_url,
         api_key=Qdrant_api_key
     )
     print("Successfully connected to Qdrant")
@@ -118,7 +126,7 @@ def generate_response(query):
     return completion.choices[0].message
 
 # Test the response generation
-query = "What happens if you win a point while serving?"
+query = "Can the server hit the ball anywhere?"
 relevant_chunks = retrieve_relevant_chunks(query)
 # print(relevant_chunks)
 response = generate_response(query)
