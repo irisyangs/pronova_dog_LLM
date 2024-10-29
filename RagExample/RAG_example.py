@@ -126,7 +126,7 @@ def generate_response(query):
     return completion.choices[0].message
 
 # Test the response generation
-query = "Can the server hit the ball anywhere?"
+query = "Explain the hinder rule (interference)" 
 relevant_chunks = retrieve_relevant_chunks(query)
 # print(relevant_chunks)
 response = generate_response(query)
