@@ -109,8 +109,8 @@
     },
     "zinc_poisoning.txt":{
         "source": "https://www.petmd.com/dog/conditions/toxicity/c_dg_zinc_toxicity",
-        "author": "Zinc Poisoning",
-        "topic": "PetMd Editorial",
+        "author": "PetMD Editorial",
+        "topic": "Zinc Poisoning",
         "publishDate": "02-09-2011"
     },
     "zika_virus.txt":{
