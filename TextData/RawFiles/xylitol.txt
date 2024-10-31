@@ -1,47 +1,77 @@
-Zinc Toxicity in Dogs
-Zinc is one of the most important minerals for maintaining a healthy body, but excessive zinc can be harmful and can cause toxicity. More commonly referred to as zinc toxicity, it occurs when animals ingest an exorbitant amount of zinc-containing materials. Though mostly reported in small breed dogs, zinc toxicity can affect dogs of all sizes.
+What Is Xylitol Poisoning in Dogs?
+Xylitol is a natural sugar alcohol, which is a type of carbohydrate that does not actually contain alcohol. It has a sweet taste and is often used as a sugar substitute.
 
-Symptoms and Types
-Lack of appetite
-Vomiting
-Diarrhea
-Lethargy
-Depression
-Excessive hemoglobin levels in blood
-Excessive hemoglobin levels in urine
-Jaundice
-Orange colored feces
+Xylitol, also known as birch sugar, is found in:  
+Sugar-free foods: Baked goods/desserts, peanut butter, ice cream, candy, fruit drink, drink powder, jelly/jam, cereal, pudding/Jell-O, ketchup, syrup, chewing gum, and breath mints 
+Medications: Cough drop, gummy vitamin, chewable vitamin, and prescription medication  
+Dental care products: Toothpaste and mouthwash 
+Beauty products: Shampoo, moisturizer, and deodorant 
 
-Causes
-Ingestion of zinc-containing materials, such as:
+While xylitol may be unharmful to humans, it is toxic and potentially lethal to dogs. The difference is in the way blood sugar is controlled in the body.
 
-Nuts
-Bolts
-Staples
-Nails
-Board game pieces
-Zippers
-Some toys
-Jewelry
-Pennies
-Certain lozenge brands
-Some lotions
+In both humans and dogs, blood sugar is regulated by the release of insulin from the pancreas. In dogs, xylitol triggers a large release of insulin which causes the blood sugar level to drop quickly and dangerously; this is called hypoglycemia. In humans, however, xylitol does not affect the pancreas or insulin release, so people do not experience any change in blood sugar levels.   
 
-Diagnosis
-Your veterinarian will take a detailed history of your dog, including any incident of ingestion of unusual materials which may have precipitated the symptoms. He or she will also perform a complete physical examination on the animal. Routine laboratory tests include biochemistry profile, electrolytes, urinalysis, and a complete blood count. The complete blood count may reveal anemia due to zinc-related destructions of Red Blood Cells (RBCs) with possible formation of Heinz bodies, or granules present in the red blood cells. The complete blood count may also reveal variations in red blood cells coloration known as polychromasia.
+Xylitol can also cause liver damage and even liver failure in dogs. It is unknown how this happens, but it appears to depend on how much xylitol your dog consumes.  
 
-The biochemistry profile, meanwhile, may reveal abnormally high levels of hemoglobin and bilirubin in blood. If biochemistry profile shows derangements -- like high levels of blood urea nitrogen, creatinine, liver enzymes, and pancreatic enzymes -- it will indicate multiple organ failure, which is not a good sign.
+Xylitol’s toxic effects are not yet reported in cats. Scientists, however, are not in agreement that cats are completely clear from the effects of xylitol poisoning, so for now it is best to keep xylitol products away from all your furry pets.  
 
-While examining your dog's blood, the veterinarian may also note abnormal red blood cells with an unusual dark ring surrounding a dark center known as target cells; this is associated with anemia.
+If your dog ingests xylitol, you should take it immediately to a local veterinary emergency hospital for evaluation and treatment.
 
-Due to rapid destruction of red blood cells, your veterinarian will administer a test called packed cell volume (PCV), which will calculate the number of viable red blood cells. This test is important in determining whether a blood transfusion is required.
+Symptoms of Xylitol Poisoning in Dogs
+Symptoms of xylitol poisoning in dogs are typically due to low blood sugar (hypoglycemia) and may include:  
+Vomiting  
+Weakness/Loss of balance  
+Stumbling/Lack of coordination  
+Lethargy/Depression  
+Tremors/Seizures  
+Collapse/Coma  
 
-To confirm the diagnosis, however, your veterinarian will order laboratory tests to measure the levels of zinc in your dog's blood. These tests can also help evaluate your dog's blood clotting mechanism, an indicator of zinc toxicity. In addition, X-rays are often used to confirm if your dog has ingested zinc-containing materials.
+Signs of hypoglycemia may appear as early as 30 minutes after xylitol ingestion but may be delayed up to 12 hours. If you notice any of these symptoms, and believe your dog may have ingested xylitol, contact your local veterinary emergency hospital immediately.
 
-Treatment
-To prevent further damage, removal of the object is imperative. To maintain the bodily fluid levels as well as promote urination, intravenous fluid therapy is initiated. Drugs to lower the stomach acidity and promote the release of zinc will also be instituted. In case of severe red blood destruction, blood transfusions may be required.
+Causes of Xylitol Poisoning in Dogs
+Xylitol poisoning in dogs is usually caused by accidental ingestion of a product containing xylitol which is included in many foods and household products. Therefore, xylitol poisoning relatively common in dogs.  
 
-Living and Management
-Prompt treatment is crucial in saving the life of a dog with zinc toxicity. Subsequent check-ups will be required to monitor the health of the patient and to evaluate the progress of therapy through laboratory testing.
+Xylitol is not always clearly labeled as such, so look for words such as “birch sugar” or “artificial sweetener” in a product’s ingredients list. If in doubt, call the Pet Poison Helpline or ASPCA Animal Poison Control Center for more information on a specific product, and if your pet needs treatment.   
 
-Often, the levels of zinc in the blood drop quickly once the source is removed. However, dogs with severe complications like multiple organ failure have poor chances of survival.
+One of the most common causes of xylitol poisoning in dogs is ingesting sugar-free chewing gum, which dogs may find rummaging through a bag or purse. Be sure to keep all gum securely away from your pets.   
+
+A dog only needs to eat as little as 0.045 grams/pound. (0.1gram/kilogram) to experience hypoglycemia from xylitol ingestion. Liver damage occurs at a much higher dose of 0.11 to 0.22 gram/pound (0.25 to 0.5gram/kilogram). Most chewing gums contain 0.2 to 1.0 grams of xylitol per piece, which means only one piece of gum can cause low blood sugar in a 20-pound dog, and as few as 2 to 4 pieces of gum can cause liver damage and failure.   
+
+How Veterinarians Diagnose Xylitol Poisoning in Dogs
+If you see your dog eat a product containing xylitol or suspect it may have eaten it, take your pet to a local veterinary emergency hospital immediately.
+
+The vet will ask for a thorough history of the incident, so it is very helpful to bring the packaging (or what is left of it) from the product your dog ingested. To diagnose xylitol poisoning, a vet will perform a physical exam to assess your dog’s mental and neurological status.
+
+A complete blood count, serum blood chemistry, and urinalysis are likely recommended for a baseline evaluation. This includes checking your dog’s blood sugar and baseline liver values, which will need to be monitored for the next 72 hours to ensure there is no liver damage.   
+
+Treatment of Xylitol Poisoning in Dogs
+Dogs should be treated as soon as possible for xylitol poisoning.
+
+If your dog is not showing symptoms of poisoning, and the ingestion occurred fewer than six hours prior, your vet will likely induce vomiting.   
+
+Next, the vet will try to maintain your dog’s normal blood sugar levels, which may include IV fluids with dextrose supplementation. Your dog will likely be hospitalized overnight for observation and serial blood sugar will be monitored. It may also be given a liver protectant medication.
+
+Recovery and Management of Xylitol Poisoning in Dogs
+Early diagnosis and aggressive treatment are crucial in treating xylitol poisoning in dogs. Hypoglycemia may lead to seizures and coma, and severe liver damage may lead to liver failure. Overall, the prognosis is very good for dogs with only hypoglycemia, and who are treated promptly upon ingesting xylitol.
+
+Most dogs are hospitalized for observation for 12 to 24 hours. The pet’s bloodwork is rechecked to monitor Its liver values for 72 hours after ingesting xylitol. If the liver values are normal at that time, then there should be no long-term damage.   
+
+Prevention of Xylitol Poisoning in Dogs  
+Reading product labels is one important way to prevent xylitol poisoning in dogs. Look for xylitol as an ingredient, also for products labeled as “sugar-free,” “no sugar added,” “diabetic friendly,” “reduced sugar,” or “birch sugar.” 
+
+If you are unsure about a product’s safety, don’t feed it to your pet. Peanut butter is often used as a treat or to administer medication to dogs, so be sure to select the kind that is safe for your dog.   
+
+Keep all xylitol-containing foods and household products away from your dog and in a secure place. Dogs are very clever and will find ways to get to these dangerous items.   
+
+Xylitol Poisoning in Dogs FAQs
+What is the amount of xylitol that is toxic to dogs?
+Hypoglycemia (low blood sugar) can occur if a dog ingests as little as 0.045 grams. (0.1gram/kilogram). Liver damage can occur by ingesting 0.11 to 0.22gram/pound. (0.25-0.5gram/kilogram). This means that as little as one piece of gum can cause xylitol poisoning in a 20-pound dog.
+
+How long does it take for xylitol poisoning to affect my dog?
+Xylitol is quickly absorbed, so you may see signs as early as 30 minutes, or they could be delayed for up to 12 hours. Clinical signs of xylitol poisoning in dogs include vomiting, weakness, stumbling/loss of balance, lethargy/depression, tremors/seizures, and collapse/coma.
+
+How do I know if my dog has xylitol poisoning?
+Seek emergency veterinary care if your pet has ingested a product with xylitol, or you suspect they have. Xylitol is contained in many foods and household products including baked goods, chewing gum/mint, medication, oral hygiene, and beauty products, and more. If you did not see your pet eating xylitol but notice issues such as vomiting, weakness, trouble walking, balance concerns, lethargy, seizures, collapsing, or a coma-like state, it is experiencing xylitol toxicity.  
+
+What is the most common serious illness related to xylitol exposure in dogs?
+Ingestion of xylitol can cause hypoglycemia (low blood sugar) in dogs, and at higher doses it can also lead to liver damage and even failure. The mechanism of liver damage is unknown, but it can be fatal if untreated.
