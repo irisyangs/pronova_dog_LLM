@@ -118,15 +118,15 @@ def generate_response(query):
     completion = client.chat.completions.create(
         model="gpt-4o-mini-2024-07-18",
         messages=[
-            {"role": "system", "content": "You are a helpful assistant providing information about roundnet rules."},
-            {"role": "user", "content": context_text},
+            {"role": "system", "content": "You are a helpful assistant providing information about roundnet rules. Find the answer to the following question in the given context otherwise say that you dont know the answer."},
+            {"role": "user", "content": "context" + context_text},
             {"role": "user", "content": query}
         ]
     )
     return completion.choices[0].message
 
 # Test the response generation
-query = "Explain the hinder rule (interference)" 
+query = "Can you wear cleats?" 
 relevant_chunks = retrieve_relevant_chunks(query)
 # print(relevant_chunks)
 response = generate_response(query)
