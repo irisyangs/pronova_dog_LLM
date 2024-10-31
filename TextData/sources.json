@@ -76,13 +76,48 @@
         "author": "Katie Grzyb, DVM",
         "topic": "Addison's Disease",
         "publishDate": "12-22-2021"
-    }
-    ,
+    },
     "adenocarcinoma.txt": {
         "source": "https://www.petmd.com/dog/conditions/cancer/c_multi_adenocarcinoma_skin",
         "author": "Heather Newett",
         "topic": "Adenocarcinoma of the Skin",
         "publishDate": "12-13-2021"
+    },
+    "empty.txt":{
+        "source": " ",
+        "author": " ",
+        "topic": " ",
+        "publishDate": " "
+    },  
+    "xanthine.txt":{
+        "source": "https://www.petmd.com/dog/conditions/urinary/c_dg_xanthine_stones",
+        "author": "PetMd Editorial",
+        "topic": "Xanthine Urolithiasis",
+        "publishDate": "03-20-2010"
+    },
+    "xylitol.txt":{
+        "source": "https://www.petmd.com/dog/conditions/endocrine/c_dg_xylitol_toxicity",
+        "author": "Veronica Higgs, DVM",
+        "topic": "Xylitol Poisoning",
+        "publishDate": "08-09-2022"
+    },
+    "yeast_infections.txt":{
+        "source": "https://www.petmd.com/dog/conditions/skin/yeast-infections-dogs",
+        "author": "Brittany Kleszynski, DVM",
+        "topic": "Yeast Infections",
+        "publishDate": "01-26-2024"
+    },
+    "zinc_poisoning.txt":{
+        "source": "https://www.petmd.com/dog/conditions/toxicity/c_dg_zinc_toxicity",
+        "author": "Zinc Poisoning",
+        "topic": "PetMd Editorial",
+        "publishDate": "02-09-2011"
+    },
+    "zika_virus.txt":{
+        "source": "https://www.petmd.com/dog/conditions/infectious-parasitic/zika-virus-what-we-know-and-what-we-dont",
+        "author": "Jennifer Coates, DVM",
+        "topic": "Zika Virus",
+        "publishDate": "02-15-2016"
     }
 
 }
