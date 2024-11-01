@@ -118,6 +118,66 @@
         "author": "Jennifer Coates, DVM",
         "topic": "Zika Virus",
         "publishDate": "02-15-2016"
+    },
+    "adrenal_gland_tumors.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cancer/adrenal-gland-tumors-dogs",
+        "author": "Lauren Jones VMD",
+        "topic": "Adrenal Gland Tumors",
+        "publishDate": "6-7-2022"
+    },
+    "glow_stick.txt": {
+        "source": "https://www.petmd.com/dog/conditions/poisoning-toxicity/c_dg_glow_jewelry_poisoning_in_dogs",
+        "author": "PetMd Editorial",
+        "topic": "Glow stick ingestion",
+        "publishDate": "9-24-2012"
+    },
+    "aggression.txt": {
+        "source": "https://www.petmd.com/dog/conditions/behavioral/c_dg_aggression_toward_familiar",
+        "author": "PetMd Editorial",
+        "topic": "Aggression in Dogs towards Familiar People",
+        "publishDate": "7-1-2008"
+    },
+    "ameba_infection.txt": {
+        "source": "https://www.petmd.com/dog/conditions/infectious-parasitic/c_dg_canine_amebiasis",
+        "author": "PetMd Editorial",
+        "topic": "Ameba Infection",
+        "publishDate": "10-10-2012"
+    },
+    "amphetamine_poisoning.txt": {
+        "source": "https://www.petmd.com/dog/conditions/poisoning-toxicity/c_dg_amphetamine_poisoning_in_dogs",
+        "author": "PetMd Editorial",
+        "topic": "Amphetamine Poisoning",
+        "publishDate": "9-21-2012"
+    },
+    "anaerobic_bacterial_infection.txt": {
+        "source": "https://www.petmd.com/dog/conditions/infectious-parasitic/c_dg_anaerobic_infections",
+        "author": "PetMD Editorial",
+        "topic": "anaerobic Bacterial Infection",
+        "publishDate": "12-17-2009"
+    },
+    "anal_gland_cancer.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cancer/c_multi_adenocarcinoma_anal",
+        "author": "Virginia LaMon, DVM",
+        "topic": "Anal Gland Cancer",
+        "publishDate": "11-17-2021"
+    },
+    "anaphylaxis.txt": {
+        "source": "https://www.petmd.com/dog/conditions/respiratory/c_multi_anaphylaxis",
+        "author": "Jamie Lovejoy, DVM",
+        "topic": "Anaphylaxis",
+        "publishDate": "9-30-2022"
+    },
+    "anemia_bone_marrow.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cardiovascular/c_dg_anemia_aplastic",
+        "author": "PetMD Editorial",
+        "topic": "anemia due to bone marrow failure",
+        "publishDate": "6-10-2009"
+    },
+    "anemia.txt": {
+        "source": "https://www.petmd.com/dog/conditions/systemic/anemia-dogs",
+        "author": "Lauren Jones VMD",
+        "topic": "anemia",
+        "publishDate": "9-14-2022"
     }
 
 }
