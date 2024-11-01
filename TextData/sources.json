@@ -83,12 +83,12 @@
         "topic": "Adenocarcinoma of the Skin",
         "publishDate": "12-13-2021"
     },
-    "empty.txt":{
-        "source": " ",
-        "author": " ",
-        "topic": " ",
-        "publishDate": " "
-    },  
+    "adenovirus.txt": {
+        "source": "https://www.petmd.com/dog/conditions/infectious-parasitic/c_dg_canine_hepatitis",
+        "author": "PetMd Editorial",
+        "topic": "Adenovirus",
+        "publishDate": "3-26-2010"
+    },
     "xanthine.txt":{
         "source": "https://www.petmd.com/dog/conditions/urinary/c_dg_xanthine_stones",
         "author": "PetMd Editorial",
@@ -109,7 +109,7 @@
     },
     "zinc_poisoning.txt":{
         "source": "https://www.petmd.com/dog/conditions/toxicity/c_dg_zinc_toxicity",
-        "author": "PetMd Editorial",
+        "author": "PetMD Editorial",
         "topic": "Zinc Poisoning",
         "publishDate": "02-09-2011"
     },
