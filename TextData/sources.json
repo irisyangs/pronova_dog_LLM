@@ -178,6 +178,102 @@
         "author": "Lauren Jones VMD",
         "topic": "anemia",
         "publishDate": "9-14-2022"
+    },
+    "anisocoria.txt": {
+        "source": "https://www.petmd.com/dog/conditions/eyes/anisocoria-dogs",
+        "author": "Melissa Bolden, DVM",
+        "topic": "Anisocoria",
+        "publishDate": "8-25-2023"
+    },
+    "antibiotic_resistant_bacteria_infections.txt": {
+        "source": "https://www.petmd.com/dog/conditions/endocrine/c_dg_l-form_bacterial_infections",
+        "author": "PetMD Editorial",
+        "topic": "antibiotic resistant bacteria infections",
+        "publishDate": "5-31-2010"
+    },
+    "antibiotic_resistant_infections.txt": {
+        "source": "https://www.petmd.com/dog/conditions/skin/c_dg_mrsa-antibiotic-resistant-infections",
+        "author": "PetMD Editorial",
+        "topic": "Antibiotic resistant infections",
+        "publishDate": "11-1-2012"
+    },
+    "antibody_low_temp.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cardiovascular/c_dg_cold_agglutinin_disease",
+        "author": "PetMD Editorial",
+        "topic": "Antibodies that attack blood cells at low temperatures",
+        "publishDate": "4-22-2009"
+    },
+    "anticoagulant_poisoning.txt": {
+        "source": "https://www.petmd.com/dog/emergency/digestive/e_multi_anticoagulant_poisoning",
+        "author": "PetMD Editorial",
+        "topic": "anticoagulant poisoning",
+        "publishDate": "9-19-2008"
+    },
+    "anxiety_disorders.txt": {
+        "source": "https://www.petmd.com/dog/conditions/behavioral/c_dg_compulsive_disorders",
+        "author": "PetMD Editorial",
+        "topic": "anxiety disorders",
+        "publishDate": "3-20-2009"
+    },
+    "poison_lilies.txt": {
+        "source": "https://www.petmd.com/dog/conditions/toxicity/are-lilies-poisonous-dogs",
+        "author": "Laci Schaible, DVM",
+        "topic": "Poison Lilies",
+        "publishDate": "6-17-2019"
+    },
+    "arrhythmias.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cardiovascular/c_dg_heart_trauma_arrhythmia",
+        "author": "PetMD Editorial",
+        "topic": "Arrhythmias after blunt heart trauma",
+        "publishDate": "2-23-2010"
+    },
+    "arsenic_poisoning.txt": {
+        "source": "https://www.petmd.com/dog/conditions/digestive/c_dg_arsenic_poisoning",
+        "author": "PetMD Editorial",
+        "topic": "Arsenic Poisoning",
+        "publishDate": "6-10-2009"
+    },
+    "artery_inflammation.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cardiovascular/c_dg_juvenile_polyarteritis",
+        "author": "PetMD Editorial",
+        "topic": "Artery inflammation",
+        "publishDate": "9-11-2008"
+    },
+    "ascites.txt": {
+        "source": "https://www.petmd.com/dog/conditions/cardiovascular/ascites-dogs",
+        "author": "Barri J. Morrison, DVM",
+        "topic": "Ascites",
+        "publishDate": "3-9-2023"
+    },
+    "aspiration_pneumonia.txt": {
+        "source": "https://www.petmd.com/dog/conditions/respiratory/aspiration-pneumonia-dogs",
+        "author": "Genell McCormick, DVM",
+        "topic": "Aspiration Pneumonia",
+        "publishDate": "8-29-2022"
+    },
+    "aspirin_poisoning.txt": {
+        "source": "https://www.petmd.com/dog/conditions/digestive/c_multi_aspirin_tox",
+        "author": "PetMD Editorial",
+        "topic": "Aspirin Poisoning",
+        "publishDate": "7-2-2008"
+    },
+    "ataxia.txt": {
+        "source": "https://www.petmd.com/dog/conditions/neurological/ataxia-dogs",
+        "author": "Brittany Kleszynski, DVM",
+        "topic": "Ataxia",
+        "publishDate": "6-23-2023"
+    },
+    "atlantoaxial_instability.txt": {
+        "source": "https://www.petmd.com/dog/conditions/musculoskeletal/atlantoaxial-instability-dogs",
+        "author": "Michael Kearley, DVM",
+        "topic": "atlantoaxial instability",
+        "publishDate": "4-27-2023"
+    },
+    "autoimmune_disease.txt": {
+        "source": "https://www.petmd.com/dog/conditions/immune/autoimmune-disease-dogs",
+        "author": "Michael Kearley, DVM",
+        "topic": "Autoimmune Disease",
+        "publishDate": "10-27-2023"
     }
 
 }
