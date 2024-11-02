@@ -280,6 +280,12 @@
         "author": "American Heartworm Society",
         "topic": "Canine Guidelines for the Prevention, Diagnosis, and Management of Heartworm (Dirofilaria immitis) Infection in Dogs",
         "publishDate": "7-1-2014"
+    },
+    "dogs_travelling_in_truck_beds.txt": {
+        "source": "https://www.avma.org/sites/default/files/resources/dogs_trucks_bgnd.pdf",
+        "author": "American Veterinary Medical Association Animal Welfare Division",
+        "topic": "Welfare Implications of Dogs Traveling in Truck Beds",
+        "publishDate": "7-24-2007"
     }
 
 }
