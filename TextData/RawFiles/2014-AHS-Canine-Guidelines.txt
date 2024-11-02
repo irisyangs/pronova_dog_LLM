@@ -1,0 +1,1657 @@
+Current Canine Guidelines for the
+Current Canine Guidelines for the
+Prevention, Diagnosis, 4
+and Management of ¢ #7
+BIClaNelaaaN reeeaoh | i
+Infection in Dogs
+P=
+akerUy
+HEARTWORM
+SOCIETY
+ZL
+Prevention, Diagnosis,
+and Management of
+Heartworm (Dirofilaria immitis)
+Infection in Dogs
+
+Thank You to Our Generous Sponsors:
+@ boyerveatncre Elanco a zZoetis
+Printed with an Education Grant from IDEXX Laboratories. Photomicrographs courtesy of Bayer HealthCare.
+© 2014 American Heartworm Society | PO Box 8266 | Wilmington, DE 19803-8266 | E-mail: info@heartwormsociety.org
+
+Current Canine Guidelines for the
+Prevention, Diagnosis,
+and Management of
+Heartworm (Dirofilaria immitis)
+Infection in Dogs
+(revised July 2014)
+CONTENTS
+Click on the links below to navigate to each section
+Preamble......................................................................................................................................................................3
+HIGHLIGHTS.................................................................................................................................................................3
+EPIDEMIOLOGY...........................................................................................................................................................3
+Figure 1. Urban heat island profile.
+BIOLOGY AND LIFE CYCLE.........................................................................................................................................5
+Figure 2. The heartworm life cycle.
+HEARTWORM PREVENTION......................................................................................................................................6
+Macrocyclic Lactones
+Drugs and Other Substances that Inhibit P-Glycoproteins (box)
+Reports of Lack of Efficacy
+PRIMARY DIAGNOSTIC SCREENING.........................................................................................................................9
+Test Timing for Optimal Results
+Microfilaria and Antigen Testing
+Antigen Tests
+Microfilaria Tests
+Figure 3. Acanthocheilonema reconditum and Dirofilaria immitis.
+Testing Considerations Following Noncompliance and When Changing Products
+Figure 4. The testing protocol following known Noncompliance includes three tests in the first year,
+with annual testing thereafter.
+OTHER DIAGNOSTIC AIDS.......................................................................................................................................12
+Radiography
+Figure 5. Moderate heartworm disease (radiographs).
+Figure 6. Severe heartworm disease (radiographs).
+Echocardiography
+Figure 7. Echocardiogram.
+PRE-ADULTICIDE EVALUATION...............................................................................................................................13
+2014 Canine Heartworm Guidelines
+1
+
+PRINCIPLES OF TREATMENT...................................................................................................................................13
+Table 1. Summary of Clinical Signs of Canine Heartworm Disease
+ADULTICIDE THERAPY..............................................................................................................................................14
+Melarsomine Dihydrochloride
+Pulmonary Thromboembolism
+ADJUNCT THERAPY..................................................................................................................................................15
+Steroids
+NSAIDs and Aspirin
+Doxycycline
+Figure 8. Pulmonary pathology associated with death of heartworms.
+Macrocyclic Lactones
+Figure 9. Timeline of D immitis development, showing periods of susceptibility to macrocyclic lactones and
+melarsomine.
+Macrocyclic Lactones/Doxycycline
+AHS-RECOMMENDED PROTOCOL..........................................................................................................................17
+Table 2. AHS-Recommended Protocol
+SURGICAL EXTRACTION OF ADULT HEARTWORMS............................................................................................17
+Caval Syndrome (Dirofilarial Hemoglobinuria)
+Figure 10. Echocardiogram images.
+Figure 11. Surgical removal of worms.
+Pulmonary Arterial Infections
+ALTERNATIVE THERAPIES........................................................................................................................................19
+Long-term Macrocyclic Lactone Administration
+Herbal Therapies
+CONFIRMATION OF ADULTICIDE EFFICACY...........................................................................................................19
+ELIMINATION OF MICROFILARIAE..........................................................................................................................20
+ELECTIVE SURGERIES IN DOGS WITH HEARTWORMS........................................................................................20
+
+Prepared by Dr. C. Thomas Nelson, Dr. John W.
+McCall, and Dr. Doug Carithers (Editor), and
+approved by the Executive Board of the American
+Heartworm Society (Officers: Dr. Stephen Jones,
+President; Dr. Wallace Graham, Past President;
+Dr. Cristiano von Simson, Vice President; Dr. Robert
+Stannard, Secretary-Treasurer; Dr. Doug Carithers,
+Editor; Dr. Patricia Payne, Dr. Chris Rehm, Dr. Charles
+Thomas Nelson, Dr. Martha Smith-Blackmore,
+Dr. Elizabeth Clyde, and Dr. Bianca Zaffarano, Board
+Members; Dr. Matthew Miller, Symposium Chair;
+Dr. Clarke Atkins, Symposium Co-Chair; Dr. John
+McCall, Co-Editor; Dr. Mike Loenser and Dr. Tony
+Rumschlag, Ex Officio Members.
+Preamble
+These recommendations supersede previous
+editions and are based on the latest information
+presented at the 2013 Triennial Symposium of
+the American Heartworm Society (AHS), new
+research, and additional clinical experience. The
+recommendations for the prevention, diagnosis,
+and management of heartworm infection in cats
+are contained in a companion feline document
+(http://heartwormsociety.org/veterinary-resources/
+feline-guidelines.html).
+HIGHLIGHTS
+• Diagnostics: AHS recommends annual
+antigen and microfilaria testing. (Because the
+interpretation of diagnostics has become more
+complex, please see the “Microfilaria and Antigen
+Testing” section for more complete information.)
+• Chemoprophylaxis: AHS recommends year-
+round administration of chemoprophylactic
+drugs to prevent heartworm disease, control
+other pathogenic and/or zoonotic parasites, and
+enhance compliance, the latter being particularly
+important in light of the documented presence of
+resistant subpopulations.
+• Adulticide therapy: AHS recommends use of
+doxycycline and a macrocyclic lactone prior to the
+three-dose regimen of melarsomine (one injection
+of 2.5 mg/kg body weight followed at least one
+month later by two injections of the same dose 24
+hours apart) for treatment of heartworm disease
+in both symptomatic and asymptomatic dogs.
+Any method utilizing only macrocyclic lactones as
+a slow-kill adulticide is not recommended.
+EPIDEMIOLOGY
+Heartworm infection in dogs has been diagnosed
+2014 Canine Heartworm Guidelines
+As vectors expand their territory, the number
+of animals infected will continue to increase. A
+3
+around the globe, including all 50 of the United
+States. In the United States, its territories, and
+protectorates, heartworm is considered at least
+regionally endemic in each of the contiguous 48
+states, Hawaii, Puerto Rico, U.S. Virgin Islands,
+and Guam. Heartworm transmission has not been
+documented in Alaska; however, there are regions
+in central Alaska that have mosquito vectors and
+climate conditions to support the transmission of
+heartworms for brief periods. Thus, the introduction
+of microfilaremic dogs or wild canids could set
+up a nidus of infection for local transmission
+of heartworm in this state. Such relocation of
+microfilaremic dogs and expansion of the territories
+of microfilaremic wild canids in other areas of the
+United States continue to be important factors
+contributing to further dissemination of the parasite,
+as the ubiquitous presence of one or more species of
+vector-competent mosquitoes makes transmission
+possible wherever a reservoir of infection and
+favorable climatic conditions co-exist. Change in
+any of these factors can have a significant effect on
+the transmission potential in a specific geographic
+location.
+Environmental changes, both natural climatic
+change and those created by humans, and animal
+movement have increased heartworm infection
+potential. Commercial and residential real estate
+development of non-endemic areas and areas of
+low incidence has led to the resultant spread and
+increased prevalence of heartworms by altering
+drainage of undeveloped land and by providing
+water sources in new urban homesites. In the
+western United States, irrigation and planting of
+trees has expanded the habitat for Aedes sierrensis
+(western knot hole mosquito), the primary vector
+for transmission of heartworms in those states.
+Aedes albopictus (Asian tiger mosquito), which
+was introduced into the Port of Houston in 1985,
+has now spread northward, approaching Canada,
+and isolated populations have been identified in
+areas in the western states. This urban-dwelling
+mosquito is able to reproduce in small containers,
+such as flowerpots. Urban sprawl has led to the
+formation of “heat islands,” as buildings and parking
+lots retain heat during the day (Figure 1), creating
+microenvironments with potential to support the
+development of heartworm larvae in mosquito
+vectors during colder months, thereby lengthening
+the transmission season.
+
+Rural
+Commercial
+Urban
+Residential
+Suburban
+Residential
+Downtown
+Park
+Suburban
+Residental
+Rural
+Farmland
+Figure 1. Sketch of an urban heat island profile. From http://eetd.lbl.gov/HeatIsland/HighTemps/
+pivotal prerequisite for heartworm transmission is
+a climate that provides adequate temperature and
+humidity to support a viable mosquito population,
+and also sustain sufficient heat to allow maturation
+of ingested microfilariae into the infective, third-
+stage larvae (L3) within this intermediate host. It
+has been shown that maturation of larvae, within
+three mosquito species, ceases at temperatures
+below 57˚F (14˚C). Heartworm transmission does
+decrease in winter months, but the presence of
+microenvironments in urban areas suggests that
+the risk of heartworm transmission never reaches
+zero. Furthermore, some species of mosquitoes
+overwinter as adults. While heartworm larval
+development in these mosquitoes may cease in cool
+temperatures, development quickly resumes with
+subsequent warming.
+The length of the heartworm transmission season
+in the temperate latitudes is critically dependent
+on the accumulation of sufficient heat to incubate
+larvae to the infective stage in the mosquito. The
+peak months for heartworm transmission in the
+Northern Hemisphere are typically July and August.
+Models predict that heartworm transmission in the
+continental United States is limited to 6 months or
+less above the 37th parallel at approximately the
+Virginia–North Carolina state line. While model-
+based predictions of transmission using climatic
+data are academically appealing, they typically fail
+to consider several potentially important factors,
+such as influence of microclimate, unique biological
+habits and adaptations of the mosquito vectors,
+variations in time of larval development, mosquito
+life expectancy, and temperature fluctuations.
+Predictive risk maps assume that mosquito
+4
+vectors live for only one month; however, several
+significant mosquito vectors live and breed for
+much longer periods, including Aedes albopictus
+(3 months), Aedes sticticus (3 months), Aedes
+trivittatus (2 months), Aedes vexans (2 months),
+and Aedes canadensis (several months). There are
+also documented cases of hibernating Anopheles
+quadrimaculatus surviving for 4 to 5 months, so
+the predictive risk maps likely reflect a shorter
+transmission season than actually exists.
+Survey studies of trapped mosquitoes randomly
+collected at various locations have demonstrated
+heartworm infection rates in mosquitoes ranging
+from 2% to 19.4% in known endemic areas. When
+mosquito sampling was restricted to kennel
+structures where known positive dogs were being
+housed, the infection rates of the mosquitoes in
+these restricted samplings resulted in rates of 30%
+adjacent to and 74% inside the facilities. Based
+upon these data, it is important to protect pets from
+mosquito exposure. This may be accomplished
+by environmental control measures, including
+treatment of standing water sources with insect
+growth regulators (IGRs) combined with mosquito
+adulticidal measures (sprays, CO2
+traps, etc.). In
+addition to mosquito control, keeping pets inside
+during peak mosquito hours and/or the use of
+mosquito repellants on pets may also reduce the risk
+of infection.
+Once a reservoir of microfilaremic domestic and wild
+canids is established beyond the reach of veterinary
+care, the ubiquitous presence of one or more species
+of vector-competent mosquitoes makes transmission
+possible and eradication becomes improbable.
+American Heartworm Society
+Late Afternoon Temperature
+wo
+Co
+on
+2
+m7
+
+BIOLOGY AND LIFE CYCLE
+The domestic dog and some wild canids are the
+normal definitive hosts for heartworms and thus
+serve as the main reservoir of infection. Even less
+suitable hosts, such as cats and ferrets, occasionally
+have low-level, transient microfilaremia and
+therefore, theoretically, may serve as a limited
+source of infection for mosquitoes during these short
+periods of microfilaremia.
+The life cycle of Dirofilaria immitis is relatively long
+(usually 7 to 9 months) compared with most parasitic
+nematodes (Figure 2). The susceptible mosquito
+becomes infected when taking a blood meal from
+a microfilaremic host. Microfilariae cannot develop
+into adult heartworms without first developing into
+larval stage 1 (L1) in the malpighian tubules of the
+mosquito, then molting into larval stage 2 (L2), and
+finally molting into an infective third-stage larva (L3).
+The third-stage larvae then migrate via the body
+cavity to the head and mouthparts of the mosquito,
+where they become infective. The time required for
+the development of microfilariae to the infective
+stage in the mosquito is temperature dependent.
+At 27°C and 80% relative humidity, development
+takes about 10 to 14 days; with cooler temperatures
+maturation takes longer.
+When the mosquito takes a blood meal, the infective
+larvae rupture the end of the mosquito’s labrum and
+emerge within a droplet of hemolymph (mosquito
+blood) on the skin of the host. Immediately after
+the blood meal, these sexually differentiated larvae
+enter the animal’s body via the puncture wound
+made by the mosquito’s mouthparts. Apparently
+L3 and L4 travel between muscle fibers during
+migration, whereas juveniles (immature adults)
+penetrate muscle and eventually veins, transporting
+them toward the heart and lungs. The molt from
+L3 to L4 begins as early as day 3 and ends as late
+as days 9 to 12. L4 molt to the final stage at days
+50 to 70. Immature adult (fifth stage) worms reach
+the pulmonary vasculature as early as day 67 and
+all have arrived by days 90 to 120. The first worms
+entering the pulmonary vasculature on days 67 to 85
+are 1 to 1.5 inches in length. Thereafter, adult worms
+Heartworm-infected Dog
+HEARTWORM
+aN SOCIETY”
+EST.1974
+eats j microfilariae cap, live
+AN
+Mx. °°
+ducing Microfj|
+pow
+q
+~
+YYCay,
+5
+ahaure Adult producjp,
+we7-4 years / Microfilay;
+Vey,
+Infective
+larvae
+acquire
+new host
+©2014
+American Heartworm Society
+Wilmington, DE
+Figure 2. The heartworm life cycle.
+2014 Canine Heartworm Guidelines
+5
+
+increase in length, with females increasing by almost
+tenfold, becoming sexually mature about day 120
+post infection. Dogs develop patent infections (i.e.,
+have circulating microfilariae) as early as 6 months
+but usually by 7 to 9 months after infection.
+When juvenile heartworms first reach the lungs, the
+flow of blood forces them into the small pulmonary
+arteries. As the worms grow and increase in size,
+they progressively occupy larger and larger arteries
+until they become fully mature. The eventual
+location of the mature adult worms appears to
+depend mainly on the size of the dog and the worm
+burden. A medium-sized dog (e.g., Beagle) with a
+low worm burden (i.e., ≤5) usually has worms mainly
+in the lobar arteries and main pulmonary artery.
+As the worm burden increases, worms also can be
+located in the right ventricle. Dogs with more than
+40 worms are more likely to have caval syndrome,
+where the worms maneuver into the right ventricle,
+right atrium, and the vena cavae, thus interfering
+with valvular function and/or blood flow and
+producing hemolysis, liver and kidney dysfunction,
+and heart failure.
+A clear understanding of heartworm transmission,
+development, prepatent period, and the
+susceptibility of the different life stages of the
+parasite to available pharmaceutical drugs is critical.
+This knowledge base is necessary to effectively
+select the most appropriate adulticidal treatment
+option and treatment time, and to develop realistic
+expectations for the veterinarian and client for the
+outcome of therapy.
+HEARTWORM PREVENTION
+The prescription of heartworm chemoprophylactic
+medication requires authorization by a licensed
+veterinarian having a valid relationship with the
+client and patient. To establish this relationship,
+heartworm prevention should be discussed with the
+client. If records of past treatment and testing do
+not exist, it is necessary to test the patient before
+dispensing or prescribing chemoprophylaxis.
+Options for effective chemoprophylaxis include
+several drugs administered monthly either orally or
+topically, or parenterally at 6-month intervals.
+Heartworm infection is preventable despite the
+dog’s inherently high susceptibility. Because all
+dogs living in heartworm-endemic areas are at
+risk, chemoprophylaxis is a high priority. Puppies
+should be started on chemoprophylaxis as early
+as possible, no later than 8 weeks of age. Puppies
+6
+started on a heartworm preventive after 8 weeks
+of age, or housed unprotected outdoors in heavily
+endemic areas, should be tested 6 months after the
+initial dose and annually thereafter. Before initiating
+a preventive regimen in older dogs (7 months
+of age or older), antigen and microfilaria testing
+should be performed (see PRIMARY DIAGNOSTIC
+SCREENING). This practice avoids delays in
+detecting subclinical infections and the potential
+confusion concerning effectiveness of the prevention
+program if a preexisting infection becomes
+evident after beginning chemoprophylaxis (e.g.,
+chemoprophylaxis initiated during the prepatent
+period).
+Evidence strongly suggests that by reducing
+the reservoir population through increasing the
+number of dogs receiving chemoprophylaxis, a
+disproportionately large decrease in the prevalence
+of infection among unprotected dogs may occur.
+This “collateral” protection spreads the umbrella of
+chemoprophylaxis most effectively in communities
+where heartworm prevalence and dog population
+density are both relatively low.
+Even though continuous, year-round transmission
+may not occur throughout the country, the
+administration of broad-spectrum chemoprophylactic
+products with endoparasitic and/or ectoparasitic
+activity for 12 months each year likely enhances
+compliance and may assist in preventing pathogenic
+and/or zoonotic parasitic infections.
+Macrocyclic Lactones
+The heartworm preventives currently marketed
+(ivermectin, milbemycin oxime, moxidectin, and
+selamectin) belong to the macrocyclic lactone class
+of drugs. These drugs affect microfilariae, third-
+and fourth-stage larvae, and in some instances
+of continuous use, adult heartworms. Because
+their filaricidal effect on precardiac larvae can be
+achieved by brief pulsing at very low doses, they
+have excellent therapeutic/toxic ratios. Macrocyclic
+lactones, when given according to label instructions,
+are highly effective and are among the safest
+medications used in veterinary medicine.
+All orally and topically administered macrocyclic
+lactone chemoprophylactic products are labeled for
+a 30-day dosing interval. Beyond this interval
+efficacy against late fourth-stage larvae declines and
+is unpredictable. Juvenile worms, which can be
+found as early as 52 days post infection, are even
+less susceptible to chemoprophylaxis. As worms
+American Heartworm Society
+
+age, they require progressively longer-term
+administration to achieve a high level of protection.
+The extended post-infection efficacy of macrocyclic
+lactones is a partial safeguard in the event of
+inadvertent delay or omission of regularly scheduled
+doses but does not justify lengthening the
+recommended one-month interval of administration
+for the oral and topical formulations. The extent of
+efficacy against late fourth-stage larvae and juvenile
+worms has important implications for
+chemoprophylaxis in dogs that have either missed
+doses during the transmission season, or are
+already into the transmission season before
+chemoprophylaxis is started and may already be
+infected. Continuous, year-round administration of
+heartworm preventive is critical in most, if not all,
+areas of the United States.
+Some Drugs and Other Substances
+That Inhibit P-Glycoproteins
+Antidepressants
+Fluoxetine
+St. John’s Wort
+Paroxetine
+Antimicrobial Agents
+Erythromycin
+Itraconazole
+Ketoconazole
+Opioids
+Methadone
+Pentazocine
+Some Collies and other P‑glycoprotein–deficient
+dogs are unusually sensitive to a variety of
+commonly used veterinary drugs, including
+some antidepressants, antimicrobial agents,
+opioids, immunosuppressants, and cardiac drugs
+(see sidebar). The macrocyclic lactones are also
+included in this list with toxicities being reported
+with overdosing or in combination with other
+P-glycoprotein–inhibiting drugs. These intoxications
+have occurred most often when concentrated
+livestock preparations of macrocyclic lactones are
+either accidentally ingested or overdosed because of
+human error in dosage calculation. This practice is
+an “off-label” use of the drugs and is discouraged.
+The standard chemoprophylactic dosages of all
+macrocyclic lactones have been shown to be safe in
+all breeds.
+Oral administration: Ivermectin and milbemycin
+oxime are available for monthly oral administration.
+Some formulations are flavored and chewable
+to increase patient acceptance and facilitate
+administration. Dose units are packaged for dogs
+within prescribed weight ranges. To be maximally
+effective, heartworm prophylaxis should be given
+year-round, but if seasonal treatment is chosen,
+administration should begin at least one month prior
+to the anticipated start of heartworm transmission
+and, depending on the product used, may need to
+be continued for up to 6 months after transmission
+typically ceases (see section on Lack of Efficacy).
+Topical administration: Moxidectin and selamectin
+are available as topically applied liquid formulations.
+The parameters for treatment with topical products
+are the same as for monthly oral chemoprophylaxis.
+2014 Canine Heartworm Guidelines
+Cardiac Drugs
+Verapamil
+Amiodarone
+Quinidine
+Nicardipine
+Immunosuppressants
+Cyclosporine
+Tacrolimus
+Miscellaneous
+Bromocriptine
+Chlorpromazine
+Tamoxifen
+Grapefruit juice
+(Source: http://www.vetmed.wsu.
+edu/depts-vcpl/drugs.aspx)
+Parenteral administration: A single dose of the slow-
+release (SR) formulation of subcutaneously injected
+moxidectin-impregnated lipid microspheres provides
+continuous protection for 6 months, with the
+potential to enhance compliance. Treatment every
+6 months is recommended for maximal protection.
+Reports of Lack of Efficacy
+Lack of efficacy (LOE) of a heartworm preventive
+product is considered by the Center for Veterinary
+Medicine (CVM) of the U.S. Food and Drug
+Administration (FDA) as a dog testing heartworm
+positive regardless of appropriateness of dosage or
+administration consistency. There are many possible
+reasons for reports of LOE, including failure to
+administer sufficient preventive, failure to administer
+the preventive when it should be given, failure of a
+dog to retain a dose, and failure of absorption of the
+active ingredient. There is also biological variation
+between hosts in drug metabolism and immune
+7
+
+response, and in parasite susceptibility to the drug.
+Thus, the exact cause of a reported LOE can be
+difficult or impossible to determine.
+Fortunately most LOE claims are explained by
+compliance failure, either between the clinic and
+the client or the client and the pet, rather than
+product failure. It is possible for an animal to
+become infected because of skipped or delayed
+administration of just one preventive dose,
+particularly in highly endemic areas. Such areas
+typically have warm temperatures most of the year,
+an abundance of standing water, and substantial
+mosquito populations. These endemic areas also
+have large populations of infected dogs and wild
+canids providing a reservoir of infection. Another
+consideration for LOE reports may include improved
+sensitivity of heartworm antigen tests over time
+possibly resulting in detection of more animals with
+low female worm burdens.
+When considering the possibility of resistance, it
+is generally accepted that genetic polymorphism
+has always existed in populations of heartworms
+and resistance-contributing alleles on a gene, or
+multiple genes exist that could lead to a decrease
+or loss of susceptibility to macrocyclic lactones.
+What is not known is the frequency of these
+resistance-contributing alleles, the number of genes
+involved, and whether these alleles are dominant
+or recessive in expressing the resistant phenotype.
+The phenomenon of developing resistance in a
+population is much more complex than merely the
+presence of resistant alleles in individuals. Other
+factors to consider are the distinct biology of the
+parasite, the extent of refugia (untreated population
+of hosts), the relative fitness of the wild-type
+(susceptible) and resistant genotypes in the absence
+and presence of macrocyclic lactones, the number of
+animals treated, and the drug dosage used. Product
+use under specific off-label conditions has been
+shown to genetically select for worms with relative
+resistance. These surviving worms over generations
+can become a resistant subpopulation.
+In vitro assays have identified microfilariae that are
+less susceptible to high doses of all the macrocyclic
+lactones. These microfilariae exhibit an allele
+on the P-glycoprotein gene that differs from the
+general population. Subsequent in vitro larval
+migration inhibition assays (LMIA) utilizing L3
+derived from these same isolates of microfilariae
+have demonstrated no significant difference in
+susceptibility of these propagated isolates as
+compared with known susceptible isolates. This
+suggests that either the LMIA is measuring a
+phenotype that is not associated with resistance, the
+isolates tested from these prophylaxis failures are
+not resistant, or other unknown factors are involved.
+Several published studies examined the
+susceptibility of the MP3 isolate (also referred to
+as the MP3 strain1) originally collected in northeast
+Georgia to various heartworm preventives. One
+study compared the efficacy of a single oral dose of
+ivermectin and milbemycin at standard prophylactic
+doses following an experimental infection with 50
+MP3 L3 in groups of 14 purpose-bred laboratory
+dogs. A single adult worm was recovered in both
+the ivermectin- and milbemycin-treated groups
+out of a possible 700 L3. A second study compared
+the efficacy of a single oral dose of ivermectin
+or milbemycin or a topical dose of moxidectin or
+selamectin, again at standard prophylactic doses,
+following an experimental infection with 100 L3
+in groups of 8 dogs. In this second study, 7 of 8
+dogs had 23 to 24 worms out of a possible 800 L3
+recovered from the ivermectin, milbemycin, and
+selamectin groups. No worms were recovered from
+the moxidectin group. A third study utilizing the MP3
+isolate tested three monthly doses of milbemycin
+after experimental infection with 40 L3 in 10 dogs.
+No worms were recovered in any of these 10 dogs.
+Looking at these three studies collectively, it is
+evident the MP3 isolate had decreased susceptibility
+to single monthly doses of ivermectin, milbemycin,
+and selamectin but was susceptible to three
+consecutive monthly doses of milbemycin and a
+single dose of topical moxidectin. Of greater interest
+was the 20-fold increase in number of worms
+recovered when the number of L3 injected was
+doubled. This would lead one to hypothesize that
+challenge rates could be involved in LOE and the
+problems seen in the Mississippi River Valley (MRV)
+are multifactorial. Genetically, the MP3 isolate does
+________________________________________________________________________________________________________________________
+1
+The term strain is being used to describe populations of worms being maintained in laboratories. More
+appropriately, these populations should be described as propagated isolates. These populations consist
+of numerous male and female worms, each with unique genetic makeup, undergoing sexual reproduction
+leading to production of offspring with their own unique genetic design. Strains more appropriately describe
+the result of asexually derived populations, such as bacteria.
+8
+American Heartworm Society
+
+not exhibit the same allele on the P-glycoprotein
+gene that was noted in the field isolates from
+the MRV, whose microfilariae had decreased
+susceptibility to macrocyclic lactones, suggesting
+multiple genes may be involved.
+Several in vivo studies were reported in which
+microfilariae collected from heartworm-infected
+dogs—many of which were on preventive, had
+received microfilaricidal doses of macrocyclic
+lactones and therefore were preselected for
+macrocyclic lactone resistance—were fed to
+mosquitoes. The L3 were then collected and
+subsequently injected into laboratory dogs,
+which were then placed on various preventives.
+These studies identified the presence of resistant
+subpopulations of heartworms in these dogs. Every
+compound currently marketed in every form of
+administration (oral, topical, and parenteral) was
+less than perfect in at least one study. It seems
+that although this resistance affects all macrocyclic
+lactones, differences in active ingredients, doses,
+and product formulation among the available
+preventives can result in varying rates of failures.
+Another possible factor in LOE is the host–parasite
+relationship. The exact mode of action of the
+macrocyclic lactones at preventive doses is not fully
+known. A study involving Brugia malayi, a filarial
+nematode causing lymphatic filariasis in humans,
+indicates that ivermectin disrupts the ability of the
+parasite to secrete an immunomodulating protein
+from the secretory vesicle, exposing microfilariae
+to the host immune response. This finding suggests
+that macrocyclic lactones might work in conjunction
+with the host immune system to eliminate the
+microfilariae of Brugia. A separate study, utilizing
+Dirofilaria immitis microfilariae, demonstrated
+attachment of leukocytes to microfilariae in whole
+blood in the presence of ivermectin. No such
+attachment of white blood cells to microfilariae in
+untreated whole blood was noted. Additionally,
+the investigators found no attachment of cells to
+microfilariae, in the presence of ivermectin, when no
+serum was present. In separate studies, these same
+cellular attachment tendencies have been observed
+with D immitis larvae. These data collectively lead
+us to believe ivermectin, and likely the other ML
+products, act by affecting the D immitis microfilariae
+and larvae’s ability to inhibit immune recognition,
+exposing them to immunologic clearance.
+Research is ongoing to determine the reason for
+LOE located predominantly in the MRV. Every new
+2014 Canine Heartworm Guidelines
+study adds to our knowledge base and increases our
+understanding but also produces new questions.
+The complex biology of the parasite, the effect
+of changing environmental conditions that affect
+vector populations, the dynamics of host (wild and
+domestic) populations, and even the dynamics of
+human interactions with pets are also relevant. In
+the face of the many variable factors, it is critical that
+all members of the veterinary practice ensure that
+clients understand the implications of heartworm
+infection and the risk of heartworm infection in their
+area, and that they are providing their pets with
+appropriate year-round heartworm prevention. The
+macrocyclic lactones continue to be the best and
+only option for preventing heartworm infections
+and efforts need to be intensified in increasing
+the number of dogs receiving chemoprophylaxis.
+Reminder systems need to be implemented to
+assist pet owners in purchasing and administering
+products in a timely manner.
+It is now generally accepted that isolated instances
+of resistant heartworms have been identified. The
+extent, the degree of spread, and the reasons for
+resistance are not understood and are controversial.
+All agree that owner compliance is the biggest factor
+in the “failure” of preventives. There is general
+agreement that resistance to heavy experimental
+infections is worrisome, and that the products now
+available are highly effective and should continue to
+be used as the manufacturers suggest.
+PRIMARY DIAGNOSTIC SCREENING
+Annual testing is an integral part of ensuring that
+prophylaxis is achieved and maintained. Should an
+infection be diagnosed, more timely treatment can
+be provided to minimize pathology and the potential
+selection of resistant subpopulations.
+Test Timing for Optimal Results
+Currently available heartworm antigen tests detect
+protein secreted mainly by adult female Dirofilaria
+immitis, and the most useful microfilaria tests
+concentrate microfilariae (modified Knott or filtration
+test) and allow for greater sensitivity. The earliest
+that heartworm antigen and microfilariae can be
+detected is about 5 and 6 months post infection,
+respectively. Antigenemia usually precedes but
+sometimes lags the appearance of microfilariae by a
+few weeks. Antigen may never be detected or may
+only be sporadically detected in dogs with very low
+female worm burdens. In addition, antigenemia may
+be suppressed until about 9 months post infection
+in infected dogs receiving macrocyclic lactone
+9
+
+chemoprophylaxis. To determine when testing might
+become useful, a pre-detection period should be
+added to the approximate date on which infection
+may have been possible. A reasonable interval is 7
+months. Thus, there is no need or justification for
+testing a dog for antigen and microfilariae prior to 7
+months of age.
+Microfilaria and Antigen Testing
+Whether screening a population of asymptomatic
+dogs or seeking verification of a suspected
+heartworm infection, antigen testing is the
+most sensitive diagnostic method. It is now
+recommended, however, that microfilaria testing
+be done in tandem with antigen testing. This is
+especially important if there is a high degree of
+suspicion or if the heartworm prevention history
+is unknown (e.g., dogs adopted from shelters). It
+has come to light that in some dogs infected with
+heartworms, antigen–antibody complexes may lead
+to false-negative antigen test results. These dogs
+will be antigen negative and microfilariae positive; a
+study conducted on shelter dogs in the southeastern
+United States reported this occurred at a rate of
+7.1%. It is important that these dogs are identified
+and treated to decrease the potential for selection of
+resistant subpopulations of heartworms. There will
+be instances where an infected dog is both antigen
+and microfilariae negative.
+Antigen Tests
+Enzyme-linked immunosorbent assay (ELISA) and
+immunochromatographic test systems are available
+for detecting circulating heartworm antigen. Each
+testing format has proven to be clinically useful.
+The current generation of heartworm antigen tests
+identifies most “occult” (adult worms present but no
+circulating microfilariae) infections consisting of at
+least one mature female worm and are nearly 100%
+specific. Differences in sensitivity exist especially
+in cases with low worm burdens and/or low
+antigenemia. Currently there are no verified tests
+capable of detecting infections consisting of only
+adult male worms.
+To obtain reliable and reproducible results, antigen
+tests must be performed in strict compliance
+with the manufacturer’s instructions. Accuracy
+of all heartworm tests under field conditions is
+influenced by adherence to the instructions and
+storage and handling of the test kit and sample.
+This has been simplified for several tests that use
+devices that minimize the number of steps and
+partially automate the procedure. False-negative
+10
+and false-positive results can occur. If a test result is
+unexpected, the test should be repeated. If the result
+is still ambiguous, independent confirmation by a
+reference laboratory is recommended to confirm the
+result. Concentration tests for microfilariae, thoracic
+radiography to detect signs of heartworm disease,
+or ultrasonographic visualization of worms may also
+validate weakly positive antigen test results. In cases
+of minimal exposure, it is recommended to confirm
+all positive antigen tests in asymptomatic dogs prior
+to any adulticide therapy.
+The color intensity of a positive antigen test result
+cannot reliably be used to determine the level of
+worm burden. The amount of antigen in circulation
+bears a direct, but imprecise, relationship to the
+number of mature female heartworms. A graded
+test reaction can be recognized by ELISA test
+systems, but quantitative results are not displayed
+by immunochromatographic tests. The utility of the
+ELISA tests for assessing the degree of parasitism
+is limited by confounding complications such as
+the transient increase in antigenemia associated
+with recent worm death or low antigen levels from
+infections with young adult female worms and/or
+only a few adult females. Therefore, quantitative
+analysis of antigen results is highly speculative and
+requires correlation with other relevant information.
+For example, radiographic evidence of advanced
+pulmonary arterial disease typical of chronic
+heartworm disease coupled with a low or absent
+antigenemia is consistent with the aftermath of
+a previous infection that has been cleared, either
+naturally or by treatment.
+False-negative test results occur most commonly
+when infections are light, female worms are still
+immature, only male worms are present, and/or the
+test kit instructions have not been followed. There
+are also documented cases of antigen–antibody
+complexes interfering with antigen testing, resulting
+in false-negative tests. Laboratory studies have
+shown that heating serum will break down these
+complexes, release antigen, and result in more
+accurate test results. The routine heating of blood
+samples IS NOT RECOMMENDED at this time as
+this is contrary to the label instructions for these
+tests. It also could interfere with the results of
+combination tests that include an antibody test for
+detection of other infectious agents. Due to this
+possible interference, and the other considerations
+mentioned, heartworm test results should only be
+recorded as positive or no antigen detected (NAD)
+and should not be written as “negative.” Antigen
+American Heartworm Society
+
+test results should be interpreted carefully, taking
+other relevant clinical information into consideration.
+In general, however, it is better to trust rather than
+reject positive antigen test results.
+Microfilaria Tests
+In areas where the prevalence of heartworm infection
+is high, many (~20%) heartworm-infected dogs
+may not be microfilaremic, and this figure is even
+higher for dogs on a macrocyclic lactone prevention
+program. Considering this, most microfilaremic
+dogs can be detected by microscopically examining
+a drop of fresh blood under a cover slip for
+microfilariae or cell movement caused by the
+motile microfilariae. A stationary rather than a
+migratory pattern of movement is indicative of a
+Dirofilaria species, nearly always D immitis in the
+United States. Movement beneath the buffy coat in
+a microhematocrit tube also may be visible. These
+are insensitive testing methods when low numbers
+(50–100/mL) of microfilariae are present; however,
+such patients are at a lower risk for severe reaction
+after the administration of a microfilaricide and
+are less likely to pose a threat as a reservoir of
+infection. For more accurate results a concentration
+technique (modified Knott test or filtration test)
+should be used to determine the absence or presence
+of microfilariae. The modified Knott test remains
+the preferred method for observing morphology
+and measuring body dimensions to differentiate
+D immitis from non-pathogenic filarial species, such
+as Acanthocheilonema (formerly Dipetalonema)
+reconditum.
+The modified Knott test is performed by mixing
+1.0 mL of EDTA blood with 9.0 mL of 2% formalin
+in a centrifuge tube. The tube is inverted several
+times to mix the blood with the formalin solution,
+lysing the red blood cells. The tube is then placed
+in a centrifuge, spun at 1100 to 1500 rpm for 5 to
+8 minutes, and the liquid is poured off leaving the
+sediment. A drop of methylene blue is added to the
+sediment and then the stained sediment is placed
+on a glass slide and a cover slip applied. The slide is
+examined under low power (100X) for the presence
+6 months
+oe
+Pr
+$ iS
+Ake,
+Rc
+é : Oe t ae,
+Wyse
+®, %,
+: as c
+° *,
+oe sy oy
+ag
+i ©
+Z
+e
+s
+seSA* 48 e
+hk :
+x8
+ne Age,
+3.
+Maes gh
+mee
+OO Oe “te
+le OS.
+‘
+Figure 3. Acanthocheilonema reconditum (top) and
+Dirofilaria immitis (below). Photograph courtesy of Byron
+Blagburn, PhD.
+of microfilariae. To observe the characteristics of the
+microfilariae, the slide can be examined under high-
+dry (400X). The microfilariae of Dirofilaria immitis
+are 295 to 325 microns (µm) long and have tapered
+heads. The microfilariae of Acanthocheilonema
+reconditum are 250 to 288 µm long with blunt heads
+and curved tails (Figure 3).
+All dogs should be tested for microfilariae.
+Microfilaremia validates serologic results, is
+diagnostic should a dog have antigen–antibody
+complexes (no antigen detected on antigen tests),
+identifies the patient as a reservoir of infection, and
+alerts the veterinarian to a high microfilariae burden,
+which may precipitate a severe reaction following
+administration of a microfilaricide.
+Testing Considerations Following Noncompliance
+and When Changing Products
+In instances of noncompliance or changing the brand
+or type of heartworm preventive, it is important to
+determine the heartworm status of the dog. The
+dog should be antigen and microfilaria tested prior
+to starting or changing products. A positive test
+indicates preexisting infection. The dog should
+always be retested 6 months later (Figure 4). A
+positive test at this time would most likely be due
+to an infection acquired before starting or resuming
+preventive therapy; however, in rare instances,
+an existing infection might be missed (i.e., false-
+negative test due mainly to young or low worm
+burden infection). Antigen and microfilaria testing
+should be performed on the one-year anniversary
+date of the initial test and annually thereafter.
+6 months
+1 year
+Noncompliance: Test >Test aTest aDTest
+Day 0
+Day 180
+Day 360
+annually thereafter
+Figure 4. The testing protocol following known noncompliance includes three tests in the first year, with annual testing
+thereafter.
+2014 Canine Heartworm Guidelines
+11
+
+Figure 5. Moderate heartworm disease. Radiographic images courtesy of C. Thomas Nelson, DVM.
+Figure 6. Severe heartworm disease. Radiographic images courtesy of C. Thomas Nelson, DVM.
+OTHER DIAGNOSTIC AIDS
+Additional testing methods are useful for confirming
+the diagnosis and staging the severity of heartworm
+disease.
+Radiography
+Assessment of cardiopulmonary status may
+be useful for evaluating a patient’s prognosis.
+Radiography provides the most objective
+method of assessing the severity of heartworm
+cardiopulmonary disease secondary to heartworm
+infection. Typical (nearly pathognomonic) signs
+of heartworm vascular disease are enlarged,
+tortuous, and often truncated peripheral intralobar
+and interlobar branches of the pulmonary arteries,
+particularly in the diaphragmatic (caudal) lobes
+(Figure 5). These findings are accompanied by
+variable degrees of pulmonary parenchymal disease.
+The earliest and most subtle pulmonary arterial
+changes are most commonly found in the dorsal
+12
+caudal wedge of the diaphragmatic lung lobes. As
+the severity of infection and chronicity of disease
+progress, the pulmonary arterial signs are seen in
+successively larger branches (Figure 6). In the worst
+cases, the right heart eventually enlarges.
+Echocardiography
+The body wall of adult heartworms is highly
+echogenic and produces distinctive, short parallel-
+sided images with the appearance of “equal signs”
+where the imaging plane cuts across loops of the
+parasite. Echocardiography can provide definitive
+evidence of heartworm infection, as well as allow
+for assessment of cardiac anatomic and functional
+consequences of the disease (Figure 7). It is not an
+efficient method of making this diagnosis, however,
+particularly in lightly infected dogs, because
+the worms often are limited to the peripheral
+branches of the pulmonary arteries beyond the
+echocardiographic field of view. When heartworms
+American Heartworm Society
+
+are numerous, they are more likely to be present in
+the main pulmonary artery, right and proximal left
+interlobar branches, or within the right side of the
+heart where they can be imaged easily. In dogs with
+hemoglobinuria, visualization of heartworms in the
+orifice of the tricuspid valve provides conclusive
+confirmation of caval syndrome.
+PRE-ADULTICIDE EVALUATION
+The extent of diagnostic testing necessary in the
+pre-adulticide evaluation varies depending on the
+clinical status of each patient. Selected clinical
+and laboratory tests should only be performed to
+complement information obtained from a thorough
+history, physical examination, and antigen and
+microfilaria tests. It is important to note that some
+key factors influencing the probability of post-
+adulticide thromboembolic complication and
+outcome of treatment are not easily measured with
+standard diagnostic procedures, including 1) the
+activity level of the dog, 2) the extent of concurrent
+pulmonary vascular disease, and 3) the severity of
+infection (high versus low worm burdens).
+High activity levels of the dog are one of the most
+significant factors contributing to post-adulticidal
+complications. Prior to treatment, the owner’s
+ability and willingness to properly confine treated
+dogs should be thoroughly investigated. Restricting
+activity is imperative as exercise, excitement, and
+overheating are harbingers of complications.
+Thoracic radiographs can assist in providing an
+assessment of the animal’s cardiopulmonary status
+and can be helpful in evaluating the potential
+for post-adulticide treatment complications.
+Thromboembolic disease is commonly seen in
+infected dogs exhibiting radiographic signs of severe
+pulmonary arterial obstruction, especially in those
+animals presenting with clinical signs. Regardless
+of radiographic findings, heartworms must be
+eliminated, although not necessarily immediately, in
+all patients that can tolerate the death of worms.
+The greater the number of heartworms killed
+during an adulticide treatment, the more significant
+the potential for obstructive and inflammatory
+pathology. Unfortunately, no test (or combination
+of tests) is available to accurately determine the
+number of heartworms present. Whether carrying
+low or high worm burdens, infected dogs can
+be clinically asymptomatic and have minimal
+radiographic changes. So, even with extensive
+diagnostics, predicting post-adulticide complications
+2014 Canine Heartworm Guidelines
+06/02/2004 02:43:33 AM
+ters they
+Freq.: 1.7 MHz/3.4 MHz
+Depth: 10.0 cm
+Figure 7. Echocardiogram image courtesy of Matthew Miller,
+DVM.
+is difficult. One must always assume post-treatment
+complications are likely, and every infected pet must
+be managed as though a substantial heartworm
+mass is present or a potently violent individual
+immune reaction to the dead and dying worms could
+occur.
+Historically, due to financial limitations of some
+pet owners and animal shelters, large numbers
+of adulticide treatments have been successfully
+performed without the benefit of extensive
+diagnostics. While diagnostics can be an important
+part of defining an individual’s heartworm disease
+status, each plan must be developed considering
+both the animal and individual pet owner. No set
+protocol has been established for pre-treatment
+workup and reasonable judgment should always be
+used to weigh the necessity, benefit, and extent of
+each diagnostic procedure performed.
+Adult heartworms are a grave risk to our canine
+patients. The longer they remain in an animal, the
+greater the damage to the cardiopulmonary system
+and the greater the risk of illness and death. It is
+probable that treating in the absence of diagnostics,
+while not ideal, is better than refusing to perform a
+needed treatment.
+PRINCIPLES OF TREATMENT
+Treating heartworm infections in asymptomatic
+patients or those exhibiting signs of mild disease
+usually is not problematic if exercise is curtailed.
+Infections associated with moderate or severe
+heartworm disease (Table 1) or in patients with
+concurrent disease often are challenging.
+13
+
+Table 1. Summary of Clinical Signs of Canine Heartworm Disease
+Mild
+Asymptomatic or cough
+Moderate
+Severe
+Caval Syndrome
+Cough, exercise intolerance, abnormal lung sounds
+Cough, exercise intolerance, dyspnea, abnormal heart and lung sounds, enlarged
+liver (hepatomegaly), syncope (temporary loss of consciousness from reduced
+blood flow to the brain), ascites (fluid accumulation in the abdominal cavity), death
+Sudden onset of severe lethargy and weakness accompanied by hemoglobinemia
+and hemoglobinuria
+The goals of any heartworm treatment are to
+improve the clinical condition of the animal and
+to eliminate all life stages of the heartworms
+(microfilariae, larval stages, juveniles, and adults)
+with minimal post-treatment complications. Dogs
+exhibiting significant clinical signs of heartworm
+disease should be stabilized before administering
+an adulticide. This may require administration of
+glucocorticosteroids, diuretics, vasodilators, positive
+inotropic agents, and fluid therapy.
+A thorough understanding of the host–parasite
+relationship is necessary to effectively manage all
+cases. As expected, the number of worms has an
+effect on the severity of disease; but of equal, if not
+greater, importance is the activity level of the dog.
+Controlled studies have shown that dogs infected
+by surgical transplantation with 50 heartworms and
+exercise-restricted took longer to develop clinical
+disease and developed less pulmonary vascular
+disease than dogs with 14 heartworms and allowed
+moderate activity. This was also evident in a study
+in naturally infected dogs where there was no
+correlation between the number of heartworms and
+pulmonary vascular resistance and is an indication
+that the host–parasite interaction plays a significant
+role in the severity of disease. A subsequent study
+reported similar findings in dogs being treated with
+melarsomine.
+Whereas live heartworms can cause endarteritis and
+muscular hypertrophy of arteriolar walls, primarily
+of the caudal pulmonary arteries, dying and dead
+heartworms cause a significant portion of pathology
+seen in clinical disease. As worms die from either
+natural causes or as a result of administration of
+adulticidal therapy, they decompose; and worm
+fragments lodge in the distal pulmonary arterioles
+and capillary beds in the caudal lung lobes, blocking
+blood flow. These worm fragments along with the
+14
+elicited inflammation and platelet aggregation result
+in thromboembolisms. During periods of increased
+activity or exercise, the increased blood flow to these
+blocked vessels can cause capillary delamination,
+rupture, and subsequent fibrosis. This leads to
+increased pulmonary vascular resistance and
+potentially, right-sided heart failure and illustrates
+a direct correlation between the activity level of the
+dog and the severity of disease.
+ADULTICIDE THERAPY
+Melarsomine Dihydrochloride
+Melarsomine, administered via deep intramuscular
+injection into the belly of the epaxial lumbar muscles
+(between L3 and L5), is the only adulticidal drug
+approved by the FDA. Mild swelling and some
+soreness at the injection site may be present for a
+few days, but this can be minimized by ensuring that
+the injection is deposited into the belly of the epaxial
+musculature with a needle newly changed after the
+drug is drawn into the syringe and of appropriate
+length and gauge for the size of dog and body
+condition. Strictly adhering to the manufacturer’s
+instructions for administration is imperative.
+Exercise restriction during the recovery period
+is ESSENTIAL for minimizing cardiopulmonary
+complications (see Pulmonary Thromboembolism).
+Melarsomine had not been shown to have
+activity against worms less than 4 months old;
+recent unpublished data, however, suggest that
+melarsomine may have more efficacy against
+juvenile worms than previously believed. The
+two-injection protocol with melarsomine (i.e., two
+injections of 2.5 mg/kg body weight 24 hours apart)
+listed on the product insert for treating class 1 and
+2 heartworm disease kills only about 90% of the
+adult worms. The three-dose alternate protocol (one
+injection of 2.5 mg/kg body weight followed at least
+one month later by two injections of the same dose
+American Heartworm Society
+
+24 hours apart) listed for treating class 3 heartworm
+disease kills 98% of the worms. These overall
+efficacy values reflect the percentage of worms
+killed in groups of dogs and not the percentage of
+dogs cleared of worms, which are considerably
+lower than these overall efficacy values. The
+three-dose protocol has the added advantage of
+decreased complication rates and increased safety
+as a number of the adult worms are killed with the
+first melarsomine injection and most, if not all, of
+the remaining worms are killed with the second and
+third injections.
+Staging of the disease and use of the two-dose
+protocol has failed to adequately ensure treatment
+success. Therefore, regardless of the severity of
+the disease (with the exception of caval syndrome),
+the three-dose protocol is recommended by the
+American Heartworm Society due to the increased
+safety and efficacy.
+Pulmonary Thromboembolism
+Pulmonary thromboembolism is an inevitable
+consequence of successful adulticide therapy and
+may be severe if infection is heavy and pulmonary
+arterial disease is extensive. If signs of embolism
+(low grade fever, cough, hemoptysis, exacerbation of
+right heart failure) develop, they are usually evident
+within 7 to 10 days, but occasionally as late as 4
+weeks after completion of adulticide administration.
+Mild embolism in relatively healthy areas of lung
+may be clinically unapparent. A pivotal factor in
+reducing the risk of thromboembolic complications
+is STRICT exercise restriction.
+ADJUNCT THERAPY
+Steroids
+Administration of diminishing anti-inflammatory
+doses of glucocorticosteroids helps control clinical
+signs of pulmonary thromboembolism. Whereas
+studies showed a decrease in efficacy of the
+arsenical thiacetarsamide when glucocorticosteroids
+were administered concurrently, a study showed no
+decrease in the efficacy of melarsomine when used
+in conjunction with prednisone. In highly endemic
+areas where animals are more likely to have
+significant worm burdens, glucocorticosteroids such
+as prednisone may be used. Prednisone is routinely
+dosed at 0.5 mg/kg twice a day (BID) for the first
+week and 0.5 mg/kg once daily (SID) for the second
+week, followed by 0.5 mg/kg every other day (EOD)
+for 1 to 2 weeks.
+2014 Canine Heartworm Guidelines
+NSAIDs/Aspirin
+The empirical use of aspirin for its antithrombotic
+effect or to reduce pulmonary arteritis is not
+recommended for heartworm-infected dogs.
+Convincing evidence of clinical benefit is lacking and
+there is some research suggesting that aspirin may
+be contraindicated.
+Doxycycline
+Many filarial nematodes, including Dirofilaria
+immitis, harbor obligate, intracellular, gram-negative,
+endo-symbiotic bacteria belonging to the genus
+Wolbachia (Rickettsiales). Doxycycline reduces
+Wolbachia numbers in all stages of heartworms.
+Doxycycline administration during the first or second
+month following experimental heartworm infection
+was lethal to third- and fourth-stage heartworm
+larvae. In addition, in dogs with adult infections,
+doxycycline gradually suppressed microfilaremia.
+Microfilariae ingested by mosquitoes on dogs
+treated with doxycycline developed into third-stage
+larvae that appeared to be normal in appearance and
+motility, but these larvae were not able to develop
+into adult worms, thus reducing the risk of selecting
+for resistant subpopulations.
+Wolbachia have also been implicated as a
+component in the pathogenesis of filarial diseases,
+possibly through their metabolites. Recent studies
+have shown that a major surface protein of
+Wolbachia (WSP) induces a specific IgG response
+in hosts infected by D immitis. It is hypothesized
+that Wolbachia may contribute to pulmonary and
+renal inflammation through its surface protein WSP.
+Studies have shown that experimentally infected
+heartworm-positive dogs pretreated with ivermectin
+and doxycycline prior to receiving melarsomine
+injections had less pulmonary pathology associated
+with the death of the heartworms (Figure 8).
+When incorporated into a heartworm treatment
+protocol, doxycycline should be given before
+administration of melarsomine so the Wolbachia
+organisms and their metabolites are reduced
+or absent when the worms die and fragment.
+Doxycycline is administered at 10 mg/kg BID for 4
+weeks. Doxycycline has been shown to eliminate
+over 95% of the Wolbachia organisms in the
+filarial nematode Wuchereria bancrofti, resulting
+in amicrofilaremia for 12 months. These data
+suggest the absence of Wolbachia, or at least
+very low numbers, as the organism is necessary
+for embryogenesis. In D immitis (adults and
+15
+
+Melarsomine only
+Ivermectin / Doxycycline / Melarsomine
+Melarsomine only
+Ivermectin / Doxycycline / Melarsomine
+Figure 8. Pulmonary pathology associated with the death of heartworms in experimentally infected heartworm-positive dogs
+pretreated with ivermectin and doxycycline prior to receiving melarsomine injections. Photographs courtesy of John McCall,
+PhD and Laura Kramer, DVM, PhD.
+microfilariae) data suggest Wolbachia numbers
+remain low for at least 12 months following
+doxycycline administration.
+Minocycline has been shown to be highly effective
+in eliminating Wolbachia organisms from the filarial
+nematode Onchocerca gutturosa. No published
+studies have been conducted in D immitis but
+available pharmacological data and anecdotal
+reports suggest this is a viable alternative if
+doxycycline is not available. The dosing regimen is
+the same as doxycycline.
+Macrocyclic Lactones
+It is highly probable that a heartworm-positive dog
+harbors heartworms that can range from less than 1
+month to as much as 7 years of age. The incomplete
+efficacy of melarsomine against young adult worms
+could present a problem in achieving the goal of
+eliminating all of the worms. The susceptibility gap
+between the macrocyclic lactones and melarsomine
+is demonstrated in Figure 9.
+16
+The susceptibility gap can be minimized by
+administering a macrocyclic lactone preventive
+for 2 months prior to administering melarsomine.
+This will reduce new infections, eliminate existing
+susceptible larvae, and allow older worms (2 and
+4 months of age) to mature to a point where
+they would be more susceptible to melarsomine.
+Reduction of the susceptibility gap can also be
+potentiated with concurrent use of doxycycline for 30
+days, as this will essentially eliminate all developing
+larvae during the first 60 days of infection.
+Macrocyclic lactones administered as microfilaricides
+may cause a rapid decrease in the numbers of
+microfilariae and should be used with caution in
+dogs with high microfilarial counts. Pretreatment
+with antihistamines and glucocorticosteroids will
+minimize potential reactions. Topical moxidectin is
+now FDA-approved for use in heartworm-positive
+dogs to eliminate microfilariae. No adverse reactions
+due to high microfilarial counts were observed in the
+laboratory or field studies conducted for approval of
+this label claim.
+American Heartworm Society
+ft RR
+;
+mal
+reraw
+=
+1
+'
+
+Macrocyclic lactone susceptible
+(per product labels)
+Susceptibility Gap
+$$$ >sscncccncncncnenenunenenens
+Melarsomine susceptible
+(per product label)
+>
+Adult females
+Juveniles
+eee
+3= L4
+—~
+0
+10
+20
+30
+40
+50
+60
+Days post-infection
+Figure 9. Timeline of D immitis development, showing periods of susceptibility to macrocyclic lactones and melarsomine.
+The dotted line represents the “treatment gap,” when D immitis is not considered to be susceptible to either treatment. From
+Merial Limited, Duluth, GA. ©2008. All rights reserved.
+Macrocyclic Lactones/Doxycycline
+Select macrocyclic lactones coupled with
+doxycycline individually suppress embryogenesis
+and weaken adult heartworms. As mentioned
+previously doxycycline reduces Wolbachia levels in
+all stages of heartworms. Studies have shown that
+administration of doxycycline in combination with
+ivermectin provided more rapid adulticidal activity
+than ivermectin alone as well as more efficiently
+reducing Wolbachia numbers more effectively
+than doxycycline alone. Anecdotal reports on other
+macrocyclic lactones with adulticidal properties
+suggest similar results but no confirmatory studies
+have been published.
+In cases where arsenical therapy is not possible or
+is contraindicated, the use of a monthly heartworm
+preventive along with doxycycline at 10 mg/kg BID
+for a 4-week period might be considered. An antigen
+test should be performed every 6 months and the
+dog not considered cleared until two consecutive
+NAD (no antigen detected) heartworm antigen
+tests, 6 months apart, have been obtained. If the
+dog is still antigen positive after one year, repeat
+the doxycycline therapy. Exercise should be rigidly
+restricted for the duration of the treatment process.
+AHS-RECOMMENDED TREATMENT PROTOCOL
+The AHS recommends a multimodal approach
+to treating heartworms based on the information
+presented above and depicted in the following
+example management protocol (Table 2). A
+retrospective study of clinical cases comparing the
+protocol listed in Table 2 with a similar protocol
+without doxycycline showed a decrease in
+respiratory complications and mortality rates when
+doxycycline was included.
+2014 Canine Heartworm Guidelines
+SURGICAL EXTRACTION OF ADULT HEARTWORMS
+Caval Syndrome (Dirofilarial Hemoglobinuria)
+Caval syndrome develops acutely in some heavily
+infected dogs when adult heartworms partially
+obstruct blood flow through the tricuspid valve and
+also interfere with valve closure. Severe passive
+congestion of the liver, a coarse systolic murmur
+of tricuspid regurgitation, and jugular pulsations
+are characteristic features of the syndrome. The
+diagnosis is based on a sudden onset of severe
+lethargy, dyspnea, pale mucous membranes, and
+weakness accompanied by hemoglobinemia and
+hemoglobinuria. Caval syndrome can be confirmed
+conclusively by echocardiographic visualization of
+heartworms within the tricuspid orifice and posterior
+vena cava (Figure 10). The clinical course usually
+ends fatally within 2 days if surgical extraction of the
+worms is not pursued promptly.
+Surgical removal of worms from the right atrium and
+orifice of the tricuspid valve can be accomplished
+using light sedation (may not be necessary), local
+anesthesia, and either a rigid or flexible alligator
+forceps or an intravascular retrieval snare introduced
+preferentially via the right external jugular vein. With
+fluoroscopic guidance if available, the instrument
+should continue to be passed until worms can
+no longer be retrieved (Figure 11). Immediately
+following a successful operation, the murmur
+should soften or disappear and within 12 to 24 hours
+hemoglobinuria should disappear. Fluid therapy
+may be necessary in critically ill, hypovolemic dogs
+to restore hemodynamic and renal function. Within
+a few weeks following recovery from surgery,
+adulticide chemotherapy is recommended to
+eliminate any remaining worms, particularly if many
+are still visible echocardiographically.
+17
+80//
+120
+150 180 210
+(antigen-positive)
+»
+
+Table 2. AHS-Recommended Management Protocol
+Day
+Day 0
+Treatment
+Dog diagnosed and verified as heartworm positive:
+• Positive antigen (Ag) test verified with microfilaria (MF) test
+• If no microfilariae are detected, confirm with 2nd
+Ag test from a different manufacturer
+Begin exercise restriction.
+• The more pronounced the signs, the stricter the exercise restriction
+If the dog is symptomatic:
+• Stabilize with appropriate therapy and nursing care
+• Prednisone prescribed at 0.5 mg/kg BID 1st week, 0.5 mg/kg SID 2nd week, 0.5 mg/kg
+EOD 3rd and 4th weeks
+Day 1
+Administer heartworm preventive.
+• If microfilariae are detected, pretreat with antihistamine and glucocorticosteroid,
+if not already on prednisone, to reduce risk of anaphylaxis
+• Observe for at least 8 hours for signs of reaction
+Days 1–28
+Day 30
+Day 60
+Day 90
+Day 91
+Day 120
+Day 271
+Administer doxycycline 10 mg/kg BID for 4 weeks.
+• Reduces pathology associated with dead heartworms
+• Disrupts heartworm transmission
+Administer heartworm preventive.
+Administer heartworm preventive.
+First melarsomine injection 2.5 mg/kg intramuscularly (IM)
+Prescribe prednisone 0.5 mg/kg BID 1st week, 0.5 mg/kg SID 2nd week, 0.5 mg/kg EOD
+3rd and 4th weeks.
+Decrease activity level even further.
+• Cage restriction/on leash when using yard
+Administer heartworm preventive.
+Second melarsomine injection 2.5 mg/kg IM
+Third melarsomine injection 2.5 mg/kg IM
+Prescribe prednisone 0.5 mg/kg BID 1st week, 0.5 mg/kg SID 2nd week, 0.5 mg/kg EOD
+3rd and 4th weeks.
+Continue exercise restriction for 6 to 8 weeks following last melarsomine injections.
+Test for presence of microfilariae.
+• If positive treat with a microfilaricide and retest in 4 weeks
+Establish year-round heartworm prevention.
+Antigen test 6 months after completion; screen for microfilariae.
+18
+American Heartworm Society
+
+Pulmonary Arterial Infections
+The main pulmonary artery and lobar branches can
+be accessed with flexible alligator forceps aided
+by fluoroscopic guidance. Intraoperative mortality
+with this technique is very low. Overall survival and
+rate of recovery of dogs at high risk of pulmonary
+thromboembolism is improved significantly by
+physically removing as many worms as possible
+before beginning adulticide therapy. When the
+facilities are available, worm extraction is the
+procedure of choice for the most heavily infected
+and high-risk dogs. Before electing this method of
+treatment, however, echocardiographic visualization
+of the right heart and pulmonary arteries should be
+performed to determine that a sufficient number of
+worms are in accessible locations.
+ALTERNATIVE THERAPIES
+Long-term Macrocyclic Lactone Administration
+Slow-kill methods using continuous monthly
+administration of prophylactic doses of any
+macrocyclic lactone are NOT RECOMMENDED.
+While effective in reducing the life span of juvenile
+and adult heartworms, it appears that the older
+worms are less susceptible, taking longer to die.
+The adulticidal effect of macrocyclic lactones
+has been shown to take more than 2 years of
+continuous administration before adult heartworms
+are 95% eliminated, and the timing for rigid
+exercise restriction is unknown with this approach.
+Throughout this period, the infection would persist
+and pathology would continue to progress. Another
+important concern in using macrocyclic lactones
+in monotherapy of heartworm-positive dogs as
+stand-alone therapy is the potential for selection of
+resistant subpopulations of heartworms.
+Herbal Therapies
+No “natural” or herbal therapies have been shown
+to be safe and effective prevention or treatment for
+heartworm disease.
+CONFIRMATION OF ADULTICIDE EFFICACY
+Clinical improvement is possible without completely
+eliminating the adult heartworms. Worms that
+do survive adulticide treatment are invariably the
+antigen-producing females. Most microfilaremic
+dogs with post-adulticide, female unisex infections
+become occult within 6 to 9 months, with or
+without microfilaricide treatment, and particularly
+if they were treated with doxycycline and are
+on a macrocyclic lactone preventive during and
+after adulticidal therapy. Consequently, clinical
+2014 Canine Heartworm Guidelines
+ISMALLK9A CA123
+Figure 10. Echocardiogram images courtesy of Stephen
+Jones, DVM (above) and Matthew Miller, DVM (below).
+improvement and successful clearance of
+microfilariae from the blood do not verify a complete
+adulticide effect. Recurrence of microfilaremia 6
+months later may be due to incomplete clearance
+of adult worms, maturation of immature worms
+if a preventive was not given during adulticide
+therapy, or a new infection due to a lapse in
+chemoprophylaxis.
+Heartworm antigen testing is the most reliable
+method of confirming the efficacy of adulticidal
+therapy. If all of the adult female worms have
+been killed, heartworm antigen should become
+undetectable by 6 months post treatment. However,
+this single test result does not verify that the dog is
+negative for heartworms, as larval and/or juvenile
+heartworms may be present in the dog and an
+insufficient amount of antigen is being produced by
+these young worms to elicit a positive test result.
+This is especially critical if a macrocyclic lactone was
+not administered prior to or initiated concurrently
+with adulticidal therapy. If a heartworm-positive
+dog is immediately treated with adulticide and a
+macrocyclic lactone is not given until 3 to 4 weeks
+after the last dose of adulticide, the dog should have
+19
+
+a negative antigen test 7 months after the initial dose of macrocyclic
+lactone before being considered cleared of adult worms. Since adult
+worms may continue to die for more than a month following adulticide
+administration, dogs that are still antigenemic at any time less than 6
+months post treatment should be allowed more time to clear antigen
+before retreatment is considered.
+ELIMINATION OF MICROFILARIAE
+Macrocyclic lactones administered as microfilaricides may cause a
+rapid decrease in the numbers of microfilariae and should be used
+with caution in dogs with high microfilarial counts. Pretreatment with
+antihistamines and glucocorticosteroids is advisable in the face of high
+microfilaria burdens to minimize potential reactions. Topical moxidectin
+is approved by the FDA to eliminate microfilariae. No adverse reactions
+due to high microfilaria counts were observed in the laboratory or field
+studies conducted for approval of this label claim.
+Historically, microfilaricidal treatment was usually done about 3 weeks
+to a month after adulticidal therapy, with the understanding that
+several weekly treatments were often required to completely eliminate
+circulating microfilariae. Current protocols utilizing doxycycline in
+combination with regular preventive doses of macrocyclic lactones
+have essentially eliminated the need for post-adulticidal elimination of
+microfilariae. Administration of a macrocyclic lactone should always
+begin as soon as the dog is diagnosed with a heartworm infection.
+Including doxycycline in the treatment protocol as previously described
+hastens the elimination of microfilariae.
+When elimination of microfilariae is accomplished in the course of
+heartworm chemoprophylaxis, a microfilaria test should be performed
+in adulticide-treated dogs at the time the antigen test is conducted
+6 months post treatment. Controlling the spread of heartworms
+entails decreasing the microfilaremic reservoirs of infection in the
+dog population and the benefits of doing so have been cited (see
+HEARTWORM CHEMOPROPHYLAXIS).
+ELECTIVE SURGERIES ON DOGS WITH HEARTWORMS
+Veterinarians are frequently faced with the decision whether to perform
+an elective procedure, such as a spay or neuter, on a heartworm-positive
+dog. A study has shown no increase in perioperative complications in
+heartworm-positive dogs with no to mild clinical signs of heartworm
+disease. Elective surgical procedures should be avoided in dogs
+exhibiting signs of more advanced disease, and treatment utilizing the
+protocol in Table 2 should be initiated. Surgery can then be performed 6
+months after adulticidal treatment if the dog has recovered sufficiently.
+Figure 11. Surgical removal of
+worms. Photographs courtesy of
+C. Thomas Nelson, DVM.
+AMERICAN
+HEARTWORM
+SOCIETY
+EST.1974
+20
+These guidelines are based on the latest information on heartworm disease. In keeping
+with the objective of the Society to encourage adoption of standardized procedures for
+the diagnosis, treatment, and prevention of heartworm disease, they will continue to be
+updated as new knowledge becomes available.
+American Heartworm Society
