@@ -274,6 +274,12 @@
         "author": "Michael Kearley, DVM",
         "topic": "Autoimmune Disease",
         "publishDate": "10-27-2023"
+    },
+    "canine_heartworm_guidelines.txt": {
+        "source": "https://d3ft8sckhnqim2.cloudfront.net/images/2014-AHS-Canine-Guidelines.pdf?1416409318",
+        "author": "American Heartworm Society",
+        "topic": "Canine Guidelines for the Prevention, Diagnosis, and Management of Heartworm (Dirofilaria immitis) Infection in Dogs",
+        "publishDate": "7-1-2014"
     }
 
 }
