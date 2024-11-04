@@ -1,0 +1,80 @@
+Hydrocephalus is abnormal expansion and accumulation of cerebrospinal fluid (CSF) in cavities inside the brain. CSF is the liquid that surrounds the brain and spinal cord to support and cushion those delicate tissues and also provide nutrients to keep them healthy. CSF is normally produced in cavities in the brain and is eventually absorbed by the body as it performs its essential functions.  
+In hydrocephalus, the abnormal buildup of CSF can be due to: 
+Increased production of CSF 
+Decreased absorption of CSF 
+A blockage of CSF within the brain 
+This accumulation of fluid creates pressure on the brain. Because the skull prevents the brain to expand, and as a result of the pressure, significant damage to the brain can occur, resulting in behavioral and neurological issues. Possible complications include brain herniation and even death.  
+Hydrocephalus is an extremely complex disease that veterinarians and researchers have yet to completely determine the underlying mechanisms behind. However, in general, hydrocephalus is broken down into two major types: congenital and acquired. Dogs with congenital hydrocephalus are born with the condition, while dogs with acquired hydrocephalus are born with normal brains but develop abnormal fluid accumulation over time.  
+Hydrocephalus can cause a wide variety of symptoms in dogs depending on the specific cause and area of the brain that’s affected. Some dogs are asymptomatic.  
+Symptoms may be acute or gradually progress and can include:  
+Difficulty training and decreased awareness or lack of response to stimuli 
+Visual deficits, often blindness 
+Abnormal gaze (eyes fixed down and away) 
+Seizures 
+Head pressing 
+Large, dome-shaped head, often with congenital hydrocephalus and with open fontanelles (the soft spot on the top of the skull) 
+Brain dysfunction 
+Abnormal behavior—inappropriate vocalization, over excitability, drowsiness, circling 
+Gait abnormalities 
+Increased intracranial pressure, often leading to stupor or coma 
+Congenital hydrocephalus is one of the most common types of the disease. Congenital means “born with,” but does not necessarily have a genetic cause. There are numerous malformations within the brain that can cause obstruction of the CSF. Common causes of congenital hydrocephalus are: 
+Genetic malformation 
+Prenatal infection (often due to the parainfluenza virus) 
+Exposure to substances that are toxic to a developing fetus 
+Brain hemorrhage secondary to a difficult birth 
+Prenatal vitamin deficiency 
+Unfortunately, veterinarians cannot always determine a cause of congenital hydrocephalus. Veterinarians do, however, commonly diagnose congenital hydrocephalus with other malformations such as:  
+An abnormality of the skull and vertebra at the base of the skull creating inadequate space for the brain to function 
+An underdeveloped part of the brain called the cerebellum associated with cyst formation and subsequent fluid accumulation 
+Abnormal cavities within the spinal cord 
+A type of spina bifida 
+Certain cysts within the nervous system 
+Acquired hydrocephalus results when a previously normal brain develops an obstruction and subsequent dilation with CSF. Causes of acquired hydrocephalus include:  
+Tumors 
+Infection 
+Trauma 
+Brain hemorrhage 
+Inflammatory brain disease 
+A vet may suspect hydrocephalus based on a physical exam alone. The veterinarian will examine the dog’s appearance and interactions with and response to stimuli. A dog with an enlarged dome-like head, open fontanelle (soft spot on the skull), and eyes positioned down and out are often evaluated for hydrocephalus.  
+X-Ray 
+The vet may take x-rays to view your dog’s skull, and to determine if there are open plates and other signs suggesting hydrocephalus.  
+Ultrasound 
+If your dog has an open fontanelle, the vet may perform an ultrasound to visualize the dilated chambers within the brain.  
+CT and/or MRI 
+These imaging tests can provide a definitive diagnosis of hydrocephalus because they provide crucial information about internal brain structure and function that cannot be determined other ways. 
+In some instances, the vet may also perform electroencephalography (EEG), which detects electrical activity in the dog’s brain and a cerebrospinal fluid analysis, which measures chemicals in the dog’s spinal fluid.
+Treatment of hydrocephalus involves addressing the underlying cause. Not all forms of hydrocephalus return to a “normal” state, but the goal is to stop progression of disease. Age, severity, and severity of symptoms all play a role in developing a treatment plan for a dog with hydrocephalus.  
+Medicine to decrease production of cerebral spinal fluid is often the first treatment option, especially in dogs with mild to moderate disease. The most common medicine used to accomplish this are:    
+Steroids such as prednisolone and dexamethasone 
+Diuretics such as furosemide 
+Proton-pump inhibitors such as omeprazole 
+In severe cases or those that don’t respond to medications, the vet may suggest neurosurgery as a treatment option. Surgery typically involves implanting a shunt to remove fluid from the brain and relocating it to another location in the body, usually the abdominal cavity. Surgery has a 50% to 90% success rate in animals with hydrocephalus. 
+If a dog is having seizures, the vet may administer valium and then prescribe other treatments such as antibiotics, surgery, or steroids, once the dog is stable.  
+Long-term medical management of hydrocephalus with steroids and diuretics may lead to Cushing’s disease and electrolyte imbalances. It is important to maintain the recommended follow-up maintenance exams with the vet to closely monitor your dog’s health.  
+Dogs who have surgery to place a shunt may require additional procedures to address blockages in the shunt.  
+Dogs with mild cases of hydrocephalus may lead normal lives with minimal medical intervention. However, more severe cases can have a poor prognosis as the disease progresses and can eventually lead to brain herniation, seizures, and even death. In general, approximately 50% of the animals respond favorably to treatment, both medical and surgical.  
+The prognosis for dogs with hydrocephalus ranges from good to poor, depending on age, location, and severity of symptoms. Approximately 50% of dogs respond well to treatment.
+Some forms of hydrocephalus are genetic.
+Not all puppies have clinical signs associated with hydrocephalus but once they do have signs it is unlikely they will outgrow or lessen in severity without treatment.
+No, but hydrocephalus can be managed with surgery and medication.
+Medical management can be very cost-effective and inexpensive. Surgery requires veterinary specialists and can cost between $4,000 to $10,000 for surgery and intensive care before and after.
+ 
+
+Biel M, Kramer M, Forterre F, et al: Outcome of ventriculoperitoneal shunt implantation for treatment of congenital internal hydrocephalus in dogs and cats: 36 cases (2001-2009). J Am Vet Med Assoc 2013 Vol 242 (7) pp. 948-58. 
+
+
+
+
+Schmidt MJ, Hartmann A, Farke D, et al: Association between improvement of clinical signs and decrease of ventricular volume after ventriculoperitoneal shunting in dogs with internal hydrocephalus. J Vet Intern Med 2019 Vol 33 (3) pp. 1368-1375. 
+
+
+Featured Image: iStock.com/Petko Ninov
+
+Biel M, Kramer M, Forterre F, et al: Outcome of ventriculoperitoneal shunt implantation for treatment of congenital internal hydrocephalus in dogs and cats: 36 cases (2001-2009). J Am Vet Med Assoc 2013 Vol 242 (7) pp. 948-58. 
+Schmidt MJ, Hartmann A, Farke D, et al: Association between improvement of clinical signs and decrease of ventricular volume after ventriculoperitoneal shunting in dogs with internal hydrocephalus. J Vet Intern Med 2019 Vol 33 (3) pp. 1368-1375. 
+Featured Image: iStock.com/Petko Ninov
+WRITTEN BY
+Veterinarian
+Dr. Lauren Jones graduated from the University of Pennsylvania School of Veterinary Medicine in 2010, after receiving her bachelor's degree...
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.

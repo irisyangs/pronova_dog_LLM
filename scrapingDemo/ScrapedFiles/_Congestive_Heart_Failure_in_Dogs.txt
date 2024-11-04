@@ -1,0 +1,64 @@
+Congestive heart failure (CHF) is a condition in which fluid builds up (congests) due to the heart’s reduced ability to pump blood efficiently throughout the body.
+A damaged heart may struggle to pump blood, which can cause blood to back up in the lungs that can lead to fluid accumulating in the chest, abdomen, or both, depending on the type of CHF.
+A dog’s heart consists of a right and left side, as it does in people. The right side is responsible to receive oxygen-poor blood from the body and transport it to the lungs where it receives oxygen. The left side is responsible for pumping the oxygen-rich blood back out to the body to nourish the tissues.
+CHF can be described as right-sided or left-sided:
+The risk and progression of CHF in dogs is classified by stages similar to the way it is categorized for humans with CHF. The stages run from an initial risk for developing CHF but not showing any symptoms (Stage A) to severe symptoms (Stage D).
+Symptoms of CHF in dogs can be one or more of the following clinical signs:
+Coughing, sometimes even coughing up foam
+Difficulty breathing
+Increased rate of breathing, even when resting
+Inability to exercise
+Fatigue, lethargy and weakness
+Cyanotic (blue) gums 
+Distended abdomen
+Collapse or sudden death
+Seek an emergency vet immediately if your dog is experiencing any signs of respiratory distress or trouble breathing. Your dog may need hospitalization and immediate care when experiencing moderate to severe signs of congestive heart failure.
+There are many possible causes of congestive heart failure in dogs but the most common is myxomatous mitral valve disease (MMVD), also called chronic mitral valve disease, degenerative mitral valve disease, mitral insufficiency, or endocardiosis.
+The mitral valve, also known as the bicuspid or left atrioventricular valve, is on the left side of the heart and acts as the doorway between the left atrium and the left ventricle. MMVD occurs when the doorway fails to close, which results in blood leaking through this valve. Over time, it results in left-sided congestive heart failure due to a decreased ability for the left side of the heart to pump oxygen-rich blood to the body. The cause of mitral valve disease is unknown, but there does seem to be a strong genetic component. Many small-breed dogs have a genetic predisposition for mitral valve disease as a cause of congestive heart failure. 
+In large-breed dogs, the most common inherited form of heart disease is dilated cardiomyopathy (DCM), characterized by the heart muscle becoming weak and unable to properly contract. This causes the heart to dilate. Some examples of dogs predisposed to DCM include Doberman Pinschers, Boxers and Great Danes.  
+Other causes of CHF in dogs include:
+Heart valve disease
+Defects or holes in the walls of the heart (ventricular septal defect) 
+Congenital cardiac defects (patent ductus arteriosus, pulmonic stenosis and aortic stenosis) 
+Accumulation of fluid in the sac around the heart (pericardial effusion) 
+Heartworm disease 
+Arrhythmias (irregular heartbeat) 
+Increased blood pressure 
+Infection (endocarditis) 
+Tumors (chemodectoma, lymphoma and hemangiosarcoma) 
+Diagnosing congestive heart failure will start with listening to the heart and lungs with a stethoscope. Most dogs will have a heart murmur which will be graded in severity from 1 to 6.  
+Grade 1: Very soft murmur, often difficult to hear 
+Grade 2: Soft murmur but readily heard
+Grade 3: Moderately loud murmur
+Grade 4: Loud murmur
+Grade 5: Very loud murmur that can be heard with the stethoscope, barely touching the chest. The vet can feel a vibration through the chest wall over the heart (palpable thrill)
+Grade 6: Very loud murmur that can be heard with the stethoscope of the chest (not touching the skin). The vet can feel a vibration through the chest wall over the heart (palpable thrill) 
+If your veterinarian suspects CHF, he or she will likely want to perform a chest X-ray/radiograph to check for heart enlargement or evidence of fluid on the lungs (pulmonary edema). Electrocardiogram (ECG or EKG) may also be used to assess the rate and rhythm of the heart.
+At this point, your veterinarian may refer you to a veterinary cardiologist for more specialized testing such as an echocardiograph or ultrasound of the heart. An echocardiograph is the most useful tool to identify the source of a murmur, the likely cause of CHF, and a measurement of the heart’s ability to pump blood.
+Your vet will likely recommend treating both the underlying heart disease (if possible) as well as any fluid accumulation. An underlying cause such as heartworm disease may be treatable, but in most cases the cause of congestive heart failure cannot be cured; it can only be managed.
+The specific medication used to treat CHF in dogs will vary depending on the underlying cause and severity. Your veterinarian or cardiologist will determine the appropriate drugs, dosages and frequency, and should be consulted before any changes.  
+The mainstay of congestive heart failure treatment medically is typically diuretics (water pills). Diuretics decrease the fluid accumulation in the lungs, abdomen or legs, depending on the initial cause of heart failure.
+Pimobendan is another commonly used medication in the treatment of CHF. This drug improves the ability of the heart to contract, increases pumping action, opens blood vessels and reduces the amount of work the heart has to do to perform.
+In treating myxomatous mitral valve disease and dilated cardiomyopathy, Pimobendan has been shown to delay the onset of heart failure and increase overall survival time, when started before symptoms appear (stages A and B CHF).  
+Other medications that can be useful in CHF may include Digoxin, Diltiazem, Angiotensin-converting Enzyme (ACE) inhibitors, beta-blockers, and calcium channel blockers. Your dog will likely be placed on a combination of medications — tailored by your veterinarian—to address their specific CHF and underlying heart disease.  
+Dogs with left-sided heart failure, or those with significant fluid in the lungs, may not be able to get enough oxygen from their lungs to their blood stream. In such cases, a dog may benefit from oxygen supplementation.
+Your dog may be placed in an oxygen cage, or provided oxygen via tube through the nose. Alternatively, direct airflow toward the face may be provided (called “flow by” oxygen).
+In severe cases, a dog may need to be intubated (placing a tube down the trachea) to administer oxygen or even mechanical ventilation (having a machine breathe for them), but this is associated with a poor prognosis. 
+Nutritional management and diet may be used in addition to medical therapies. Nutrition tailored to your dog’s underlying heart condition may help slow the progression of heart disease and improve quality of life. Nutritional goals, diet recommendations and supplements should always be discussed with your primary veterinarian, veterinary cardiologist or potentially a veterinary nutritionist.  
+Specific dietary supplements such as fish oil/omega fatty acids, taurine and L-carnitine may be considered to decrease inflammation, help manage arrhythmias and improve heart function.  
+Other recommendations may include weight management, maintaining muscle mass and eating a balanced diet. Again, your veterinarian, cardiologist, and/or veterinary nutritionist should be consulted prior to any diet changes or addition of any supplements.
+Recovery and management will vary based on the cause of the CHF and should be tailored to your specific dog by your veterinarian and/or veterinary cardiologist. However, most dogs will be able to enjoy a moderate level of exercise and activity without strict restrictions.  
+One important aspect of at-home care in left-sided congestive heart failure patients is monitoring the respiratory rate, which is the number of breaths per minute. The respiratory rate can indicate the level fluid accumulation in the lungs and help determine if you need to see your veterinarian.
+As a rule of thumb, a dog at rest should have a respiratory rate of less than 30 breaths per minute. Be sure to count in and out as one breath and be sure the dog is at rest or sleeping when you count. Do not try to count its respiratory rate immediately after physical activity.  
+Your veterinarian will also monitor periodic chest X-rays to assess the heart size as well as any evidence of fluid in the lungs. Blood work, including kidney values and electrolytes, will likely be recommended every 3-6 months to ensure your pet is tolerating the heart medication. The veterinary cardiologist will likely want to recheck an echocardiogram every 6-12 months to assess changes in the heart and make adjustments in medication as needed.  
+There is no cure for congestive heart failure in dogs, but with diligent management and daily medications, your dog can have a good quality of life and likely extend its survival time. However, once stage D congestive heart failure develops, the median life range is nine months.
+Once congestive heart failure develops, survival time in dogs is expected to be between 6 to 14 months at stage C. Early detection and proper medical care are keys to improving a dog’s prognosis.
+Stage D is referred to as “end-stage” disease. In this final stage, a pet will typically have severe symptoms of disease that unfortunately no longer respond to medications or other treatments. These symptoms include cough and coughing up foam, difficulty breathing, increased respiratory rate/effort even when resting, inability to exercise, fatigue/lethargy/weakness, cyanotic (blue) gums, distended abdomen, and collapse/sudden death.
+The pet parent should take their dog to the local emergency vet immediately if congestive heart failure or respiratory distress is suspected. 
+Dogs in congestive heart failure typically do not display obvious signs of pain. However, humans in congestive heart failure have described chest pain as a factor, so it’s possible dogs also experience some discomfort. Seek veterinary care if you feel your pet is in pain.
+Featured Image: iStock.com/AnnaStills
+WRITTEN BY
+Veterinarian
+Dr. Veronica Higgs is a 2010 graduate from Auburn University College of Veterinary Medicine.  She then completed a 1-year rotating...
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.

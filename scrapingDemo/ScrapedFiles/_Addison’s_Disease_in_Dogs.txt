@@ -1,0 +1,52 @@
+Addison's disease in dogs (also called hypoandrenocorticism) occurs when your dog's adrenal glands aren't producing adequate levels of corticosteroid hormones. If diagnosed and treated appropriately, these dogs can live a long, happy life.
+The adrenal glands are two small glands next to the kidneys. The glands are responsible for producing corticosteroid hormones, including the so-called “stress” hormones. The different types of corticosteroids are: 
+Glucocorticoids (such as cortisol): Affect protein, sugar, and fat metabolism. These metabolites are stored and will be used in “fight or flight” situations 
+Mineralocorticoids (such as aldosterone): Help control sodium and potassium. 
+When animals (and humans) are under stress, the adrenal glands are stimulated to produce stress hormones that may cause a range of internal and behavioral effects. In dogs, a stress response can look like: 
+Compulsively climbing the stairs 
+Pacing and visibly anxious 
+Interactions with other dogs 
+Excitement when you come home from work 
+In a dog with Addison’s disease, the adrenal glands don’t produce enough hormones to maintain normal stress levels. Without our corticosteroid hormones to help us adapt to stressful situations, even the tiniest of stressors can cause serious issues and in severe cases, death.  
+Addison’s disease can be hard to detect by signs alone. Most commonly, Addison's disease is diagnosed as an accidental finding when annual blood work is performed and your vet finds an electrolyte imbalances. Your veterinarian may become suspicious if your dog has waxing and waning signs of lethargy, decreased appetite, vomiting, and diarrhea.  
+Approximately 30% of dogs with Addison’s disease are diagnosed after experiencing an Addisonian crisis. An Addisonian crisis occurs when a dog collapses in shock from the inability to adapt to external or internal stressors. This can lead to severely elevated potassium levels, which can cause abnormal heart rhythms and a very slow heart rate. Addison’s disease can also cause severe hypoglycemia (dangerously low blood sugar).  
+An Addisonian crisis can only occur when about 90% of the adrenal cortex (the outer layer of the adrenal gland) is not functioning. This crisis can be fatal if shock is not treated quickly, aggressively, and appropriately. 
+There are two types of hypoadrenocorticism: 
+Primary hypoadrenocorticism: This occurs when your dog’s immune system attacks the adrenal glands. Drug-induced necrosis (or death) of the adrenal gland is possible also with medications such as ketoconazole, trilostane, and lysodren.  
+Secondary hypoadrenocorticism: This may occur when the releasing hormones produced in the brain are decreased. This can be caused by inflammation, cancer, brain trauma, or congenital abnormalities. 
+Dogs with Addison’s disease are usually young (most commonly around three to six years old), though any age can be affected. Typically, female dogs are affected more often than male dogs. The most common breeds with Addison’s disease include: 
+West Highland White Terriers 
+Great Danes 
+Basset Hounds 
+Portuguese Water Dogs 
+Airedale Terriers 
+Standard poodles 
+Bearded collies  
+Please keep in mind that any dog of any breed or age can be affected. 
+There are a couple of different ways that vets diagnose Addison’s disease, including getting a thorough medical history, thorough physical examination, full blood work, and an ACTH stimulation blood test (a test that investigates low cortisol). If the dog responds well to the treatment of shock with intravenous fluids and steroid administration, the veterinarian may suspect Addison’s disease as an underlying cause of the shock. 
+Full blood work can reveal elevated potassium and low sodium levels. Atypical, or unusual, Addison’s disease does not reveal these electrolytes changes on blood work and is considered a different type of Addison’s disease. Sometimes azotemia (or elevated kidney enzymes) can mimic kidney disease, while in less common instances, the blood sugar may be low, which can mimic a pancreatic tumor (called an insulinoma).  
+The primary test used to diagnose Addison’s disease is the ACTH test. The test starts with drawing a blood sample to measure the baseline cortisol (stress hormone) level, followed by administration of an intravenous dose of ACTH, the brain hormone that is responsible for releasing corticosteroids in times of stress.  
+One hour later, another blood sample is drawn to measure how your dog responded to ACTH. If your dog’s baseline cortisol is low and there is minimal response to the stress hormone, Addison’s disease can be diagnosed. 
+Baseline cortisol levels are sometimes checked in emergency situations. If they are low, a full ACTH stimulation blood test may be given when the dog is more stable. Sometimes, an abdominal ultrasound is performed to identify small adrenal glands.  
+Other blood tests can include urine cortisol creatinine ratio, endogenous plasma ACTH levels, and plasma renin levels (tests focusing on the dog’s plasma levels). Usually, these non-Addison’s disease patients will have a normal ACTH stimulation test. 
+Dog breeds originating from the Pacific Rim (such as Shiba Inus and Akitas) usually have elevated potassium levels on blood work. Keep in mind that whipworm infection can falsely raise potassium and drop sodium levels, which may cause confusion when diagnosing Addison’s disease.  
+In an Addisonian crisis, treatment focuses on aggressive intravenous fluid therapy and injectable steroids. Treatment of hypoglycemia (low blood sugar) and/or abnormal heart rhythms might also be necessary. Most dogs respond quickly to treatment and tend to make a complete recovery. 
+The most important part of Addison’s treatment is replacing the mineralocorticoids (like aldosterone, which is the steroid hormone). This can be done through administering oral medication (fludrocortisone) twice daily or with an injection of DOCP (desoxycorticosterone pivalate) approximately every 25-30 days. Depending on your pet’s diagnosis, you will be able to determine a treatment plan with your veterinarian. 
+If your dog is prescribed fludrocortisone, it has both glucocorticoid and mineralocorticoid activity. In contrast, dogs receiving the injectable DOCP require additional glucocorticoid supplementation (such as oral prednisone), since it only has mineralocorticoid activity.  
+Some experts believe that DOCP better regulates electrolytes than oral fludrocortisone, but it usually comes down to preference of each veterinarian and what formulation is best for the dog. For example, some dogs do not do well with injections, while others are more difficult to orally medicate. Your vet will be able to determine what works best for your dog based on their diagnosis.  
+Electrolyte blood testing and ACTH stimulation testing are usually performed at different intervals after starting therapy, typically on day 10, day 30, and day 90. Mineralocorticoid medication usually gets adjusted after electrolyte levels are stable. Levels will be monitored a few times a year to ensure it’s the correct level for the dog.  
+If your dog is under extra stress, glucocorticoid dosing can be increased. For example, veterinary visits, car rides, pet parents going out of town, or other activities can cause stress to Addisonian dogs. Increasing the dose of steroids for a short time may help prevent lethargy, vomiting, diarrhea, and especially an Addisonian crisis.   
+Dogs going through an Addisonian crisis are typically treated with intravenous fluid therapy to correct electrolyte disturbances, steroids, and medications to correct abnormal heart rhythms. This treatment usually leads to a good chance of recovery and dogs tend to respond quickly.   
+Management of Addison’s disease is lifelong. Blood work monitoring may be frequent at the start of treatment and over the first three to six months while your veterinarian is determining the best medication dosing intervals. Most dogs with Addison’s disease do well after they’re diagnosed and live a long, happy life.  
+No, Addison’s disease does not go away on its own, medications are necessary to stabilize dogs diagnosed with this condition.
+Addison’s disease is fairly common in dogs but it’s not as common as Cushing’s disease, which is basically the opposite of Addison’s disease where the body overproduces steroid and cortisol.
+If diagnosed and treated with appropriate medications, a dog can live a full lifespan in the face of an Addison’s diagnosis. If an Addisonian crisis occurs and is left untreated, it can be fatal. 
+In most cases we don’t know the cause of Addison’s disease in dogs. It’s considered a primary immune mediated condition but can also occur secondary to certain medications, infections, trauma, or cancers of the adrenal glands.
+Unfortunately, we do not know the cause of atypical Addison’s in dogs. This is a condition where a dog can control their electrolyte imbalances through other hormones. In these cases, only glucocorticoids need to be supplemented. These dogs can have all the same symptoms as a typical Addisonian dog but don’t have the shock crisis. The recommendation for an atypical Addisonian patient is to monitor electrolytes every three to six months as most of these dogs eventually progress to the typical form of the disease. 
+ACTH stimulation testing is typically the test of choice to rule out Addison’s disease. This can be done at most vet offices and all specialty and emergency facilities. The blood samples are sent to a laboratory to complete the testing and return results back to your vet’s office.
+Featured Image: iStock.com/bradleyhebdon
+WRITTEN BY
+Veterinarian
+Dr. Katie Grzyb received her Doctorate of Veterinary Medicine from Ross University in 2009. She continued her clinical training at...
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.

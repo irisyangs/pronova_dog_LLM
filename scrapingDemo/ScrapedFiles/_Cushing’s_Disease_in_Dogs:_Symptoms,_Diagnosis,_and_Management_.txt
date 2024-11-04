@@ -1,0 +1,58 @@
+Cushing’s disease—also known as hypercortisolism and hyperadrenocorticism—is a serious disease that typically affects middle-aged and senior dogs. It can be serious if left untreated.
+Here’s what you need to know about Cushing’s disease in dogs—from types and symptoms to treatment and care.
+Health Tools
+Answer a few questions about your pet's symptom, and our vet-created Symptom Checker will give you the most likely causes and next steps.
+
+Answer a few questions about your pet's symptom, and our vet-created Symptom Checker will give you the most likely causes and next steps.
+Cushing’s disease, also referred to as hyperadrenocorticism, is an endocrine disorder that is common among middle-aged and senior dogs.
+Cushing’s in dogs results from overproduction of the cortisol hormone and can lead to various unwanted symptoms and behavior changes, including excessive panting or changes in eating and drinking.  
+Cushing’s disease involves the pituitary and adrenal glands. The pituitary gland is located at the base of the brain and is about the size of a pea. It produces the adrenocorticotropic hormone (ACTH) and releases it into the bloodstream to stimulate the adrenal glands to produce additional hormones.
+These tiny glands are situated on top of the kidneys and produce a steroid hormone called cortisol, which helps dogs cope with stress and regulates many body functions.
+When enough cortisol is produced, the adrenal glands normally signal back to the pituitary gland to stop producing ACTH. However, in dogs with Cushing’s disease, this feedback mechanism is faulty, and the adrenal glands continue producing cortisol even when it’s not needed.  
+Cushing’s disease in dogs can be categorized into two types—pituitary-dependent and adrenal-dependent. There are several important differences between the two types.
+Pituitary-dependent hyperadrenocorticism is the more common of the two and results when a slow-growing, benign mass develops on the pituitary gland. Hormones are produced by this mass, which continually stimulate the adrenal glands. This results in enlargement of both adrenal glands. Advanced imaging, such as a CT or MRI, is needed to diagnose a pituitary mass.
+Adrenal-dependent hyperadrenocorticism occurs when a mass, which can be either benign (non-cancerous) or malignant (cancerous), grows on one of the adrenal glands. The mass produces too much cortisol. With this type, the affected adrenal gland is enlarged while the unaffected gland remains normal in size. An abdominal ultrasound or a CT scan is used for diagnosis.
+Cushing’s disease alters a dog’s behavior due to high cortisol levels. Affected dogs usually eat more (appear to always be hungry), drink more (appear to be excessively thirsty), and urinate large amounts more frequently. Additional symptoms of Cushing’s disease in dogs may include:
+Panting
+Weight loss
+Lethargy
+Potbelly appearance
+Thin skin
+Hair loss
+Skin infections
+Calcified skin (hardened tissue growth or hard lumps underneath the skin)
+The most common cause of Cushing’s disease in dogs is a pituitary gland adenoma. This is a benign tumor that grows slowly and secretes ACTH, which stimulates the adrenal glands to produce cortisol.
+Less commonly, an adrenal gland mass—either a (benign) adenoma or a (cancerous) carcinoma—develops and secretes excess cortisol.
+Dogs who receive corticosteroids, such as prednisone, to treat another medical condition, such as an autoimmune disease or allergies, may develop iatrogenic Cushing’s disease.
+Iatrogenic Cushing’s means that the medication is actually causing the symptoms of Cushing’s disease rather than a pituitary or adrenal gland tumor causing the disease.
+Since cortisol is considered a steroid hormone, prednisone affects the body in a similar way. Symptoms are typically reversible by discontinuing the medication, under the supervision of a veterinarian.
+Certain breeds, including Poodles, Yorkshire Terriers, and Dachshunds, may be predisposed to Cushing’s disease due to genetics.
+A veterinarian will start with a physical exam and will speak with you about what symptoms are present and when they started. It’s important to mention if your dog is currently taking any medications. If the veterinarian suspects Cushing’s disease, diagnostic testing can be done.
+Two main tests are used to diagnose Cushing’s disease in dogs:
+First, a sample of blood is drawn to measure resting cortisol levels. Then, a drug called dexamethasone (a corticosteroid) is administered into the dog’s muscle or vein and additional blood samples are collected after four and eight hours to measure cortisol levels again.
+Normally, cortisol would be suppressed after eight hours, but in dogs with Cushing’s disease, cortisol remains increased. This is the preferred testing method and is typically the least expensive option.
+A blood sample is drawn to measure resting cortisol levels. Then ACTH is administered into the dog’s muscle. One hour later, blood is drawn again to measure cortisol levels. In dogs with Cushing’s disease, cortisol is increased in both samples.
+To differentiate pituitary-dependent from adrenal-dependent Cushing’s disease, additional tests may be done, including:
+High-dose dexamethasone suppression test: This test is exactly the same as the low-dose dexamethasone suppression test except that a higher dose of dexamethasone is given to the dog. Dogs with pituitary-dependent Cushing’s disease typically have suppression of cortisol after eight hours, whereas dogs with adrenal-dependent Cushing’s disease do not.
+Imaging: Abdominal ultrasound, CT, and MRI can be used to identify pituitary or adrenal tumors.
+Blood work and urine testing are commonly done to assess a dog’s overall health and support a diagnosis of Cushing’s disease. Dogs with Cushing’s disease generally have high cholesterol and triglycerides, changes in their white blood cells, and dilute urine.
+Most cases of Cushing’s disease can only be managed, not cured. Most commonly, treatment consists of one of the following types of medications:
+Trilostane (Vetoryl®): This is a steroid analogue that blocks a certain enzyme necessary for cortisol production, thus decreasing hormone level. This is the preferred treatment option.
+Mitotane (Lysodren®): This is a chemotherapeutic medication that destroys part of the adrenal gland so that it can no longer produce cortisol.
+Adrenal-dependent Cushing’s disease may be treated with surgery, depending on the type of adrenal gland tumor present and the dog’s general health. Pituitary-dependent Cushing’s disease can be treated with surgery or radiation; however, neither is routinely done due to potential complications and limited availability.
+Additionally, since dogs with Cushing’s disease generally have high cholesterol, a low-fat diet is typically recommended. Potential diet options include Royal Canin®/MD Adult Low Fat Diet or Hill’s® Prescription Diet i/d.
+Cushing’s disease is not preventable in dogs because it develops from pituitary or adrenal gland tumors. However, iatrogenic Cushing’s disease can be prevented through careful dosing and monitoring of dogs who are taking steroid medications.
+Dogs who have been diagnosed with Cushing’s disease should have continued monitoring, such as bloodwork and ACTH stimulation tests, for the remainder of their life to ensure the medication dosage is appropriate and symptoms are controlled.
+Always ensure you’re following up your dog’s vet appointments and if you notice a change in your dog’s symptoms, especially while on medication for their Cushing’s, contact your vet. Often, your dog’s medication dosage may need to be changed if clinical signs, such as excessive water drinking, are returning.
+Unfortunately, Cushing’s disease does shorten a dog’s lifespan. Expected lifespan following diagnosis ranges from one to five years depending on what treatment is chosen.  
+Dogs with Cushing’s disease generally have high cholesterol and triglyceride content in their blood and benefit from a low-fat diet.
+Dogs require oral medication or surgery to treat Cushing’s disease. There are no natural remedies that are an effective treatment.
+Dogs being treated with oral medications such as trilostane to manage their Cushing’s disease should receive monitoring approximately every three months for the rest of their life. Monitoring intervals can vary depending on the dog’s needs and if any additional medical conditions, such as diabetes, may be present. 
+ Cushing’s syndrome. (2024, January 19). Cornell University College of Veterinary Medicine. https://www.vet.cornell.edu/departments/riney-canine-health-center/canine-health-information/cushings-syndrome
+
+Cushing’s syndrome. (2024, January 19). Cornell University College of Veterinary Medicine. https://www.vet.cornell.edu/departments/riney-canine-health-center/canine-health-information/cushings-syndrome
+WRITTEN BY
+Veterinarian
+Dr. Brittany Kleszynski is a veterinarian and freelance medical writer who specializes in creating meaningful content that engages readers...
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.

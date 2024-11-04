@@ -1,0 +1,13 @@
+PetMD Editorial
+Atrial septal defect (ASD) is a congenital heart anomaly that enables blood flow between the left and right atria via the interatrial septum (the separating wall). Typically, the blood will shunt into the right atrium, causing a volume overload to the right atrium, right ventricle, and pulmonary vasculature, which can sometimes lead to pulmonary hypertension. However, if right-sided pressures are too high, shunting may occur right to left, causing generalized cyanosis.
+ASD is more common in cats (9 percent of congenital heart defects) than dogs (0.7 percent), though a recent study from France suggests a higher incidence, with ASD accounting for 37.7 percent of congenital cardiac defects in pooled data from dogs and cats.
+ASD occurs in one of three locations: lower atrial septum (ostium primum defect, which is the most common), near the fossa ovalis (ostium secundum defect), or craniodorsal to the fossa ovalis (sinus venous defect). Common signs associated with ASD include:
+The underlying cause of atrial septal defect is currently unknown.
+You will need to give a thorough history of your dog’s health, including the onset and nature of the symptoms, to the veterinarian. He or she will then perform a complete physical examination as well as a biochemistry profile, urinalysis, complete blood count, and electrolyte panel.
+X-rays and electrocardiograms will typically show right-sided heart and lung vessel enlargement in patients with large defects, while an echocardiogram may reveal right atrial and right ventricular dilation and the actual hole (a septal dropout). Arrhythmias and intraventricular conduction disturbances may also be visible using these diagnostic procedures. To document the blood flow through the hole and high ejection velocity through the pulmonary artery, doppler echocardiography is useful.
+  
+
+Dogs with congestive heart failure should be hospitalized until they are stable. Open heart surgery may be necessary to repair the defect, but this is often very expensive. Consult with your veterinarian the best and most affordable course of treatment for you and your pet. For some secundum-type defects, an amplatzer device may be implanted to close the hole.
+The prognosis in dogs with ASD depends on the size of the defect and coexisting abnormalities, though it is often guarded to poor. Small, isolated defects, for example, are unlikely to progress, while primum-type defects are typically larger with a worse prognosis.
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.

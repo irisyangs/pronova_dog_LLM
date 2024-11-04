@@ -1,0 +1,66 @@
+and destroys its own red blood cells (RBCs), resulting in anemia. IMHA can either be primary (no identifiable cause) or secondary (triggered by an underlying condition). In either case, the body no longer recognizes RBCs as part of itself and forms antibodies against the RBCs which results in their destruction by the body. 
+Anemia is defined as a deficiency of red blood cells, hemoglobin, or both in the blood. RBCs are the main way oxygen is carried to the tissues and organs of the body. Hemoglobin is an iron-containing protein within RBCs that actually carries the oxygen molecules. 
+In anemic dogs, the decrease in RBCs and/or hemoglobin leads to decreased oxygen flow to the body’s organs. This can result in organ damage and even organ failure. Since anemia can quickly become life-threatening, it is a medical emergency. If a pet parent suspects its dog is anemic, go immediately to a local emergency veterinary hospital.   
+The clinical signs of IMHA include:
+Lethargy/Lack of energy
+Exercise intolerance
+Pale gums that are also usually yellow (jaundice)
+Inappetence
+Vomiting
+Dark orange to brown urine
+Shortness of breath/Fast breathing
+Increased heart rate
+Weakness/Collapse
+The cause of IMHA can be primary or secondary. Primary IMHA is idiopathic, meaning the cause is unknown. The body wakes up one day and starts attacking its RBCs seemingly for no reason. Approximately 75% of dogs with IMHA will have primary IMHA. It can occur independently, or with other autoimmune diseases. 
+While no cause is identified, there may be a genetic component. The most common breeds with genetic predispositions for IMHA include:
+American Cocker Spaniel (33% of all cases)
+English Springer Spaniel
+Old English Sheepdog
+Irish Setter
+Poodle
+Dachshund
+Secondary IMHA means the body attacks the RBCs in response to an underlying problem with them. Common causes of secondary IMHA include:
+Parasite such as tick borne diseases including Ehrlichia, Anaplasma, Mycoplasma, Babesia
+Viral: Chronic persistent upper respiratory or gastrointestinal viruses
+Bacterial: Leptospira, various acute and chronic infections
+Any form of cancer
+Any inflammatory condition is capable of overstimulating the body’s immune system and triggering an autoimmune condition
+Vaccines
+Non-steroidal anti-inflammatories (NSAIDs)
+Sulfonamides
+Penicillin and Cephalosporins
+Bee stings
+Snake bites
+Zinc
+Onions and garlic
+Your veterinarian may be suspicious of anemia based on physical examination findings that include pale to yellow gums, skin, and eyes. However, the diagnosis is confirmed via a complete blood count. If anemia is confirmed, there are some additional in-house blood tests your vet will try in order to determine if the cause is IMHA.
+Based on results of the in-house blood tests, your vet will likely start treatment. However, your veterinarian will probably send additional confirmatory testing to the laboratory. You may hear words such as “Coombs test”, “CBC with pathology review”, and “reticulocyte count”–all designed to give your veterinarian additional information. Baseline serum chemistry (blood tests that measure amounts of certain chemicals in a sample of blood to determine how well certain organs are working) and urinalysis will also be performed. 
+The next phase of testing is designed to screen your pet for secondary causes of IMHA. This involves chest X-rays, abdominal ultrasound, and infectious disease testing.
+IMHA cannot be cured, but it can be placed into remission and successfully managed in many dogs. Nevertheless, it is a life-threatening condition that will require hospitalization and aggressive therapy, in most cases. 
+Occasionally, anemia can be detected early via bloodwork screening. In these cases, IMHA may be detected in its early stages and managed by medications on an outpatient basis. However, most cases will require hospitalization for IV fluids and blood transfusions. The main goal of blood transfusions is to stabilize the pet patient and provide time for the other treatments and medications to take effect. Sometimes dogs will require multiple transfusions. 
+The mainstay of treatment for IMHA is immunosuppressive therapy. In the short-term, this is achieved with high-dose steroids such as prednisone, but long-term immunosuppressive medications such as mycophenolate, cyclosporine, and azathioprine are typically started at the same time. 
+If the dog was diagnosed with secondary IMHA, additional therapy (such as antibiotics) will be geared toward treatment of the underlying cause. Anticoagulant therapy with clopidogrel (plavix) may also be recommended. 
+IMHA cases can be complex, so your veterinarian will create a treatment plan specific to your dog and may consult with or refer you to a veterinary internal medicine specialist. 
+Early diagnosis and aggressive therapy are keys to a successful outcomes in IMHA cases. Even with therapy, only approximately 50% of IMHA patients will survive long enough to be discharged from the hospital.   
+Most dogs will need to be hospitalized at a 24-hour veterinary emergency hospital for 2-7 days while they receive treatment for IMHA including blood transfusions to help stabilize them.
+Once released, the dog will need regular rechecks with their internal medicine specialist or veterinarian to assess its red blood cell count. Over many months, the high dose prednisone is typically weaned down and eventually discontinued, but the long-term immunosuppressive medication(s) may be continued for life.
+IMHA is never cured, but with strict adherence to rechecks and medication schedules, it can be successfully managed. Relapse rates range from 11-15%. 
+It is important to alert any new veterinary professionals about your dog’s  IMHA condition, even if it is in remission. It is also wise to chart all current medications your dog may be taking.  Future medications, medical conditions, or vaccines have the potential to overstimulate the immune system of a dog with a previous autoimmune condition, and can trigger a remission. Your veterinarian will work with you to manage your dog’s long-term needs.
+ McCullough S. Immune-mediated hemolytic anemia: understanding the nemesis. Veterinary Clinics of North America: Small Animal Practice. 2003;33(6):1295-1315. doi:https://doi.org/10.1016/j.cvsm.2003.08.003
+Ettinger SJ, Feldman EC, Etienne Côté. Textbook of Veterinary Internal Medicine : Diseases of the Dog and the Cat. Saunders; 2017.
+Paul Pion DVM, Spadafori G. Veterinary Partner. Immune Mediated Hemolytic Anemia (IMHA) in Dogs and Cats. 2003.
+Weinkle TK, Center SA, Randolph JF, Warner KL, Barr SC, Erb HN. Evaluation of prognostic factors, survival rates, and treatment protocols for immune-mediated hemolytic anemia in dogs: 151 cases (1993–2002). Journal of the American Veterinary Medical Association. 2005;226(11):1869-1880. doi:https://doi.org/10.2460/javma.2005.226.1869
+Piek CJ, van Spil WE, Junius G, Dekker A. Lack of evidence of a beneficial effect of azathioprine in dogs treated with prednisolone for idiopathic immune-mediated hemolytic anemia: a retrospective cohort study. BMC Veterinary Research. 2011;7(1):15. doi:https://doi.org/10.1186/1746-6148-7-15
+Featured Image: iStock.com/SeventyFour
+
+McCullough S. Immune-mediated hemolytic anemia: understanding the nemesis. Veterinary Clinics of North America: Small Animal Practice. 2003;33(6):1295-1315. doi:https://doi.org/10.1016/j.cvsm.2003.08.003
+Ettinger SJ, Feldman EC, Etienne Côté. Textbook of Veterinary Internal Medicine : Diseases of the Dog and the Cat. Saunders; 2017.
+Paul Pion DVM, Spadafori G. Veterinary Partner. Immune Mediated Hemolytic Anemia (IMHA) in Dogs and Cats. 2003.
+Weinkle TK, Center SA, Randolph JF, Warner KL, Barr SC, Erb HN. Evaluation of prognostic factors, survival rates, and treatment protocols for immune-mediated hemolytic anemia in dogs: 151 cases (1993–2002). Journal of the American Veterinary Medical Association. 2005;226(11):1869-1880. doi:https://doi.org/10.2460/javma.2005.226.1869
+Piek CJ, van Spil WE, Junius G, Dekker A. Lack of evidence of a beneficial effect of azathioprine in dogs treated with prednisolone for idiopathic immune-mediated hemolytic anemia: a retrospective cohort study. BMC Veterinary Research. 2011;7(1):15. doi:https://doi.org/10.1186/1746-6148-7-15
+Featured Image: iStock.com/SeventyFour
+WRITTEN BY
+Veterinarian
+Dr. Veronica Higgs is a 2010 graduate from Auburn University College of Veterinary Medicine.  She then completed a 1-year rotating...
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.
