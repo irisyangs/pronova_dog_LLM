@@ -1,16 +1,4 @@
 {
-    "Abnormal_Growths_in_the_Lower_Intestines_of_Dogs.txt": {
-        "Topic": " Abnormal Growths in the Lower Intestines of Dogs",
-        "URL": "https://www.petmd.com//dog/conditions/digestive/c_multi_rectoanal_polyps",
-        "Author": "PetMD Editorial",
-        "Date": "Nov. 18, 2008"
-    },
-    "Abnormal_Heart_Rhythm_in_Dogs.txt": {
-        "Topic": " Abnormal Heart Rhythm in Dogs",
-        "URL": "https://www.petmd.com//dog/conditions/cardiovascular/c_dg_abnormal_heart_rhythm",
-        "Author": "PetMD Editorial",
-        "Date": "Feb. 12, 2010"
-    },
     "5_Things_Not_to_Do_During_Your_Pet\u2019s_Cancer_Treatment.txt": {
         "Topic": " 5 Things Not to Do During Your Pet\u2019s Cancer Treatment",
         "URL": "https://www.petmd.com//dog/conditions/cancer/five-things-not-do-during-your-pets-cancer-treatment",
@@ -40,6 +28,18 @@
         "URL": "https://www.petmd.com//dog/conditions/infectious-parasitic/9-ways-stop-fleas-biting-your-dog-flea-shampoo-vacuums",
         "Author": "Natalie Stilwell, DVM, MS, PhD",
         "Date": "Jun. 6, 2019"
+    },
+    "Abnormal_Growths_in_the_Lower_Intestines_of_Dogs.txt": {
+        "Topic": " Abnormal Growths in the Lower Intestines of Dogs",
+        "URL": "https://www.petmd.com//dog/conditions/digestive/c_multi_rectoanal_polyps",
+        "Author": "PetMD Editorial",
+        "Date": "Nov. 18, 2008"
+    },
+    "Abnormal_Heart_Rhythm_in_Dogs.txt": {
+        "Topic": " Abnormal Heart Rhythm in Dogs",
+        "URL": "https://www.petmd.com//dog/conditions/cardiovascular/c_dg_abnormal_heart_rhythm",
+        "Author": "PetMD Editorial",
+        "Date": "Feb. 12, 2010"
     },
     "Abnormal_Molar_Development_in_Dogs.txt": {
         "Topic": " Abnormal Molar Development in Dogs",

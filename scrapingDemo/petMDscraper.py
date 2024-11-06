@@ -42,8 +42,8 @@ def save_content_to_files(url):
     
     # Create a filename based on the topic
     topic = topic.replace('/', '_')
-    filename = f"{topic.replace(' ', '_')}.txt"
-    
+    filename = f"{topic.replace('?', '').replace(':', '').replace(',', '').replace(' ', '_').lstrip('_')}.txt"
+
 
     
     # Ensure the directory exists
@@ -94,26 +94,5 @@ def extract_hrefs_from_divs(url):
 
 urls = extract_hrefs_from_divs("https://www.petmd.com/dog/conditions")
 
-# for url in urls:
-#     save_content_to_files("https://www.petmd.com/" + url)
-
-
-# Update JSON file to rename txt files
-json_filename = 'sources.json'
-if os.path.exists(json_filename):
-    with open(json_filename, 'r+', encoding='utf-8') as json_file:
-        try:
-            data = json.load(json_file)
-            updated_data = {}
-            for old_filename, entry in data.items():
-                new_filename = old_filename.replace('?', '').replace(':', '').replace(',', '').replace(' ', '_', 1).lstrip('_')
-                old_filepath = os.path.join('ScrapedFiles', old_filename)
-                new_filepath = os.path.join('ScrapedFiles', new_filename)
-                if os.path.exists(old_filepath):
-                    os.rename(old_filepath, new_filepath)
-                updated_data[new_filename] = entry
-            json_file.seek(0)
-            json.dump(updated_data, json_file, indent=4)
-            json_file.truncate()
-        except json.JSONDecodeError:
-            print("Error decoding JSON file.")
+for url in urls:
+    save_content_to_files("https://www.petmd.com/" + url)
