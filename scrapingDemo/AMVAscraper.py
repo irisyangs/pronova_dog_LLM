@@ -48,10 +48,10 @@ def save_content_to_files(url):
     print(filename)
         
     # Ensure the directory exists
-    os.makedirs('ScrapedFiles_2', exist_ok=True)
+    os.makedirs('ScrapedFiles_amva', exist_ok=True)
     
     # Save the text content to a txt file in the ScrapedFiles folder
-    filepath = os.path.join('ScrapedFiles_2', filename)
+    filepath = os.path.join('ScrapedFiles_amva', filename)
     with open(filepath, 'w', encoding='utf-8') as file:
         file.write(text)
     
@@ -64,7 +64,7 @@ def save_content_to_files(url):
     }
 
     # Append the entry to the JSON file
-    json_filename = 'sources_1.json'
+    json_filename = 'sources_amva.json'
     if os.path.exists(json_filename):
         with open(json_filename, 'r+', encoding='utf-8') as json_file:
             try:

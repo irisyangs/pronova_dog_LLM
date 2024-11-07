@@ -44,13 +44,14 @@ def save_content_to_files(url):
     topic = topic.replace('/', '_')
     filename = f"{topic.replace('?', '').replace(':', '').replace(',', '').replace(' ', '_').replace('!','').lstrip('_')}.txt"
 
+    print(filename, author, date)
+    # return
 
-    
     # Ensure the directory exists
-    os.makedirs('ScrapedFiles_petMD', exist_ok=True)
+    os.makedirs('ScrapedFiles_petMD_allergies', exist_ok=True)
     
     # Save the text content to a txt file in the ScrapedFiles folder
-    filepath = os.path.join('ScrapedFiles_petMD', filename)
+    filepath = os.path.join('ScrapedFiles_petMD_allergies', filename)
     with open(filepath, 'w', encoding='utf-8') as file:
         file.write(text)
     
@@ -63,7 +64,7 @@ def save_content_to_files(url):
     }
     
     # Append the entry to the JSON file
-    json_filename = 'sources_petMD.json'
+    json_filename = 'sources_petMD_allergies.json'
     if os.path.exists(json_filename):
         with open(json_filename, 'r+', encoding='utf-8') as json_file:
             try:
@@ -86,13 +87,23 @@ def extract_hrefs_from_divs(url):
     
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
-        divs = soup.find_all('div', class_='kib-grid__item kib-grid__item--span-4@min-xs kib-grid__item--span-4@md kib-grid__item--span-4@min-lg az_list_grid_item__KWCvL')
+        # divs = soup.find_all('div', class_='kib-grid__item kib-grid__item--span-4@min-xs kib-grid__item--span-4@md kib-grid__item--span-4@min-lg az_list_grid_item__KWCvL')
+        divs = soup.find_all('div', class_='article_card_articleCard__UmssU')
         hrefs = [div.find('a')['href'] for div in divs if div.find('a')]
         return hrefs
     else:
         return f"Failed to retrieve the webpage. Status code: {response.status_code}"
 
-urls = extract_hrefs_from_divs("https://www.petmd.com/dog/conditions")
+
+# page 2
+
+urls = extract_hrefs_from_divs("https://www.petmd.com/dog/allergies")
+# urls = extract_hrefs_from_divs("https://www.petmd.com/dog/allergies/p/2")
+
+
 
 for url in urls:
-    save_content_to_files("https://www.petmd.com/" + url)
+    save_content_to_files("https://www.petmd.com" + url)
+
+# same bug with ' --> \u2019
+

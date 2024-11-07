@@ -48,10 +48,10 @@ def save_content_to_files(url):
     # return
 
     # Ensure the directory exists
-    os.makedirs('ScrapedFiles_3', exist_ok=True)
+    os.makedirs('ScrapedFiles_petMD_nutrition', exist_ok=True)
     
     # Save the text content to a txt file in the ScrapedFiles folder
-    filepath = os.path.join('ScrapedFiles_3', filename)
+    filepath = os.path.join('ScrapedFiles_petMD_nutrition', filename)
     with open(filepath, 'w', encoding='utf-8') as file:
         file.write(text)
     
@@ -64,7 +64,7 @@ def save_content_to_files(url):
     }
     
     # Append the entry to the JSON file
-    json_filename = 'sources_3.json'
+    json_filename = 'sources_petMD_nutrition.json'
     if os.path.exists(json_filename):
         with open(json_filename, 'r+', encoding='utf-8') as json_file:
             try:
@@ -96,15 +96,12 @@ def extract_hrefs_from_divs(url):
 
 # urls = extract_hrefs_from_divs("https://www.petmd.com/dog/conditions")
 
-# page 2
-
 urls = extract_hrefs_from_divs("https://www.petmd.com/dog/centers/nutrition")
 # urls = (extract_hrefs_from_divs("https://www.petmd.com/dog/centers/nutrition/p/2")
 # urls = (extract_hrefs_from_divs("https://www.petmd.com/dog/centers/nutrition/p/3")
 # urls = (extract_hrefs_from_divs("https://www.petmd.com/dog/centers/nutrition/p/4")
 
 # do all these to get page 2,3,4
-
 
 
 for url in urls:
