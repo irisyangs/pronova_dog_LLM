@@ -1,0 +1,36 @@
+A wide range of body sizes and types exist among dog breeds, which makes it hard to determine the “average” dog weight. For example, the graceful Greyhound and the short-legged Basset Hound may both weigh 60 pounds, but these two breeds have different physiques and metabolic needs.
+So instead of comparing your dog’s weight to a generic chart, veterinary research groups have come up with a better way. They’ve conducted nutritional studies that have shown that an animal’s target weight is best estimated using a combination of body weight and body condition score (BCS).
+The Body Condition Score is a popular tool used to estimate the amount of fat on the body. Canine BCS is most commonly evaluated on a 9-point scale, and dogs that score in the middle of the scale (a 4 or 5 out of 9) have a healthy body condition.
+Dogs scoring 1 to 3 are considered too thin, whereas a score of 6 or 7 implies that a dog is overweight. Obese dogs typically receive BCS scores of 8 or 9, and it is possible for morbidly obese dogs to have a BCS greater than 9.
+BCS is evaluated by examining the ribs, abdomen and waistline by sight, and more importantly, by touch.
+The ribs should be palpable and covered by minimal amounts of fat. When viewed from above, the dog’s waistline should be visible by a subtle inward curve behind the ribs.
+A side view of the dog should reveal an “abdominal tuck,” or a slight upward curve of the belly behind the ribs.
+Overweight dogs will have excess fat covering the ribs and will lack a noticeable waistline or abdominal tuck. In contrast, underweight dogs will have an accentuated waistline and abdominal tuck, and the ribs, pelvis and vertebrae will be prominent and lack any palpable fat.
+Now that you know your dog’s BCS, you can use it to figure out their ideal weight. This method was created by researchers at the University of Liverpool and Royal Canin.
+Use the following steps to estimate your dog’s ideal weight:
+1. Take your dog’s starting BCS and subtract 5.
+9-5 = 4
+2. Multiply that number by 10.
+4 x 10 = 40
+3. Add 100.
+40 + 100 = 140
+4. Divide 100 by the result from Step 3. Round to 3 digits.
+100 / 140 = .714
+5. Multiply that by your dog’s current weight.
+.714 x 50 pounds = 35.7 pounds
+Dog’s Target Weight:
+35.7 pounds
+Here's the formula we used for the calculations in the table above:
+Let’s enter the 50-pound dog’s numbers into this formula:
+According to the calculation, this 50-pound dog’s target weight (after weight loss) is 35.7 pounds. If the dog had a different BCS, their target weight would be different.
+Knowing your dog’s ideal body weight can help you plan a successful weight loss program, or it can let you know what your pet should weigh if your pet is underweight or losing weight inexplicably.
+Pet weight loss programs usually involve some degree of calorie restriction in order to help your dog lose weight at a gradual pace. By having a target body weight in mind, your veterinarian can help estimate your dog’s daily caloric needs so that you know exactly how much to feed your dog.
+Through diet modification and regular exercise, your dog’s metabolic needs will likely change as he begins to lose weight. This is why regular monitoring, including monthly weigh-ins and BCS measurements, are important to help your pet reach his target body condition in a safe and healthy manner.
+Determining your pet’s body score and ideal weight can also help pets that are underweight. If your pet is not at the weight they should be, you can work with your veterinarian to find out if you should be increasing their food intake or whether it’s caused by an underlying health issue.
+Weight loss that has no apparent reason can be a result of many different conditions, including parasites, cancer, kidney disease, advanced heart disease, diabetes, Addison’s disease, GI problems, dental disease, stress or changes in diet.
+Whether your pet is overweight or underweight, your vet can help figure out the issue and tailor recommendations to their individual needs.
+Featured Image: iStock.com/primeimages
+WRITTEN BY
+Veterinarian
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.
