@@ -103,15 +103,9 @@ def extract_hrefs_from_divs(url):
 # Main URL for AVMA pet care articles
 urls = extract_hrefs_from_divs("https://www.avma.org/resources-tools/pet-owners/petcare")
 
-# for url in urls:
-#     print(url)
-
-# print('tf')
-
 
 for url in urls[:-1]: #drop the last url because it forwards to another page, not an article
     save_content_to_files(url)
-
 
 ## also, it looks like ' apostraphe is replaced with \u2019 in sources_json
 ## i went in and fixed this, but can edit the code to do automatically later
