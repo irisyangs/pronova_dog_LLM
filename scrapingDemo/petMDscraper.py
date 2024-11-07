@@ -42,7 +42,7 @@ def save_content_to_files(url):
     
     # Create a filename based on the topic
     topic = topic.replace('/', '_')
-    filename = f"{topic.replace('?', '').replace(':', '').replace(',', '').replace(' ', '_').lstrip('_')}.txt"
+    filename = f"{topic.replace('?', '').replace(':', '').replace(',', '').replace(' ', '_').replace('!','').lstrip('_')}.txt"
 
 
     
