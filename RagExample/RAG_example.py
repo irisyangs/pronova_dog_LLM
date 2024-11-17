@@ -31,10 +31,10 @@ except Exception as e:
 # Create collection
 # try:
 #     Qclient.create_collection(
-#         collection_name="irf_rules",
+#         collection_name="irf_rules_a",
 #         vectors_config=models.VectorParams(size=1536, distance=models.Distance.COSINE),
 #     )
-#     print("Collection 'irf_rules' created successfully")
+#     print("Collection 'irf_rules_a' created successfully")
 # except Exception as e:
 #     print(f"Failed to create collection: {e}")
 #     raise
@@ -71,15 +71,28 @@ def get_embeddings_for_chunks(chunks):
 
 # function to upsert embeddings into Qdrant
 def upsert_embeddings(collection_name, embeddings, chunks):
+    source_url = "https://example.com"
     points = []
-    for i, embedding in enumerate(embeddings):
+    for i in range(len(embeddings)):
+        print(f"upserting #{i}")
         points.append(
             {
-                "id": i,
-                "vector": embeddings[i],
-                "payload": {"text": chunks[i]}
+                "id": i, 
+                "vector": embeddings[i],     
+                "payload": {
+                    "text": chunks[i],   # Attach the chunk as payload
+                    "source_url": source_url  # Add the source URL
+                }
             }
         )
+        # points.append(
+        #     {
+        #         "id": i,
+        #         "vector": embeddings[i],
+        #         "payload": {"text": chunks[i]}
+        #     }
+            
+        # )
     try:
         Qclient.upsert(
             collection_name=collection_name,
@@ -94,21 +107,36 @@ def upsert_embeddings(collection_name, embeddings, chunks):
 # file_path = "irf_rules.txt"
 # chunks = chunk_text_from_file(file_path)
 # embeddings = get_embeddings_for_chunks(chunks)
-# upsert_embeddings("irf_rules", embeddings, chunks)
+# upsert_embeddings("irf_rules_a", embeddings, chunks)
 
 def retrieve_relevant_chunks(query, top_k=5):
     query_embedding = get_embedding(query)
     
     search_result = Qclient.search(
-        collection_name="irf_rules",
+        collection_name="irf_rules_a", # TODO fix this
         query_vector=query_embedding,
         limit=top_k
     )
 
-    return [result.payload["text"] for result in search_result]
+
+    
+    contexts = [result.payload["text"] for result in search_result]
+    urls = [result.payload.get("source_url") for result in search_result]
+    
+
+
+    return contexts, urls
+    # return [result.payload["text"] for result in search_result]
+
+
+import numpy as np
 
 def generate_response(query):
-    context = retrieve_relevant_chunks(query)
+    context, urls = retrieve_relevant_chunks(query)
+    
+    # TODO assess this
+    unique_urls = np.unique(urls)
+
 
     # Combine retrieved chunks into a single string
     context_text = "\n".join(context)
@@ -123,14 +151,19 @@ def generate_response(query):
             {"role": "user", "content": query}
         ]
     )
-    return completion.choices[0].message
+    return completion.choices[0].message, unique_urls
+
+# collections = Qclient.get_collections()
+# print(collections)
 
 # Test the response generation
 query = "Can you wear cleats?" 
 relevant_chunks = retrieve_relevant_chunks(query)
 # print(relevant_chunks)
-response = generate_response(query)
+response, urls = generate_response(query)
 print(response.content)
 
+
+print(f"here are the urls: \n", [url for url in  urls])
 
 
