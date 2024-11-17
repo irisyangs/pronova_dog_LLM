@@ -46,5 +46,155 @@
         "URL": "https://www.petmd.com/dog/procedure/fecal-tests-for-dogs",
         "Author": "Rhiannon Koehler, DVM",
         "Date": "Sep. 30, 2024"
+    },
+    "Dog_Spay_Surgery_What_It_Is_and_What_To_Expect.txt": {
+        "Topic": " Dog Spay Surgery: What It Is and What To Expect",
+        "URL": "https://www.petmd.com/dog/procedure/dog-spay-surgery",
+        "Author": "Michael Kearley, DVM",
+        "Date": "Aug. 9, 2024"
+    },
+    "X-Rays_for_Dogs.txt": {
+        "Topic": " X-Rays for Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/x-rays-for-dogs",
+        "Author": "Michael Kearley, DVM",
+        "Date": "Feb. 16, 2024"
+    },
+    "10_Ways_To_Keep_Your_Dog_Busy_After_Surgery.txt": {
+        "Topic": " 10 Ways To Keep Your Dog Busy After Surgery",
+        "URL": "https://www.petmd.com/dog/general-health/ways-to-keep-dog-busy-after-surgery",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 27, 2024"
+    },
+    "Dog_Neutering_Everything_You_Need_To_Know.txt": {
+        "Topic": " Dog Neutering: Everything You Need To Know",
+        "URL": "https://www.petmd.com/dog/procedure/dog-neutering-everything-you-need-know",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "Aug. 26, 2024"
+    },
+    "Enucleation_of_the_Eye_in_Cats_and_Dogs_What_Is_It_and_How_Can_You_Prepare_Your_Pet.txt": {
+        "Topic": " Enucleation of the Eye in Cats and Dogs: What Is It, and How Can You Prepare Your Pet?",
+        "URL": "https://www.petmd.com/dog/procedure/enucleation-of-the-eye-in-dogs-and-cats",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "Jul. 22, 2024"
+    },
+    "IV_Catheters_for_Dogs_What_Are_They_and_How_Do_You_Care_For_Them.txt": {
+        "Topic": " IV Catheters for Dogs: What Are They, and How Do You Care For Them?",
+        "URL": "https://www.petmd.com/dog/procedure/iv-catheters-for-dogs",
+        "Author": "Brittany Kleszynski, DVM",
+        "Date": "Jul. 18, 2024"
+    },
+    "Anesthesia_for_Dogs_What_Is_It_And_How_Does_It_Work.txt": {
+        "Topic": " Anesthesia for Dogs: What Is It, And How Does It Work?",
+        "URL": "https://www.petmd.com/dog/procedure/anesthesia-for-dogs",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "Jun. 24, 2024"
+    },
+    "Laser_Therapy_for_Dogs.txt": {
+        "Topic": " Laser Therapy for Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/laser-therapy-for-dogs",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "Apr. 30, 2024"
+    },
+    "ACTH_Stimulation_Test_for_Dogs_What_Is_It_and_How_Does_It_Work.txt": {
+        "Topic": " ACTH Stimulation Test for Dogs: What Is It, and How Does It Work?",
+        "URL": "https://www.petmd.com/dog/procedure/acth-stim-test-for-dogs",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "May 29, 2024"
+    },
+    "Splenectomy_in_Dogs.txt": {
+        "Topic": " Splenectomy in Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/splenectomy-in-dogs",
+        "Author": "Michael Kearley, DVM",
+        "Date": "Jan. 30, 2024"
+    },
+    "Hip_Dysplasia_Surgery_in_Dogs.txt": {
+        "Topic": " Hip Dysplasia Surgery in Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/hip-dysplasia-surgery-dogs",
+        "Author": "Michael Kearley, DVM",
+        "Date": "Feb. 13, 2024"
+    },
+    "Cystotomy_in_Dogs.txt": {
+        "Topic": " Cystotomy in Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/cystotomy-in-dogs",
+        "Author": "Molly Price, DVM",
+        "Date": "Mar. 26, 2024"
+    },
+    "Tail_Docking_in_Dogs.txt": {
+        "Topic": " Tail Docking in Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/tail-docking-in-dogs",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "Mar. 25, 2024"
+    },
+    "Chemotherapy_for_Dogs.txt": {
+        "Topic": " Chemotherapy for Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/chemotherapy-for-dogs",
+        "Author": "Rhiannon Koehler, DVM",
+        "Date": "Mar. 25, 2024"
+    },
+    "Cone_of_Shame_What_It_Is_and_Cone_Alternatives.txt": {
+        "Topic": " Cone of Shame: What It Is and Cone Alternatives",
+        "URL": "https://www.petmd.com/dog/general-health/cone-of-shame-what-it-is-and-cone-alternatives",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Feb. 28, 2024"
+    },
+    "Leg_Amputation_in_Dogs.txt": {
+        "Topic": " Leg Amputation in Dogs",
+        "URL": "https://www.petmd.com/dog/procedure/leg-amputation-in-dogs",
+        "Author": "Michael Kearley, DVM",
+        "Date": "Feb. 22, 2024"
+    },
+    "C-Section_for_Dogs.txt": {
+        "Topic": " C-Section for Dogs",
+        "URL": "https://www.petmd.com/dog/general-health/c-section-for-dogs",
+        "Author": "Sandra C. Mitchell, DVM, DABVP",
+        "Date": "Nov. 15, 2023"
+    },
+    "How_to_Check_Your_Pet\u2019s_Stitches_After_Surgery.txt": {
+        "Topic": " How to Check Your Pet\u2019s Stitches After Surgery",
+        "URL": "https://www.petmd.com/dog/general-health/how-to-check-pet-stitches-after-surgery",
+        "Author": "Stephanie Howe, DVM",
+        "Date": "Jan. 9, 2023"
+    },
+    "Dog_Surgery_Aftercare_FAQs.txt": {
+        "Topic": " Dog Surgery Aftercare FAQs",
+        "URL": "https://www.petmd.com/dog/dog-surgery-aftercare-faqs",
+        "Author": "PetMD Editorial",
+        "Date": "Apr. 28, 2021"
+    },
+    "Anesthetics_What_Are_They_and_How_Do_They_Help_Your_Pet.txt": {
+        "Topic": " Anesthetics: What Are They and How Do They Help Your Pet",
+        "URL": "https://www.petmd.com/dog/general-health/evr_dg_anesthetics_what_are_they",
+        "Author": "T. J. Dunn, DVM",
+        "Date": "Mar. 10, 2011"
+    },
+    "Dog_Tumor_Removal.txt": {
+        "Topic": " Dog Tumor Removal",
+        "URL": "https://www.petmd.com/dog/general-health/dog-tumor-removal",
+        "Author": "PetMD Editorial",
+        "Date": "Jul. 29, 2021"
+    },
+    "Dog_Gallbladder_Removal_.txt": {
+        "Topic": " Dog Gallbladder Removal ",
+        "URL": "https://www.petmd.com/dog/general-health/dog-gallbladder-removal",
+        "Author": "PetMD Editorial",
+        "Date": "Jul. 27, 2021"
+    },
+    "Unknown.txt": {
+        "Topic": "Unknown",
+        "URL": "https://www.petmd.com/dog/slideshows/general-health/5-anesthesia-risks-pets-you-should-know",
+        "Author": "PetMD Editorial",
+        "Date": "Jun. 21, 2016"
+    },
+    "Elective_Surgery_Should_You_Or_Shouldn\u2019t_You.txt": {
+        "Topic": " Elective Surgery: Should You Or Shouldn\u2019t You?",
+        "URL": "https://www.petmd.com/dog/care/evr_dg_elective_surgery_should_I_or_shouldnt_I",
+        "Author": "T. J. Dunn, DVM",
+        "Date": "Mar. 10, 2011"
+    },
+    "5_Unique_Ways_to_Provide_Mental_Stimulation_After_Dog_Surgeries.txt": {
+        "Topic": " 5 Unique Ways to Provide Mental Stimulation After Dog Surgeries",
+        "URL": "https://www.petmd.com/dog/care/5-unique-ways-provide-mental-stimulation-after-dog-surgeries",
+        "Author": "Katie Grzyb, DVM",
+        "Date": "Jul. 9, 2018"
     }
 }

@@ -97,11 +97,11 @@ def extract_hrefs_from_divs(url):
         return f"Failed to retrieve the webpage. Status code: {response.status_code}"
 
 
-urls = extract_hrefs_from_divs("https://www.petmd.com/hub/common-pet-procedures")
-
+# urls = extract_hrefs_from_divs("https://www.petmd.com/hub/common-pet-procedures")
+# i did this for 1-8, if articles repeat they just get overwritten
+urls = extract_hrefs_from_divs("https://www.petmd.com/hub/common-pet-procedures/p/8#hub-all-articles")
 for url in urls:
     # print(url)
     save_content_to_files("https://www.petmd.com" + url)
 
-# same bug with ' --> \u2019
 
