@@ -1,15 +1,15 @@
 Aspiration pneumonia is an inflammation of the lungs caused by an inhaled material such as food, regurgitation, or vomit. 
-
+
 This condition usually happens when there is an underlying problem with the normal reflexes of swallowing and pushing material down the esophagus. In aspiration pneumonia, food makes its way into the airways and is inhaled into the lungs.
 In a normal anatomic structure, once food is chewed and mixed with saliva (food bolus), it is ready to be swallowed. The food bolus is then pushed by the tongue to the throat (pharynx). This space, called the pharynx, meets the end of the nasal cavity (nasopharynx), and is separated by a thin membrane of tissue called the soft palate. 
 The larynx is the opening into the trachea. The pharynx and larynx are separated by a piece of cartilage called the epiglottis. The epiglottis is part of the structures known as the voice box. 
-The tongue is a large muscle that extends down the throat and attaches to other muscles and cartilage around the epiglottis. 
+The tongue is a large muscle that extends down the throat and attaches to other muscles and cartilage around the epiglottis. 
 The tongue, soft palate, and epiglottis work together to close the space leading into the trachea (larynx) and allow a food bolus to continue down the esophagus and finally into the stomach and intestines. When swallowing, there is a momentary stop in breathing to ensure that food travels down the correct path of the esophagus. 
 With aspiration pneumonia, the laryngeal reflex gets overwhelmed, or it does not function properly, so food and liquid make their way into the larynx, down the trachea, and into the lungs.  
 Aspiration pneumonia can involve obstruction of the large airways and result in acute respiratory distress if large particles are inhaled. This would be considered a medical emergency. If you believe your dog is experiencing this, contact an emergency veterinary hospital immediately. 
 Commonly, smaller particles are inhaled and may block small airways which leads  to an inflammatory response that produces mucus and inflammatory cells that create a tightening of the muscles of the airways, known as a bronchospasm.  This leads to coughing, wheezing, and overall makes it uncomfortable to fully breathe in and out.    
 Another phase of aspiration pneumonia involves damage from inhaling acidic gastric enzymes. This change in pH easily damages the respiratory surface layer (epithelium) and lung surfactant (a chemical substance that aids in breathing) function. This may cause bronchospasms and acute respiratory distress syndrome (ARDS) that can result in a medical emergency. 
-Lastly, a bacterial pneumonia may develop. The level of infection may overwhelm a dog’s immune system instantly or may occur later in the disease. 
+Lastly, a bacterial pneumonia may develop. The level of infection may overwhelm a dog’s immune system instantly or may occur later in the disease. 
  
 Symptoms of aspiration pneumonia in dogs may include:
 Vomiting, regurgitation, or difficulty swallowing 
@@ -52,7 +52,7 @@ Antiacetylcholine antibodies test (to diagnose myasthenia gravis)
 Antinuclear antibodies test (to diagnose systemic lupus erythematosus)
 Fluoroscopy imaging with contrast (to diagnose a swallowing disorder, or dysphagia)
 In severe cases of aspiration pneumonia, your dog may need to be hospitalized at a 24-hour facility that can provide an oxygen cage, bronchodilators to open airways, IV fluid therapy and antibiotics, and anti-nausea and gastrointestinal motility medications.
-In mild cases, outpatient therapy may be possible. The prognosis depends on the underlying disease that caused the regurgitation and subsequent aspiration pneumonia.  
+In mild cases, outpatient therapy may be possible. The prognosis depends on the underlying disease that caused the regurgitation and subsequent aspiration pneumonia.  
  
 The general timeline for recovery from aspiration pneumonia is at least 10 days after the resolution of symptoms. The key to treating pneumonia is to not stop therapy too soon. Treatment can last between 2 and 8 weeks, depending on the severity and underlying cause of the aspiration pneumonia.  
 Prevention and prognosis of aspiration pneumonia greatly depends on the underlying cause. If the underlying cause is serious, and there is a high likelihood for more infections, then the prognosis is poor.
