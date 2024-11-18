@@ -1,0 +1,50 @@
+AnnaStills/iStock / Getty Images Plus via Getty Images
+The ACTH stimulation test for dogs is used for the diagnosis and monitoring of patients with Cushing’s disease and for the diagnosis of Addison’s disease.
+ACTH (adrenocorticotropic hormone) is secreted from the pituitary gland, which is a pea-sized gland at the base of the brain. ACTH causes the adrenal glands, which are in the abdomen near the kidneys, to release steroid hormones like cortisol. Cortisol is commonly thought of as the body’s stress hormone.
+Several conditions can affect a dog’s production of cortisol.
+Cushing’s disease (hyperadrenocorticism) results in excessive cortisol production. Addison’s disease (hypoadrenocorticism) results in decreased cortisol production. 
+The first step of the test involves collecting blood for measurement of baseline cortisol levels.
+Immediately after blood collection, a dog will receive an injection of an ACTH-like drug called cosyntropin (Cortrosyn®) into their vein or muscle. Cosyntropin will mimic ACTH released from the pituitary gland. Blood is collected one hour after the injection, with cortisol levels measured again, to see how the adrenal glands respond to ACTH.
+As an alternative to cosyntropin, ACTH gel can be administered in the muscle. If ACTH gel is used, blood is drawn one and two hours after administration.
+Cosyntropin is preferred over ACTH gel because the test takes less time when cosyntropin is used, there are fewer blood draws, and the response to cosyntropin is more consistent.
+Although most dogs won’t need an ACTH stimulation test in their lifetime, it is a common diagnostic test for dogs suspected of having Cushing’s syndrome or Addison’s disease.
+There are three main reasons a dog would need an ACTH stimulation test:
+To diagnose Addison’s disease: A dog with Addison’s disease (hypoadrenocorticism, or decreased cortisol production) would show minimal response to ACTH. Their cortisol levels will be low before stimulation and remain low after stimulation.
+To diagnose Cushing’s disease: Dogs who develop Cushing’s disease (hyperadrenocorticism, or increased cortisol production) would have an exaggerated response to ACTH, so their second blood draw will show high cortisol levels.
+It’s worth noting that the ACTH stimulation test is not the test of choice for diagnosis of naturally occurring Cushing’s disease, which occurs due to a tumor on the pituitary gland or adrenal gland. However, the ACTH stimulation test is the diagnostic test of choice for a patient suspected of having a specific form of Cushing’s disease called iatrogenic Cushing’s disease.
+Iatrogenic Cushing’s disease is caused by excessive steroid administration. For example, a dog receiving steroids for a long time to treat an autoimmune condition could develop iatrogenic Cushing’s disease. For dogs with iatrogenic Cushing’s, the response to ACTH would be blunted, meaning post-administration cortisol wouldn’t rise as dramatically.
+To monitor response to treatment for Cushing’s syndrome: Dogs who are being adequately treated for previously diagnosed Cushing’s should have a response in the normal range. Inadequate control would indicate that drug dosages should be altered.
+The ACTH stimulation test is extremely safe for most dogs. As with all medications, there is a small risk of hypersensitivity (allergic reaction) to cosyntropin, but this isn’t common.
+Single overdoses of cosyntropin or ACTH gel are also unlikely to have significant toxic effects.
+Dogs who react to needles may develop anxiety during the test, as it requires at least two blood draws and the injection of a drug.
+Drugs given intramuscularly have a greater risk of needle injury to a nerve, such as the sciatic nerve, compared with drugs given in a vein.
+The ACTH stimulation test can be performed by most veterinary clinics and is the diagnostic of choice for Addison’s disease and iatrogenic Cushing’s disease.
+This is also the gold standard for monitoring a dog’s response to treatment for naturally occurring Cushing’s disease. The results can be used to create a more effective treatment plan for dogs with inadequate or excessive response to treatment for Cushing’s.
+If the baseline cortisol level is within or above the reference range, this test effectively rules out Addison’s disease.
+If both baseline and post-stimulation results are below the reference interval, Addison’s disease is likely the diagnosis. As such, the ACTH stimulation test is useful both for ruling Addison’s disease out and for diagnosing the condition.
+The ACTH stimulation test is not the best test for diagnosing Cushing’s disease, except when iatrogenic Cushing’s disease is present.
+Elevated baseline cortisol levels are not specific to Cushing’s disease—a dog with high cortisol levels could simply be stressed.
+If the post-stimulation result is significantly elevated, the dog likely has Cushing’s. However, the ACTH stimulation test fails to identify around 20% of pets who have Cushing’s disease due to pituitary issues (the most common cause) and around 40% of pets who have Cushing’s disease due to adrenal issues. The diagnostic test of choice for most cases of Cushing’s disease is the low-dose dexamethasone suppression test (LDDST).
+The ACTH stimulation test is effective for monitoring response to treatment for Cushing’s. For best results, the stimulation test should be started two to four hours after the dog takes their medication (trilostane or mitotane).
+The ACTH stimulation test for dogs generally costs anywhere from $150 to $300.
+Pet insurance will usually cover this cost if the condition isn’t pre-existing. A comprehensive or accident and illness plan would be necessary. Accident-only insurance is unlikely to cover an ACTH stimulation test.
+Some medications can interfere with the results of an ACTH stimulation test.
+Many steroids, such as prednisone, can falsely elevate cortisol levels. Pet parents should not give these medications for 24 hours prior to the ACTH stimulation test, or for a specified duration determined by your veterinarian.
+Speak with your veterinarian about all medications your pet is taking when planning for an ACTH stimulation test to ensure they don’t interfere.
+Time of day is not thought to influence the results of an ACTH stimulation test, but discussions about feeding pets during an ACTH stimulation test are ongoing. Fasting is not usually necessary.
+If you have a pet you feel may become anxious during testing, speak with your veterinarian about anti-anxiety medications like trazodone.
+The ACTH stimulation test is the best diagnostic test for Addison’s disease in dogs.
+A simple baseline cortisol level on its own can effectively rule out Addison’s. A dog who isn’t receiving steroids or other medications that could increase cortisol levels is unlikely to have Addison’s if their baseline cortisol levels are high.
+Low baseline levels raise the suspicion that the dog has Addison’s disease. The ACTH stimulation test is used to confirm the diagnosis.
+Cushing’s disease may be suspected based on clinical signs (excessive drinking, excessive urinating, pot-bellied appearance) and routine blood work, but hormonal testing is necessary to definitively diagnose the condition. Although ACTH stimulation tests can be used to screen for Cushing’s, the low-dose dexamethasone suppression test (LDDST) is a better alternative.
+The LDDST test will detect 85 to 100% of Cushing’s cases and can sometimes differentiate whether the condition is caused by pituitary or adrenal issues.
+Although the ACTH stimulation test takes around two hours, the LDDST is an all-day diagnostic test that takes eight hours. The LDDST is not a good alternative for the ACTH stimulation test if Cushing’s is suspected to be iatrogenic, meaning it’s caused by steroid treatment, as opposed to occurring on its own.
+The ACTH stimulation test is the only good option for monitoring a dog’s response to Cushing’s disease treatment.
+Normally when we say a test is “positive,” that means the test result is abnormal and indicative of a medical condition.
+For instance, a positive ACTH stimulation test could mean that the cortisol levels remained below the reference value throughout the test, indicating Addison’s disease.
+The ACTH stimulation test will detect about 96% of Addison’s cases in dogs. It is less sensitive for the detection of Cushing’s disease, detecting around 80% of Cushing’s disease cases caused by pituitary issues and about 60% of cases caused by adrenal issues.
+WRITTEN BY
+Veterinarian
+Dr. Rhiannon Koehler is a veterinarian and freelance medical writer. She received her Doctor of Veterinary Medicine and Master of Public...
+Was this article helpful?
+Sign up for weekly pet health tips and insights from our veterinarians.
