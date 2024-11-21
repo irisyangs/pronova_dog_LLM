@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import axios from 'axios'
 import ReactMarkdown from 'react-markdown'
 import ReactTypingEffect from 'react-typing-effect'
@@ -18,28 +18,24 @@ function App() {
     }
   }
 
+  useEffect(() => {
+  setResponse('')
+}, [])
+
   return (
     <div className="App">
-      <h1>Query the LLM</h1>
-      <textarea
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
-        placeholder="Enter your query here"
-      />
-      <button onClick={handleQuery}>Submit</button>
-      <div className="response">
-        {response && (
-          <ReactTypingEffect
-            text={response}
-            speed={10}
-            eraseSpeed={1}
-            typingDelay={100}
-            eraseDelay={10000}
-            displayTextRenderer={(text, i) => {
-              return <ReactMarkdown>{text}</ReactMarkdown>
-            }}
-          />
-        )}
+      <h1>Pronova AI Vet Support</h1>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
+        <div className="response" style={{ width: '800px'}}>
+          <ReactMarkdown>{response}</ReactMarkdown>
+        </div>
+        <textarea
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder="Hi, I'm your AI assistant Doug! How can I assist you today?"
+          style={{ width: '300px', height: '100px', marginBottom: '20px', resize: 'none' }}
+        />
+        <button onClick={handleQuery} style={{ marginBottom: '20px'}}>Submit</button>
       </div>
     </div>
   )
