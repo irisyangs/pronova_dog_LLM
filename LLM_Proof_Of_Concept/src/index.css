@@ -72,6 +72,11 @@ div {
 button:hover {
   border-color: #FFF6E5;
 }
+.disabled-button {
+  background-color: #1a1a1a;
+  color: #646cff;
+  cursor: not-allowed;
+}
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
