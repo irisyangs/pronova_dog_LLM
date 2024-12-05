@@ -38,7 +38,7 @@ function App() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Hi, I'm your AI assistant Kora! How can I assist you today?"
-          style={{ width: '300px', height: '100px', marginBottom: '20px', resize: 'none' }}
+          style={{ width: '300px', height: '100px', marginBottom: '20px', resize: 'none', color: 'white'}}
         />
         <button 
           onClick={handleQuery} 
