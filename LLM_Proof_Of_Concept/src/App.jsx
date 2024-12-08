@@ -1,27 +1,33 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import axios from 'axios'
 import ReactMarkdown from 'react-markdown'
 import ReactTypingEffect from 'react-typing-effect'
 import './App.css'
 
 function App() {
-  const [query, setQuery] = useState('')
-  const [response, setResponse] = useState('')
-
-  useEffect(() => {
-  setResponse('')
-}, [])
-
+  const [newQuery, setNewQuery] = useState('')
+  const [queries, setQueries] = useState([])
+  const [contexts, setContexts] = useState([])
+  const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
 
   const handleQuery = async () => {
+    console.log('Queries:', queries, 'Contexts:', contexts, 'Responses:', responses)
     setIsLoading(true)
     try {
-      const res = await axios.post('http://127.0.0.1:5000/query', { query })
-      setResponse(res.data.response)
+      const res = await axios.post('http://127.0.0.1:5000/query', {
+        new_query: newQuery,
+        queries: queries,
+        contexts: contexts,
+        responses: responses
+      })
+      console.log('Response:', res.data)
+      setQueries(res.data.queries)
+      setContexts(res.data.contexts)
+      setResponses(res.data.responses)
+      setNewQuery('')
     } catch (error) {
       console.error('Error querying the LLM:', error)
-      setResponse('Error querying the LLM')
     } finally {
       setIsLoading(false)
     }
@@ -31,23 +37,34 @@ function App() {
     <div className="App">
       <h1>Pronova AI Vet Support</h1>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
-        <div className="response" style={{ width: '800px', maxHeight: '400px', overflowY: 'auto' }}>
-          <ReactMarkdown>{response}</ReactMarkdown>
-        </div>
         <textarea
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Hi, I'm your AI assistant Kora! How can I assist you today?"
-          style={{ width: '300px', height: '100px', marginBottom: '20px', resize: 'none', color: 'white'}}
+          value={newQuery}
+          onChange={(e) => setNewQuery(e.target.value)}
+          placeholder="Enter your query here"
+          style={{ width: '800px', height: '100px', marginBottom: '20px' }}
         />
-        <button 
-          onClick={handleQuery} 
-          style={{ marginBottom: '20px' }} 
-          disabled={isLoading || query.trim() === ''}
-          className={isLoading || query.trim() === '' ? 'disabled-button' : ''}
-        >
-          {isLoading ? 'Loading...' : 'Submit'}
-        </button>
+        <button onClick={handleQuery} disabled={isLoading}>Submit</button>
+        <div className="response" style={{ width: '800px', maxHeight: '400px', overflowY: 'auto', marginTop: '20px' }}>
+          {responses.map((response, index) => (
+            <div key={index} style={{ marginBottom: '20px' }}>
+              <h3>Query:</h3>
+              <ReactMarkdown>{queries[index]}</ReactMarkdown>
+              <h3>Context:</h3>
+              <ReactMarkdown>{contexts[index]}</ReactMarkdown>
+              <h3>Response:</h3>
+              <ReactTypingEffect
+                text={response}
+                speed={50}
+                eraseSpeed={50}
+                typingDelay={100}
+                eraseDelay={10000}
+                displayTextRenderer={(text, i) => {
+                  return <ReactMarkdown>{text}</ReactMarkdown>
+                }}
+              />
+            </div>
+          ))}
+        </div>
       </div>
     </div>
   )
