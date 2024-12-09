@@ -6,20 +6,20 @@ import './App.css'
 
 function App() {
   const [queryField, setQueryField] = useState('')
-  const [newQuery, setNewQuery] = useState('')
   const [queries, setQueries] = useState([])
   const [contexts, setContexts] = useState([])
   const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
 
   const handleQuery = async () => {
-    // console.log('Queries:', queries, 'Contexts:', contexts, 'Responses:', responses)
-    setNewQuery(queryField)
+    console.log('QueryField:', queryField)
+    const currentQuery = queryField
     setQueryField("")
+    console.log('New Query:', currentQuery)
     setIsLoading(true)
     try {
       const res = await axios.post('http://127.0.0.1:5000/query', {
-        new_query: newQuery,
+        new_query: currentQuery,
         queries: queries,
         contexts: contexts,
         responses: responses
@@ -28,7 +28,6 @@ function App() {
       setQueries(res.data.queries)
       setContexts(res.data.contexts)
       setResponses(res.data.responses)
-      setNewQuery('')
     } catch (error) {
       console.error('Error querying the LLM:', error)
     } finally {
