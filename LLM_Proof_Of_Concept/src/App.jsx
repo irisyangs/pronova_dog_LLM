@@ -49,19 +49,8 @@ function App() {
             <div key={index} style={{ marginBottom: '20px' }}>
               <h3>Query:</h3>
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
-              <h3>Context:</h3>
-              <ReactMarkdown>{contexts[index]}</ReactMarkdown>
               <h3>Response:</h3>
-              <ReactTypingEffect
-                text={response}
-                speed={50}
-                eraseSpeed={50}
-                typingDelay={100}
-                eraseDelay={10000}
-                displayTextRenderer={(text, i) => {
-                  return <ReactMarkdown>{text}</ReactMarkdown>
-                }}
-              />
+              <ReactMarkdown>{responses[index]}</ReactMarkdown>
             </div>
           ))}
         </div>
