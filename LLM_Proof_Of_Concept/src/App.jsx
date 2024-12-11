@@ -1,8 +1,9 @@
 import { useState } from 'react'
 import axios from 'axios'
 import ReactMarkdown from 'react-markdown'
-import ReactTypingEffect from 'react-typing-effect'
+// import ReactTypingEffect from 'react-typing-effect'
 import './App.css'
+import { FaArrowCircleUp } from "react-icons/fa";
 
 function App() {
   const [queryField, setQueryField] = useState('')
@@ -44,17 +45,21 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Pronova AI Vet Support</h1>
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
-        <textarea
-          value={queryField}
-          onChange={(e) => setQueryField(e.target.value)}
-          onKeyPress={handleKeyPress}
-          placeholder="Enter your query here"
-          style={{ width: '800px', height: '100px', marginBottom: '20px' }}
-        />
-        <button onClick={handleQuery} disabled={isLoading}>Submit</button>
-        <div className="response" style={{ width: '800px', maxHeight: '400px', overflowY: 'auto', marginTop: '20px' }}>
+       <img src="/Pronova-green-logo.jpg" alt="Pronova Logo" />
+      <h1>AI Vet Support</h1>
+      <div>
+      <div style={{ display: 'flex', alignItems: 'center', height: '70vh'}}>
+      <textarea
+        value={queryField}
+        onChange={(e) => setQueryField(e.target.value)}
+        placeholder="Enter your query here"
+        style={{ width: '800px', height: '100px', marginRight: '5px' }} 
+      />
+      <button onClick={handleQuery} disabled={isLoading} style={{ cursor: 'pointer' }}>
+        <FaArrowCircleUp color = "#29CC96"/>
+      </button>
+    </div>
+        <div className="response" style={{maxHeight: '400px', overflowY: 'auto', marginTop: '20px' }}>
           {responses.map((response, index) => (
             <div key={index} style={{ marginBottom: '20px' }}>
               <h3>Query:</h3>
