@@ -52,15 +52,21 @@ function App() {
       <textarea
         value={queryField}
         onChange={(e) => setQueryField(e.target.value)}
-        placeholder="Enter your query here"
-        style={{ width: '800px', height: '100px', marginRight: '5px' }} 
+        placeholder ="What can I help with today?"
+        style={{ width: '800px', height: '50px', marginRight: '5px' }} 
       />
       <button onClick={handleQuery} disabled={isLoading} style={{ cursor: 'pointer' }}>
-        <FaArrowCircleUp color = "#29CC96"/>
+        <FaArrowCircleUp 
+          style={{
+            color: '#29CC96',   
+            width: '30px',
+            height: '50px',
+          }}
+        />
       </button>
     </div>
         <div className="response" style={{maxHeight: '400px', overflowY: 'auto', marginTop: '20px' }}>
-          {responses.map((response, index) => (
+          {responses.map((index) => (
             <div key={index} style={{ marginBottom: '20px' }}>
               <h3>Query:</h3>
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
