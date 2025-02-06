@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "heroku-postbuild": "cd POC && npm install && npm run build",
+    "heroku-postbuild": "cd LLM_Proof_Of_Concept && npm install && npm run build",
     "start": "vite preview", 
     "dev": "vite",
     "build": "vite build",
