@@ -17,17 +17,45 @@ function App() {
     setQueryField("")
     console.log('New Query:', currentQuery)
     setIsLoading(true)
+    // try {
+    //   // const res = await axios.post('http://127.0.0.1:5000/query', { 
+    //     // const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
+    //     const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
+
+    //     new_query: currentQuery,
+    //     queries: queries,
+    //     contexts: contexts,
+    //     responses: responses
+    //   })
+
     try {
-      const res = await axios.post('http://127.0.0.1:5000/query', {
-        new_query: currentQuery,
-        queries: queries,
-        contexts: contexts,
-        responses: responses
-      })
-      console.log('Response:', res.data)
-      setQueries(res.data.queries)
-      setContexts(res.data.contexts)
-      setResponses(res.data.responses)
+      const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
+        method: 'POST', // Use POST, not GET
+        headers: {
+          'Content-Type': 'application/json', // Set the content type
+        },
+        body: JSON.stringify({
+            new_query: currentQuery,
+            queries: queries,
+            contexts: contexts,
+            responses: responses
+        }),
+      });
+  
+      if (!res.ok) {
+        throw new Error(`HTTP error! Status: ${res.status}`);
+      }
+  
+      const data = await res.json();
+
+      console.log('Response:', data);
+      // setQueries(res.data.queries)
+      // setContexts(res.data.contexts)
+      // setResponses(res.data.responses)
+      setQueries(data.queries || []);
+      setContexts(data.contexts || []);
+      setResponses(data.responses || []);
+
     } catch (error) {
       console.error('Error querying the LLM:', error)
     } finally {
@@ -44,7 +72,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Pronova AI Vet Support</h1>
+      <h1>Pronova AI Vet Support - Pronova ACT</h1>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
         <textarea
           value={queryField}
