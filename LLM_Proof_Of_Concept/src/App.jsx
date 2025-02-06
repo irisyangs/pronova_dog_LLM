@@ -30,7 +30,7 @@ function App() {
 
     try {
       // const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
-        const res = await fetch('https://pronova-llm-1-c672684149ef.herokuapp.com/query', {
+      const res = await fetch('https://pronova-llm-1-c672684149ef.herokuapp.com/query', {
         method: 'POST', // Use POST, not GET
         headers: {
           'Content-Type': 'application/json', // Set the content type
@@ -73,7 +73,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Pronova AI Vet Support - Pronova ACT</h1>
+      <h1>Pronova AI Vet Support - React and New Account</h1>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
         <textarea
           value={queryField}

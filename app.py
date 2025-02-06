@@ -200,7 +200,7 @@ from flask import Flask, send_from_directory, render_template
 
 # app = Flask(__name__)
 
-app = Flask(__name__, static_folder="dist", static_url_path="")
+app = Flask(__name__, static_folder="LLM_Proof_Of_Concept/dist", static_url_path="")
 
 CORS(app)  # This will enable CORS for all routes
 
@@ -226,7 +226,7 @@ def query_llm():
     queries = data.get('queries')
     contexts = data.get('contexts')
     responses = data.get('responses')
-    collection_name = "LLM_PetMD"
+    collection_name = "pronova-start"
     # maybe have a check if the collection name is in Qclient.collections
     
     # if not new_query or not queries or not contexts or not responses:
