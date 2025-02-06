@@ -29,7 +29,8 @@ function App() {
     //   })
 
     try {
-      const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
+      // const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
+        const res = await fetch('https://pronova-llm-1-c672684149ef.herokuapp.com/query', {
         method: 'POST', // Use POST, not GET
         headers: {
           'Content-Type': 'application/json', // Set the content type
