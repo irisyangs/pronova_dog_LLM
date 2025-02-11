@@ -6,4 +6,4 @@ openai
 python-dotenv
 IPython
 gunicorn
-numpy
+# numpy

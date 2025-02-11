@@ -236,8 +236,8 @@ def query_llm():
         return jsonify({
             'queries': updated_queries,
             'contexts': updated_contexts,
-            'responses': updated_responses,
-            'files_used': files_used
+            'responses': updated_responses
+            # 'files_used': files_used
         })
     except Exception as e:
         print("here we go", jsonify({'error': str(e)}), 500)

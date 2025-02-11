@@ -10,7 +10,7 @@ function App() {
   const [contexts, setContexts] = useState([])
   const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
-  const [files_used, setFiles] = useState([])
+  // const [files_used, setFiles] = useState([])
 
 
   const handleQuery = async () => {
@@ -47,8 +47,8 @@ function App() {
       setQueries(data.queries || []);
       setContexts(data.contexts || []);
       setResponses(data.responses || []);
-      setFiles(data.files_used || []);
-      console.log('files:', data.files_used)
+      // setFiles(data.files_used || []);
+      // console.log('files:', data.files_used)
 
     } catch (error) {
       console.error('Error querying the LLM:', error)
@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Pronova AI Vet Support - React and New Account</h1>
+      <h1>Pronova AI Vet Support - Temporarily Down!</h1>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
         <textarea
           value={queryField}
