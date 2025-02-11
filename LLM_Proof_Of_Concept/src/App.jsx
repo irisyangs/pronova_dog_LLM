@@ -10,6 +10,8 @@ function App() {
   const [contexts, setContexts] = useState([])
   const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
+  const [files_used, setFiles] = useState([])
+
 
   const handleQuery = async () => {
     console.log('QueryField:', queryField)
@@ -17,19 +19,8 @@ function App() {
     setQueryField("")
     console.log('New Query:', currentQuery)
     setIsLoading(true)
-    // try {
-    //   // const res = await axios.post('http://127.0.0.1:5000/query', { 
-    //     // const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
-    //     const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
-
-    //     new_query: currentQuery,
-    //     queries: queries,
-    //     contexts: contexts,
-    //     responses: responses
-    //   })
-
+  
     try {
-      // const res = await fetch('https://pronova-easy-b2c3caba503e.herokuapp.com/query', {
       const res = await fetch('https://pronova-llm-1-c672684149ef.herokuapp.com/query', {
         method: 'POST', // Use POST, not GET
         headers: {
@@ -56,6 +47,8 @@ function App() {
       setQueries(data.queries || []);
       setContexts(data.contexts || []);
       setResponses(data.responses || []);
+      setFiles(data.files_used || []);
+      console.log('files:', data.files_used)
 
     } catch (error) {
       console.error('Error querying the LLM:', error)
@@ -90,6 +83,15 @@ function App() {
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
               <h3>Response:</h3>
               <ReactMarkdown>{responses[index]}</ReactMarkdown>
+
+              <h4> Files Used </h4>
+              <ul>
+                {files_used.map((file, index) => (
+                  <li key={index}>{file}</li>
+                ))}
+              </ul>
+            
+
             </div>
           ))}
         </div>

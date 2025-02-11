@@ -133,8 +133,8 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
     # generate context for new query
     context, files = retrieve_relevant_chunks(collection_name, query)
     
-    # unique_files = np.unique(files)
-    #file_rank = file_ratios(files)
+    unique_files = np.unique(files)
+    files_used = file_ratios(unique_files)
     
 
     system_role = "You are a specialized assistant that only provides advice on dog-related veterinary care. If a user asks about any other animal or topic outside of dog health, politely decline to answer and remind them that you only provide information about dogs. You will always start by asking the user their dog's name, age, and breed if they didn't already provide it."
@@ -164,7 +164,7 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
         messages=messages
     )
     all_responses.append(completion.choices[0].message.content)
-    return all_query, all_context, all_responses
+    return all_query, all_context, all_responses, files_used
 
 
 # ### Playground (use this to test querys in the notebook)
@@ -233,11 +233,12 @@ def query_llm():
     #     return jsonify({'error': 'New query, queries, contexts, and responses must be provided'}), 400
 
     try:
-        updated_queries, updated_contexts, updated_responses = generate_response(collection_name, new_query, queries, contexts, responses)
+        updated_queries, updated_contexts, updated_responses, files_used = generate_response(collection_name, new_query, queries, contexts, responses)
         return jsonify({
             'queries': updated_queries,
             'contexts': updated_contexts,
-            'responses': updated_responses
+            'responses': updated_responses,
+            'files_used': files_used
         })
     except Exception as e:
         print("here we go", jsonify({'error': str(e)}), 500)
