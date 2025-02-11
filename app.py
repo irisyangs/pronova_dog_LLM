@@ -142,7 +142,8 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
     # generate context for new query
     context, files = retrieve_relevant_chunks(collection_name, query)
     
-    files_used = np.unique(files)
+    print("Adding new files: ", files)
+    files_used = np.unique(files).tolist()
     # files_used = file_ratios(files_used)
 
     system_role = "You are a specialized assistant that only provides advice on dog-related veterinary care. If a user asks about any other animal or topic outside of dog health, politely decline to answer and remind them that you only provide information about dogs. You will always start by asking the user their dog's name, age, and breed if they didn't already provide it."
@@ -154,6 +155,7 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
     all_context.append(context_text)
     all_files.append(files_used)
 
+    print("All files used now:", all_files)
     # create the messages object using all the queries and contexts
     messages = [{"role": "system", "content": system_role}]
 
