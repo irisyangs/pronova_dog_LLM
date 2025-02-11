@@ -53,6 +53,11 @@ function App() {
       setResponses(data.responses || []);
       setFiles(data.files || []);
       console.log('files:', data.files)
+      const flattenedFiles = data.files.flat();
+      setFiles(flattenedFiles);
+
+
+
 
     } catch (error) {
       console.error('Error querying the LLM:', error)
@@ -94,9 +99,9 @@ function App() {
           {showFiles ? 'Hide Files' : 'Show Files'}
         </button>
         {showFiles && (
-          <div style={{ width: '800px', maxHeight: '200px', overflowY: 'auto', marginTop: '20px' }}>
+          <div style={{ width: '800px', marginTop: '20px' }}>
             <h3>Files Used:</h3>
-            <ul>
+            <ul style={{ listStyleType: 'none', paddingLeft: '0' }}>
               {files.map((file, fileIndex) => (
                 <li key={fileIndex}>
                   <ReactMarkdown>{file}</ReactMarkdown>
