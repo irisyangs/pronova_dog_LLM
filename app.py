@@ -233,15 +233,15 @@ def query_llm():
 
     try:
         updated_queries, updated_contexts, updated_responses, files_used = generate_response(collection_name, new_query, queries, contexts, responses)
-        return jsonify({
+        response_data = {
             'queries': updated_queries,
             'contexts': updated_contexts,
             'responses': updated_responses,
-            'files': files_used
-        })
+            'files': files_used.tolist() if isinstance(files_used, np.ndarray) else files_used
+        }
+        print("Response data:", response_data)
+        return jsonify(response_data)
     except Exception as e:
-        print("here we go", jsonify({'error': str(e)}), 500)
-
         return jsonify({'error': str(e)}), 500
 
 # # if __name__ == '__main__':
