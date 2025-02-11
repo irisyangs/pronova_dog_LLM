@@ -33,7 +33,8 @@ function App() {
             new_query: currentQuery,
             queries: queries,
             contexts: contexts,
-            responses: responses
+            responses: responses,
+            files: files
         }),
       });
       
@@ -86,26 +87,24 @@ function App() {
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
               <h3>Response:</h3>
               <ReactMarkdown>{responses[index]}</ReactMarkdown>
-              
-              <button onClick={() => setShowFiles(!showFiles)}>
-                {showFiles ? 'Hide Files' : 'Show Files'}
-              </button>
-
-              {showFiles && (
-                <div>
-                  <h3>Files Used:</h3>
-                  <ul>
-                    {files.map((file, fileIndex) => (
-                      <li key={fileIndex}>
-                        <ReactMarkdown>{file}</ReactMarkdown>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
             </div>
           ))}
         </div>
+        <button onClick={() => setShowFiles(!showFiles)} style={{ marginTop: '20px' }}>
+          {showFiles ? 'Hide Files' : 'Show Files'}
+        </button>
+        {showFiles && (
+          <div style={{ width: '800px', maxHeight: '200px', overflowY: 'auto', marginTop: '20px' }}>
+            <h3>Files Used:</h3>
+            <ul>
+              {files.map((file, fileIndex) => (
+                <li key={fileIndex}>
+                  <ReactMarkdown>{file}</ReactMarkdown>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
     </div>
   )

@@ -137,7 +137,7 @@ def print_markdown(md_text):
 
 import numpy as np
 
-def generate_response(collection_name, query, all_query, all_context, all_responses):
+def generate_response(collection_name, query, all_query, all_context, all_responses, all_files):
     print("Generating response for query:", query)
     # generate context for new query
     context, files = retrieve_relevant_chunks(collection_name, query)
@@ -152,6 +152,7 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
     # append query and context to the running lists
     all_query.append(query)
     all_context.append(context_text)
+    all_files.append(files_used)
 
     # create the messages object using all the queries and contexts
     messages = [{"role": "system", "content": system_role}]
@@ -172,7 +173,7 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
         messages=messages
     )
     all_responses.append(completion.choices[0].message.content)
-    return all_query, all_context, all_responses, files_used
+    return all_query, all_context, all_responses, all_files
 
 
 # ### Playground (use this to test querys in the notebook)
@@ -234,6 +235,7 @@ def query_llm():
     queries = data.get('queries')
     contexts = data.get('contexts')
     responses = data.get('responses')
+    files = data.get('files')
     collection_name = "pronova-start"
     # maybe have a check if the collection name is in Qclient.collections
     
@@ -241,12 +243,13 @@ def query_llm():
     #     return jsonify({'error': 'New query, queries, contexts, and responses must be provided'}), 400
 
     try:
-        updated_queries, updated_contexts, updated_responses, files_used = generate_response(collection_name, new_query, queries, contexts, responses)
+        updated_queries, updated_contexts, updated_responses, updated_files = generate_response(collection_name, new_query, queries, contexts, responses, files)
+        # print(updated_files)
         response_data = {
             'queries': updated_queries,
             'contexts': updated_contexts,
             'responses': updated_responses,
-            'files': files_used.tolist() if isinstance(files_used, np.ndarray) else files_used
+            'files': updated_files.tolist() if isinstance(updated_files, np.ndarray) else updated_files
         }
         print("Response data:", response_data)
         return jsonify(response_data)
