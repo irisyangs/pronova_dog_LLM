@@ -80,7 +80,8 @@ def get_embedding(text):
 # In[ ]:
 
 
-def retrieve_relevant_chunks(collection_name, query, top_k=10):
+
+def retrieve_relevant_chunks(collection_name, query, top_k=5, threshold=0.80):
     query_embedding = get_embedding(query)
     
     search_result = Qclient.search(
@@ -89,10 +90,18 @@ def retrieve_relevant_chunks(collection_name, query, top_k=10):
         limit=top_k
     )
 
-    contexts = [result.payload["text"] for result in search_result]
-    files = [result.payload.get("source_file") for result in search_result]
+    # Filter results based on threshold
+    filtered_results = [
+        result for result in search_result if result.score >= threshold
+    ]
+    
+    contexts = [result.payload["text"] for result in filtered_results]
+    files = [result.payload.get("source_file") for result in filtered_results]
     
     return contexts, files
+
+
+
 
 
 # ### Rank response source importance (Function) ###

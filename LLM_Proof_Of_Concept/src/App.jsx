@@ -86,6 +86,25 @@ function App() {
               <h3>Response:</h3>
               <ReactMarkdown>{responses[index]}</ReactMarkdown>
              
+              
+              const [showFiles, setShowFiles] = useState(false);
+
+              <button onClick={() => setShowFiles(!showFiles)}>
+                {showFiles ? 'Hide Files' : 'Show Files'}
+              </button>``
+              {showFiles && (
+                <div>
+                  <h3>Files Used:</h3>
+                  <ul>
+                    {files.map((file, fileIndex) => (
+                      <li key={fileIndex}>
+                        <ReactMarkdown>{file}</ReactMarkdown>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              
               <h3>Files Used:</h3>
               <ul>
                 {files.map((file, fileIndex) => (
