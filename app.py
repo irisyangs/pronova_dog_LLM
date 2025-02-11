@@ -133,9 +133,8 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
     # generate context for new query
     context, files = retrieve_relevant_chunks(collection_name, query)
     
-    unique_files = np.unique(files)
-    files_used = file_ratios(unique_files)
-    
+    files_used = np.unique(files)
+    # files_used = file_ratios(files_used)
 
     system_role = "You are a specialized assistant that only provides advice on dog-related veterinary care. If a user asks about any other animal or topic outside of dog health, politely decline to answer and remind them that you only provide information about dogs. You will always start by asking the user their dog's name, age, and breed if they didn't already provide it."
     # Combine retrieved chunks into a single string

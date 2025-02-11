@@ -84,7 +84,8 @@ function App() {
               <h3>Response:</h3>
               <ReactMarkdown>{responses[index]}</ReactMarkdown>
 
-              <h4> Files Used </h4>
+              
+              <h3> Files Used </h3>
               <ul>
                 {files_used.map((file, index) => (
                   <li key={index}>{file}</li>
