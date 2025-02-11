@@ -10,7 +10,9 @@ function App() {
   const [contexts, setContexts] = useState([])
   const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
-  // const [files_used, setFiles] = useState([])
+  const [files, setFiles] = useState([]) // i want files to be an array of strings:
+
+  
 
 
   const handleQuery = async () => {
@@ -47,8 +49,8 @@ function App() {
       setQueries(data.queries || []);
       setContexts(data.contexts || []);
       setResponses(data.responses || []);
-      // setFiles(data.files_used || []);
-      // console.log('files:', data.files_used)
+      setFiles(data.files || []);
+      console.log('files:', data.files)
 
     } catch (error) {
       console.error('Error querying the LLM:', error)
@@ -83,16 +85,15 @@ function App() {
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
               <h3>Response:</h3>
               <ReactMarkdown>{responses[index]}</ReactMarkdown>
-
-              
-              {/* <h3> Files Used </h3>
+             
+              <h3>Files Used:</h3>
               <ul>
-                {files_used.map((file, index) => (
-                  <li key={index}>{file}</li>
+                {files.map((file, fileIndex) => (
+                  <li key={fileIndex}>
+                    <ReactMarkdown>{file}</ReactMarkdown>
+                  </li>
                 ))}
-              </ul> */}
-            
-
+              </ul>
             </div>
           ))}
         </div>
