@@ -11,6 +11,7 @@ function App() {
   const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
   const [files, setFiles] = useState([]) // i want files to be an array of strings:
+  const [showFiles, setShowFiles] = useState(false);
 
   
 
@@ -85,13 +86,11 @@ function App() {
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
               <h3>Response:</h3>
               <ReactMarkdown>{responses[index]}</ReactMarkdown>
-             
               
-              const [showFiles, setShowFiles] = useState(false);
-
               <button onClick={() => setShowFiles(!showFiles)}>
                 {showFiles ? 'Hide Files' : 'Show Files'}
-              </button>``
+              </button>
+
               {showFiles && (
                 <div>
                   <h3>Files Used:</h3>
@@ -104,15 +103,6 @@ function App() {
                   </ul>
                 </div>
               )}
-              
-              <h3>Files Used:</h3>
-              <ul>
-                {files.map((file, fileIndex) => (
-                  <li key={fileIndex}>
-                    <ReactMarkdown>{file}</ReactMarkdown>
-                  </li>
-                ))}
-              </ul>
             </div>
           ))}
         </div>
