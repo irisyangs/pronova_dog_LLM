@@ -3,7 +3,6 @@ import { useState } from 'react'
 import ReactMarkdown from 'react-markdown'
 // import ReactTypingEffect from 'react-typing-effect'
 import './App.css'
-import { FaArrowCircleUp } from "react-icons/fa";
 
 function App() {
   const [queryField, setQueryField] = useState('')
@@ -56,6 +55,10 @@ function App() {
       console.log('files:', data.files)
       const flattenedFiles = data.files.flat();
       setFiles(flattenedFiles);
+
+
+
+
     } catch (error) {
       console.error('Error querying the LLM:', error)
     } finally {
@@ -63,37 +66,27 @@ function App() {
     }
   }
 
-  // const handleKeyPress = (event) => {
-  //   if (event.key === 'Enter') {
-  //     event.preventDefault()
-  //     handleQuery()
-  //   }
-  // }
+  const handleKeyPress = (event) => {
+    if (event.key === 'Enter') {
+      event.preventDefault()
+      handleQuery()
+    }
+  }
 
   return (
     <div className="App">
-       <img src="/Pronova-green-logo.jpg" alt="Pronova Logo" />
-      <h1>AI Vet Support</h1>
-      <div>
-      <div style={{ display: 'flex', alignItems: 'center', height: '70vh'}}>
-      <textarea
-        value={queryField}
-        onChange={(e) => setQueryField(e.target.value)}
-        placeholder ="What can I help with today?"
-        style={{ width: '800px', height: '50px', marginRight: '5px' }} 
-      />
-      <button onClick={handleQuery} disabled={isLoading} style={{ cursor: 'pointer' }}>
-        <FaArrowCircleUp 
-          style={{
-            color: '#29CC96',   
-            width: '30px',
-            height: '50px',
-          }}
+      <h1>Pronova AI Vet Support - Temporarily Down!</h1>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
+        <textarea
+          value={queryField}
+          onChange={(e) => setQueryField(e.target.value)}
+          onKeyPress={handleKeyPress}
+          placeholder="Enter your query here"
+          style={{ width: '800px', height: '100px', marginBottom: '20px' }}
         />
-      </button>
-    </div>
-        <div className="response" style={{maxHeight: '400px', overflowY: 'auto', marginTop: '20px' }}>
-          {responses.map((index) => (
+        <button onClick={handleQuery} disabled={isLoading}>Submit</button>
+        <div className="response" style={{ width: '800px', maxHeight: '400px', overflowY: 'auto', marginTop: '20px' }}>
+          {responses.map((response, index) => (
             <div key={index} style={{ marginBottom: '20px' }}>
               <h3>Query:</h3>
               <ReactMarkdown>{queries[index]}</ReactMarkdown>
