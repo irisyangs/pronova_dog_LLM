@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import axios from 'axios'
+// import axios from 'axios'
 import ReactMarkdown from 'react-markdown'
 // import ReactTypingEffect from 'react-typing-effect'
 import './App.css'
@@ -56,10 +56,6 @@ function App() {
       console.log('files:', data.files)
       const flattenedFiles = data.files.flat();
       setFiles(flattenedFiles);
-
-
-
-
     } catch (error) {
       console.error('Error querying the LLM:', error)
     } finally {
@@ -67,16 +63,15 @@ function App() {
     }
   }
 
-  const handleKeyPress = (event) => {
-    if (event.key === 'Enter') {
-      event.preventDefault()
-      handleQuery()
-    }
-  }
+  // const handleKeyPress = (event) => {
+  //   if (event.key === 'Enter') {
+  //     event.preventDefault()
+  //     handleQuery()
+  //   }
+  // }
 
   return (
     <div className="App">
-<<<<<<< HEAD
        <img src="/Pronova-green-logo.jpg" alt="Pronova Logo" />
       <h1>AI Vet Support</h1>
       <div>
@@ -94,16 +89,6 @@ function App() {
             width: '30px',
             height: '50px',
           }}
-=======
-      <h1>Pronova AI Vet Support - Temporarily Down!</h1>
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
-        <textarea
-          value={queryField}
-          onChange={(e) => setQueryField(e.target.value)}
-          onKeyPress={handleKeyPress}
-          placeholder="Enter your query here"
-          style={{ width: '800px', height: '100px', marginBottom: '20px' }}
->>>>>>> 5d052872b35e67a9baa9aa6783855fd6c37166f3
         />
       </button>
     </div>
