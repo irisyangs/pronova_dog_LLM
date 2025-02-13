@@ -11,6 +11,11 @@ function App() {
   const [contexts, setContexts] = useState([])
   const [responses, setResponses] = useState([])
   const [isLoading, setIsLoading] = useState(false)
+  const [files, setFiles] = useState([]) // i want files to be an array of strings:
+  const [showFiles, setShowFiles] = useState(false);
+
+  
+
 
   const handleQuery = async () => {
     console.log('QueryField:', queryField)
@@ -18,17 +23,43 @@ function App() {
     setQueryField("")
     console.log('New Query:', currentQuery)
     setIsLoading(true)
+  
     try {
-      const res = await axios.post('http://127.0.0.1:5000/query', {
-        new_query: currentQuery,
-        queries: queries,
-        contexts: contexts,
-        responses: responses
-      })
-      console.log('Response:', res.data)
-      setQueries(res.data.queries)
-      setContexts(res.data.contexts)
-      setResponses(res.data.responses)
+      const res = await fetch('https://pronova-llm-1-c672684149ef.herokuapp.com/query', {
+        method: 'POST', // Use POST, not GET
+        headers: {
+          'Content-Type': 'application/json', // Set the content type
+        },
+        body: JSON.stringify({
+            new_query: currentQuery,
+            queries: queries,
+            contexts: contexts,
+            responses: responses,
+            files: files
+        }),
+      });
+      
+      if (!res.ok) {
+        throw new Error(`HTTP error! Status: ${res.status}`);
+      }
+  
+      const data = await res.json();
+
+      console.log('Response:', data);
+      // setQueries(res.data.queries)
+      // setContexts(res.data.contexts)
+      // setResponses(res.data.responses)
+      setQueries(data.queries || []);
+      setContexts(data.contexts || []);
+      setResponses(data.responses || []);
+      setFiles(data.files || []);
+      console.log('files:', data.files)
+      const flattenedFiles = data.files.flat();
+      setFiles(flattenedFiles);
+
+
+
+
     } catch (error) {
       console.error('Error querying the LLM:', error)
     } finally {
@@ -45,6 +76,7 @@ function App() {
 
   return (
     <div className="App">
+<<<<<<< HEAD
        <img src="/Pronova-green-logo.jpg" alt="Pronova Logo" />
       <h1>AI Vet Support</h1>
       <div>
@@ -62,6 +94,16 @@ function App() {
             width: '30px',
             height: '50px',
           }}
+=======
+      <h1>Pronova AI Vet Support - Temporarily Down!</h1>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
+        <textarea
+          value={queryField}
+          onChange={(e) => setQueryField(e.target.value)}
+          onKeyPress={handleKeyPress}
+          placeholder="Enter your query here"
+          style={{ width: '800px', height: '100px', marginBottom: '20px' }}
+>>>>>>> 5d052872b35e67a9baa9aa6783855fd6c37166f3
         />
       </button>
     </div>
@@ -75,6 +117,21 @@ function App() {
             </div>
           ))}
         </div>
+        <button onClick={() => setShowFiles(!showFiles)} style={{ marginTop: '20px' }}>
+          {showFiles ? 'Hide Files' : 'Show Files'}
+        </button>
+        {showFiles && (
+          <div style={{ width: '800px', marginTop: '20px' }}>
+            <h3>Files Used:</h3>
+            <ul style={{ listStyleType: 'none', paddingLeft: '0' }}>
+              {files.map((file, fileIndex) => (
+                <li key={fileIndex}>
+                  <ReactMarkdown>{file}</ReactMarkdown>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
     </div>
   )

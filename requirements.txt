@@ -1,0 +1,9 @@
+flask
+Flask
+flask-cors
+qdrant-client
+openai
+python-dotenv
+IPython
+gunicorn
+numpy
