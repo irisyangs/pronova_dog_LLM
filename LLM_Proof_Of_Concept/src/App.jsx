@@ -75,7 +75,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Pronova AI Vet Support - Temporarily Down!</h1>
+      <h1>Pronova AI Vet Support - Adjustments in Progess!</h1>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', height: '70vh' }}>
         <textarea
           value={queryField}

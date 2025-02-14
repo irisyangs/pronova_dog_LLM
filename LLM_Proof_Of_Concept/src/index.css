@@ -1,5 +1,5 @@
 :root {
-  font-family: Sofia Sans, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -33,15 +33,16 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  font-family: 'Sofia Sans';
-  color: #29CC96;
 }
 
 button {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
-  background-color: #7FFFD4;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -53,22 +54,21 @@ textarea {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #7FFFD4;
+  background-color: #1a1a1a;
   transition: border-color 0.25s;
-  color: #FFAC33;
-  overflow: auto;
+  color: #FFF6E5;
 }
 div {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #FFF6E5;
+  background-color: #26a379;
 }
 .response {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  color: #7FFFD4;
+  color: #FFF6E5;
 }
 button:hover {
   border-color: #FFF6E5;
