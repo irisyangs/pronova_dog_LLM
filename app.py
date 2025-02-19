@@ -11,10 +11,9 @@
 
 # Load require libraries
 import os
-from qdrant_client import QdrantClient
-from qdrant_client.http import models
-from openai import OpenAI
-from dotenv import load_dotenv
+from qdrant_client import QdrantClient # type: ignore
+from openai import OpenAI # type: ignore
+from dotenv import load_dotenv # type: ignore
 from IPython.display import Markdown, display
 
 # Load environment variables from .env file
@@ -201,7 +200,7 @@ def generate_response(collection_name, query, all_query, all_context, all_respon
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from flask import Flask, send_from_directory, render_template
+from flask import Flask, send_from_directory
 
 
 

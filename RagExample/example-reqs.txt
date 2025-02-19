@@ -1,5 +1,0 @@
-qdrant_client
-openai
-python-dotenv
-
-# run pip install -r example-reqs.txt to install all necessary libraries

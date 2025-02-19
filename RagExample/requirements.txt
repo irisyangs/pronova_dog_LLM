@@ -1,6 +1,0 @@
-qdrant_client
-openai
-python-dotenv
-flask
-jsonify
-flask_cors
