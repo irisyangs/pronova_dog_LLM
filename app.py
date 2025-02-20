@@ -238,7 +238,9 @@ def query_llm():
     responses = data.get('responses')
     files = data.get('files')
     # collection_name = "pronova-start"
-    collection_name = "pronova-petMD"
+    # collection_name = "pronova-petMD"
+    collection_name = "FullModel"
+
     # maybe have a check if the collection name is in Qclient.collections
     
     # if not new_query or not queries or not contexts or not responses:
