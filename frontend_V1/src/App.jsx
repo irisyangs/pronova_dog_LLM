@@ -1,6 +1,6 @@
 import { useState } from "react";
 import axios from 'axios';
-import { Box, Input, Button, VStack, HStack, Stack, Text } from "@chakra-ui/react";
+import { Box, Input, Button, VStack, HStack, Stack, Text, Heading } from "@chakra-ui/react";
 import ResponseBubble from './components/ResponseBubble';
 import Sidebar from './components/Sidebar';
 import QueryBox from './components/QueryBox';
@@ -99,12 +99,20 @@ const Chatbot = () => {
                         ))}
                     </Box>
                 )}
-                <Stack display="flex" justifyContent="center">
+                {/* <Stack display="flex" justifyContent="center">
                     <Box background="blue" color="black">How Can I Help You Today?</Box>
                     <Box>
                         <QueryBox onQuerySubmit={handleSend} />
                     </Box>
-                </Stack>
+                </Stack> */}
+
+                {/* Input and Send Button */}
+                <VStack gap="30px">
+                  <Heading color="black" size="4xl">How can I help you today?</Heading>
+
+                  <QueryBox onQuerySubmit={handleSend} />
+
+                </VStack>
             </Box>
         </Box>
     );
