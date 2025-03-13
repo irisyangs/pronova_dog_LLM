@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+from selenium import webdriver
 import json
 import os
 
@@ -13,19 +14,25 @@ def extract_text_from_url(url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # topic
-        topic_h1 = soup.find('h1', class_='entry-title')
-        topic = topic_h1.get_text() if topic_h1 else 'Unknown'
-
-        div_content = soup.find('div', class_='content')
+        # main page content
+        div_content = soup.find('div', class_='page-content')
         content = div_content.get_text() if div_content else 'Unknown'
 
-        #author
-        try:
-            author_div = soup.find('div', class_='author_little_little_author_content__eXAgS')
-            author = author_div.find('a').get_text() if author_div else 'Unknown'
+        # link
+        containers_with_links = soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "div"])
+        links = [container.a['href'] for container in containers_with_links if container.a]
 
-        
+        # scraping links
+        for link in links:
+            response = requests.get(link, headers=headers)
+            soup_link = BeautifulSoup(response.text, 'html.parser')
+            
+
+
+
+
+
+extract_text_from_url("pronovapets.com")
 
 
 
