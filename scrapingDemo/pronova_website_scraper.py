@@ -53,7 +53,7 @@ def extract_text_from_url(url):
 
 
 
-print(extract_text_from_url("https://pronovapets.com?"))
+print(extract_text_from_url("https://pronovapets.com"))
 
 
 
