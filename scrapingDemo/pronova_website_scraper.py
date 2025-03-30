@@ -26,9 +26,22 @@ def extract_text_from_url(url):
         for link in links:
             response = requests.get(link, headers=headers)
             soup_link = BeautifulSoup(response.text, 'html.parser')
+
+        # scraping footer 
+
+        div_footer = soup.find('div', class_= "elementor elementor-134")
+        footer = div_footer.get_text() if div_footer else 'Unknown'
+        
+        return content, soup_link, footer
+    else: 
+        return f"Failed to retrieve the webpage. Status code: {response.status_code}"
+
+def save_content():
+    return None
+
+
+
             
-
-
 
 
 
