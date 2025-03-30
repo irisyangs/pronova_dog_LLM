@@ -36,8 +36,16 @@ def extract_text_from_url(url):
     else: 
         return f"Failed to retrieve the webpage. Status code: {response.status_code}"
 
-def save_content():
-    return None
+# def save_content(url):
+#     content, link, footer = extract_text_from_url(url)
+
+#     file_name = 
+
+#     os.makedirs('Pronova_files', exist_ok=True)
+
+#     filepath = os.path.join('Pronova_files', )
+#     with open(filepath, 'w', encoding='utf-8') as file:
+#         file.write(content)
 
 
 
@@ -45,7 +53,7 @@ def save_content():
 
 
 
-extract_text_from_url("pronovapets.com")
+print(extract_text_from_url("https://pronovapets.com?"))
 
 
 
