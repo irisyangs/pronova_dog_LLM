@@ -15,44 +15,45 @@ def extract_text_from_url(url):
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # header
-        header = soup.find('header') or soup.find('nav', class_='wpr-mobile-nav-menu-container')
+        results = []
 
-        if header:
-            header_links = header.find_all('a')
+        # if header:
+        links = soup.find_all('a')
 
-            for link in header_links:
-                href = link.get('href')
-                text = link.get_text(strip=True)
+        for link in links:
+            href = link.get('href')
+            text = link.get_text(strip=True)
 
-                if href:
-                    div_content = soup.find('div', class_='page-content')
-                    content = div_content.get_text() if div_content else 'Unknown'
+            if not href:
+                continue
 
-                    if href.startswith('tel:'):
-                        phone_number = href.replace('tel:', '').strip()
-                        print(f"Found phone number: {phone_number}")
+            if href.startswith('tel:'):
+                phone_number = href.replace('tel:', '').strip()
+                # print(f"Found phone number: {phone_number}")
                     
-                    elif href.startswith('mailto:'):
-                        email = href.replace('mailto:', '').strip()
-                        print(f"Found email: {email}")
+            elif href.startswith('mailto:'):
+                email = href.replace('mailto:', '').strip()
+                    # print(f"Found email: {email}")
                     
-                    elif href.startswith('http') or href.startswith('/'):
-                        full_url = urljoin(url, href)
-                        print(f"Scraping: {text} -> {full_url}")
+            elif href.startswith('http') or href.startswith('/'):
+                full_url = urljoin(url, href)
+                    # print(f"Scraping: {text} -> {full_url}")
 
-                        try:
-                            page = requests.get(full_url, headers=headers)
-                            page_soup = BeautifulSoup(page.text, "html.parser")
-                            soup_link = page_soup.title.string if page_soup.title else 'No Title'
-                            print(f"Page Title: {soup_link}")
-                        except Exception as e:
-                            print(f"Failed to scrape {full_url}: {e}")
+                try:
+                    page = requests.get(full_url, headers=headers)
+                    page_soup = BeautifulSoup(page.text, "html.parser")
+                    soup_link = page_soup.title.string.strip() if page_soup.title else 'No Title'
+                    page_text = page_soup.get_text(separator="\n", strip=True)
+
+                    results.append({
+                        'url': full_url,
+                        'title': soup_link,
+                        'content': page_text
+                    })
+                except Exception as e:
+                    print(f"Failed to scrape {full_url}: {e}")
                     
-                    else:
-                        print(f"Skipping non-web link: {href}")
-        
-        # main page content
+
         div_content = soup.find('div', class_='page-content')
         content = div_content.get_text() if div_content else 'Unknown'
 
@@ -60,40 +61,39 @@ def extract_text_from_url(url):
         div_footer = soup.find('div', class_="elementor elementor-134")
         footer = div_footer.get_text() if div_footer else 'Unknown'
         
-        return content, soup_link, footer
+        return content, results, footer
     else:
         return f"Failed to retrieve the webpage. Status code: {response.status_code}"
 
-def save_content(url):
-    content, link, footer = extract_text_from_url(url)
+# def save_content(url):
+#     content, results, footer = extract_text_from_url(url)
 
-    print(link)
+#     map_results = {}
 
-    file_name = link
+#     os.makedirs('Pronova_files', exist_ok=True)
 
-    os.makedirs('Pronova_files', exist_ok=True)
+#     filepath = os.path.join(os.path.join('Pronova_files', 'home_page.txt'), 'w', encoding='utf-8') as file:
+#     with open(filepath, 'w', encoding='utf-8') as file:
+#         file.write(content)
 
-    filepath = os.path.join('Pronova_files', file_name)
-    with open(filepath, 'w', encoding='utf-8') as file:
-        file.write(content)
+#     map_results['home_page.txt'] = {
+#         "link": url,
+#         "title": "Home Page"
+#     }
 
-    entry = {
-        "Link": link
-    }
-
-    json_filename = 'pronova_files.json'
-    if os.path.exists(json_filename):
-        with open(json_filename, 'r+', encoding='utf-8') as json_file:
-            try:
-                data = json.load(json_file)
-            except json.JSONDecodeError:
-                data = {}
-            data[file_name] = entry
-            json_file.seek(0)
-            json.dump(data, json_file, indent=4)
-    else:
-        with open(json_filename, 'w', encoding='utf-8') as json_file:
-            json.dump({file_name: entry}, json_file, indent=4)
+#     json_filename = 'pronova_files.json'
+#     if os.path.exists(json_filename):
+#         with open(json_filename, 'r+', encoding='utf-8') as json_file:
+#             try:
+#                 data = json.load(json_file)
+#             except json.JSONDecodeError:
+#                 data = {}
+#             data[file_name] = entry
+#             json_file.seek(0)
+#             json.dump(data, json_file, indent=4)
+#     else:
+#         with open(json_filename, 'w', encoding='utf-8') as json_file:
+#             json.dump({file_name: entry}, json_file, indent=4)
 
 
 # def extract_hrefs_from_divs(url):
@@ -111,9 +111,8 @@ def save_content(url):
 #     else:
 #         return f"Failed to retrieve the webpage. Status code: {response.status_code}"
 
-
-save_content("https://pronovapets.com")
-# save_content("https://pronovapets.com/about-us/")
+output = extract_text_from_url("https://pronovapets.com")
+# extract_text_from_url("https://pronovapets.com/about-us/")
 # save_content("https://pronovapets.com/the-kora-strip/")
 # save_content("https://pronovapets.com/health-insights/")
 # save_content("https://pronovapets.com/subscriptions/")
@@ -123,6 +122,16 @@ save_content("https://pronovapets.com")
 # save_content("https://pronovapets.com/faqs/")
 # save_content("https://pronovapets.com/waitlist/")
 
+content, results, footer = output
 
+data = {
+    "main_content": content,
+    "links": results,
+    "footer": footer
+}
 
-    
+# construct the path to the file
+file_path = os.path.join("Pronova_files", "pronova_output.json")
+
+with open(file_path, "w", encoding="utf-8") as f:
+    json.dump(data, f, indent=4, ensure_ascii=False)
