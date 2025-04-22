@@ -16,6 +16,7 @@ def extract_text_from_url(url):
         soup = BeautifulSoup(response.text, 'html.parser')
         
         results = []
+        seen_urls = set()
 
         # if header:
         links = soup.find_all('a')
@@ -38,6 +39,11 @@ def extract_text_from_url(url):
             elif href.startswith('http') or href.startswith('/'):
                 full_url = urljoin(url, href)
                     # print(f"Scraping: {text} -> {full_url}")
+
+                if full_url in seen_urls:
+                    continue    # skip duplicates
+
+                seen_urls.add(full_url)
 
                 try:
                     page = requests.get(full_url, headers=headers)
@@ -130,8 +136,33 @@ data = {
     "footer": footer
 }
 
+# create folder if it doesn't exist
+os.makedirs("Pronova_files", exist_ok=True)
+
 # construct the path to the file
 file_path = os.path.join("Pronova_files", "pronova_output.json")
 
 with open(file_path, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
+
+# define subfolder path inside Pronova_files
+subfolder = os.path.join("Pronova_files", "pages")
+os.makedirs(subfolder, exist_ok=True)  # create subfolder if it doesn't exist
+
+# save each result as a separate .txt file inside the subfolder
+for result in results:
+    title = result.get('title', 'Untitled Page').strip()
+    
+    # clean filename: remove characters that are not allowed in file names
+    safe_title = "".join(c for c in title if c.isalnum() or c in (" ", "_", "-")).rstrip()
+    filename = safe_title[:100] + ".txt"  # limit filename length
+    file_path = os.path.join(subfolder, filename)
+    
+    try:
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(result['content'])
+        print(f"Saved file: {filename}")
+    except Exception as e:
+        print(f"Failed to save {filename}: {e}")
+
+
