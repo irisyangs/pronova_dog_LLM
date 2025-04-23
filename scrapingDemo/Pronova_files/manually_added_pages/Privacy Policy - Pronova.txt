@@ -1,0 +1,66 @@
+Privacy Policy for PRONOVA App and Website
+Effective Date: [Insert Date]
+At PRONOVA, your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app, website, and services. By using our services, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+App Users
+When you use the PRONOVA app, we may collect and store the following Personally Identifiable Information (PII):
+Name
+Email address
+Additionally, we collect and store pet-related information, which is not directly linked to your identity, such as:
+Pet’s ID
+Weight
+Breed
+Medical history
+Gender
+Website Users
+When you purchase a subscription or interact with the PRONOVA website, we may collect additional PII for billing and subscription management purposes, including:
+Name
+Email address
+Shipping address
+Payment method (processed securely via 3rd party secure payment platform)
+Billing information (as provided to 3rd party secure payment platform)
+We do not store your credit card details directly; 3rd party secure payment platform securely processes all payments in compliance with industry standards.
+
+2. How We Use Your Information
+We use the information we collect to:
+Provide and maintain our app and services.
+Process payments and manage subscriptions.
+Communicate with you regarding your account, subscriptions, and service updates.
+Analyze anonymized pet health trends to improve our products and services.
+
+3. Information Retention
+Retained Information After Account Deletion
+If you choose to delete your account, PRONOVA will retain non-personally identifiable pet-related information to support research, product development, and service improvements. This retained information includes:
+Pet’s ID
+Weight
+Breed
+Medical history
+Gender
+We do not retain your name, email address, or any billing information after account deletion.
+
+4. Sharing Your Information
+We do not sell, rent, or trade your information to third parties. However, we may share your information with trusted third-party services for the following purposes:
+Payment processing (3rd party secure payment platform).
+Data storage and management.
+Legal compliance or if required by law.
+All third-party services we engage adhere to strict privacy and security standards.
+
+5. Data Security
+We implement industry-standard security measures to protect your information. These measures include encryption, secure data storage, and regular security audits. While we strive to protect your personal data, no method of transmission over the internet or electronic storage is 100% secure.
+
+6. Your Privacy Rights
+You have the right to:
+Access the information we store about you.
+Update or correct inaccuracies in your information.
+Request deletion of your account and associated PII.
+Delete your account and associated PII.
+For requests related to your data, please contact us at privacy@pronovapets.com
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be communicated through our app and website, and the updated policy will include a revised effective date.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy or your data, please contact us at:
+Email: privacy@pronovapets.com
+By using the PRONOVA app and website, you consent to this Privacy Policy.

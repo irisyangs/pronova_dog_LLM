@@ -1,0 +1,80 @@
+Frequently Asked Questions
+General & Discovery
+1. What makes PRONOVA different from other pet health products?
+PRONOVA focuses on proactive and preventative pet care, providing real-time biomarker data rather than just activity levels or passive monitoring. Our Kora Strip system gives pet owners actionable insights to stay ahead of potential health problems.
+2. Is this an at-home product or mail-in kit?
+This is an at-home product! We have taken the technology used in lab and miniaturised it so you can be the scientist at home!
+3. How do I find out more about PRONOVA’s science and research?
+Our website features blog articles, case studies, and scientific overviews explaining the technology behind biosensors. You’ll also find tutorial videos and references to ongoing studies.
+Website & Subscription
+4. What subscription plans do you offer?
+· Quarterly:
+$40 per test
+· Monthly:
+$35 per test
+· Weekly:
+$25 per test
+Each plan includes a supply of Kora Strips delivered to your home at the chosen frequency, plus access to the PRONOVA app.
+5. Can I switch my subscription plan later?
+Yes! You can switch your plan (e.g., from Quarterly to Monthly) by visiting your account on the PRONOVA website. Changes will apply to your next billing cycle.
+6. Can I buy Kora Strips without a subscription?
+No, as you will need to purchase the analysor to be able to run test. Single-purchase addons options are available after you activate your PRONOVA account by purchasing a subscription.
+Account Creation & Checkout
+7. What information do I need to create an account?
+We only require your name, email address, and shipping address. Payment details are handled by Stripe during checkout, ensuring secure transactions.
+8. Do you support Google or social media logins?
+Not at the moment. You’ll need to create a standalone PRONOVA account using your email address.
+9. Is my payment information stored on your servers?
+No. Payment data is encrypted and processed by Stripe, a secure third-party payment gateway.
+Shipping & Packaging
+10. How fast is shipping, and how will I know my order is on the way?
+We offer 2-day shipping for most orders. Once your package ships, you’ll receive an email with a tracking number to monitor its progress.
+11. Why do the Kora Strips need to go in the freezer immediately?
+Our biosensor technology is temperature-sensitive. Keeping the strips frozen until use ensures optimal accuracy and performance. Don’t panic if you aren’t home when the Kora Strips are delivered, they can wait a while. As soon as you can, take out the Kora Strip insert so they can sit nicely in your freezer!
+12. What comes in the Kora Strip box?
+· Kora Reader Device (batteries not included)
+· Kora Strips (that require freezing upon delivery)
+· Swabs, syringes and buffer tubes (a set of each for every Kora Strip you order)
+· Quick Start Guide with detailed instructions
+13. Does the Analyser need batteries?
+Yes, you will need 4x AA batteries, which are not included.
+App & Onboarding
+14. How do I set up the PRONOVA app?
+a. Download the app from the App Store or Google Play.
+b. Log in using your PRONOVA credentials.
+c. Follow the onboarding tutorial, which walks you through device setup, testing, and interpreting results.
+15. What types of notifications does the app send?
+You’ll receive push notifications reminding you when it’s time to test, along with updates on new features or product recommendations (in future releases).
+16. Can I share my dog’s results with my vet through the app?
+Yes! You will be able to share your test results in a PDF format that can be shared with your vet.
+Testing Process
+17. How do I collect saliva properly?
+Use the provided swab to gently swab the inside of your dog’s mouth for about 30 seconds on each side (60 seconds total). The app offers a quick visual guide if you need help.
+18. Do I need to clean the device after each test?
+There is no cleaning requirement for the device because it’s not liquid-proof and shouldn’t come into contact with liquids. Keep the connector and device area dry and dust-free to maintain accuracy.
+19. What if something goes wrong during testing?
+You can always email our support team at support@pronovapets.com. If a Strip is damaged or the reader won’t initialize, we’ll help resolve the issue quickly.
+Test Results & Biomarker Data
+20. What is the Wellness Score?
+After each test, the app calculates a Wellness Score (out of 100%) that reflects your dog’s overall health status based on the six measured biomarkers. This is a high-level summary of how well your pup is doing!
+21. What do the biomarker ranges mean?
+· Healthy Range:
+Minimal risk; results are within normal limits.
+· Moderate Range:
+Some caution recommended; consider re-testing or monitoring closely.
+· Sick Range:
+Indicates a higher risk of potential health issues; consult your vet for further evaluation.
+22. Can I customize the thresholds or alerts?
+Not yet. We plan to personalize the biomarker thresholds based on your dog’s baseline history. Currently, the ranges are based on general canine data.
+Subscription Management & Additional Purchases
+23. How do I pause, cancel, or change my subscription?
+All subscription changes (like switching tiers, pausing, or cancelling) can be managed through your online account on the PRONOVA website.
+24. Can I buy more Kora Strips if I run out before my next shipment?
+Yes! Simply log in to your account on the website to purchase additional Strips. The process is separate from your subscription order but uses the same shipping address on file.
+Customer Support
+25. What if I need to talk to someone?
+We offer email support for any questions or technical issues. Our team typically responds within 24–48 hours.
+26. Is there an FAQ or help center for quick answers?
+Yes, this FAQ and an extended help center are available on our website. We continue to update these resources as we receive more user feedback.
+27. What if I have a problem with my device or an order?
+Email us at support@pronovapets.com with your order number and issue details. We’ll coordinate replacements, refunds, or further troubleshooting steps.

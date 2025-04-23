@@ -1,0 +1,14 @@
+My Account
+Login
+Sign Up
+Remember me
+Forgot Password?
+Sign in
+I accept the
+Terms of Service
+and
+Privacy Policy
+.
+Sign Up
+Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.
+Email Reset Link
