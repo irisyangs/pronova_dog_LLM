@@ -51,6 +51,10 @@ function App() {
       setQueries(data.queries || []);
       setContexts(data.contexts || []);
       setResponses(data.responses || []);
+      const newFiles = [...new Set(data.files.flat())];
+      setFiles(newFiles);
+
+
       setFiles(data.files || []);
       console.log('files:', data.files)
       const flattenedFiles = data.files.flat();
